@@ -1,0 +1,302 @@
+[
+	{
+		"name": "Andrew Chen",
+		"company": "Uber",
+		"numberOfEmployees": "41,080"
+	},
+	{
+		"name": "Oli Gardner",
+		"company": "Unbounce",
+		"numberOfEmployees": "176"
+	},
+	{
+		"name": "Hana Abaza",
+		"company": "Shopify Plus",
+		"numberOfEmployees": "293"
+	},
+	{
+		"name": "Hiten Shah",
+		"company": "Quick Sprout",
+		"numberOfEmployees": "297"
+	},
+	{
+		"name": "Cat Lee",
+		"company": "Pinterest",
+		"numberOfEmployees": "1,932"
+	},
+	{
+		"name": "Larry Kim",
+		"company": "Mobile Monkey",
+		"numberOfEmployees": "20"
+	},
+	{
+		"name": "Rachel Hepworth",
+		"company": "Slack",
+		"numberOfEmployees": "1,012"
+	},
+	{
+		"name": "Ed Baker",
+		"company": "Change.org",
+		"numberOfEmployees": "234"
+	},
+	{
+		"name": "Brant Cooper",
+		"company": "Moves the Needle",
+		"numberOfEmployees": null
+	},
+	{
+		"name": "Sujan Patel",
+		"company": "Web Profits",
+		"numberOfEmployees": "86"
+	},
+	{
+		"name": "Menaka Shroff",
+		"company": "Google",
+		"numberOfEmployees": "123,768"
+	},
+	{
+		"name": "Jeff Titterton",
+		"company": "Zendesk",
+		"numberOfEmployees": "2,145"
+	},
+	{
+		"name": "Marissa Chacko",
+		"company": "Foursquare",
+		"numberOfEmployees": "449"
+	},
+	{
+		"name": "Sean Ellis",
+		"company": "GrowthHackers.com",
+		"numberOfEmployees": "16"
+	},
+	{
+		"name": "Brittany Bingham",
+		"company": "SurveyMonkey",
+		"numberOfEmployees": "812"
+	},
+	{
+		"name": "Siqi Chen",
+		"company": "Postmates",
+		"numberOfEmployees": "2,363"
+	},
+	{
+		"name": "Casey Winters",
+		"company": "Greylock Partners",
+		"numberOfEmployees": "112"
+	},
+	{
+		"name": "Krista Seiden",
+		"company": "Google",
+		"numberOfEmployees": "123,768"
+	},
+	{
+		"name": "Brian Rothenberg",
+		"company": "Eventbrite",
+		"numberOfEmployees": "823"
+	},
+	{
+		"name": "Ada Chen Rekhi",
+		"company": "Notejoy",
+		"numberOfEmployees": "2"
+	},
+	{
+		"name": "Nathan Latka",
+		"company": "TheTopInbox.com",
+		"numberOfEmployees": "14,491"
+	},
+	{
+		"name": "Brandon Redlinger",
+		"company": "Engagio",
+		"numberOfEmployees": "56"
+	},
+	{
+		"name": "Michelle Killebrew",
+		"company": "Nomiku",
+		"numberOfEmployees": "20"
+	},
+	{
+		"name": "Melinda Byerley",
+		"company": "Timeshare CMO",
+		"numberOfEmployees": "4"
+	},
+	{
+		"name": "Martijn Scheijbeler",
+		"company": "Postmates",
+		"numberOfEmployees": "2,363"
+	},
+	{
+		"name": "Anne Fleshman",
+		"company": "Autopilot HQ",
+		"numberOfEmployees": "58"
+	},
+	{
+		"name": "Dennis Yu",
+		"company": "Blitzmetrics",
+		"numberOfEmployees": "43"
+	},
+	{
+		"name": "Heather Dopson",
+		"company": "GoDaddy",
+		"numberOfEmployees": "5,358"
+	},
+	{
+		"name": "Ryan Kulp",
+		"company": "Fomo",
+		"numberOfEmployees": "69"
+	},
+	{
+		"name": "Reid Tatoris",
+		"company": "Distil Networks",
+		"numberOfEmployees": "146"
+	},
+	{
+		"name": "Brianne Kimmel",
+		"company": "Zendesk",
+		"numberOfEmployees": "2,145"
+	},
+	{
+		"name": "Jim Szafranski",
+		"company": "Prezi",
+		"numberOfEmployees": "406"
+	},
+	{
+		"name": "Dan McGaw",
+		"company": "Effin Amazing",
+		"numberOfEmployees": "11"
+	},
+	{
+		"name": "Valentin Radu",
+		"company": "Omniconvert",
+		"numberOfEmployees": "35"
+	},
+	{
+		"name": "Shawn Hansen",
+		"company": "Heap",
+		"numberOfEmployees": "1,132"
+	},
+	{
+		"name": "Conrad Wadowski",
+		"company": "Ops.tv",
+		"numberOfEmployees": "9"
+	},
+	{
+		"name": "Mada Seghete",
+		"company": "Branch",
+		"numberOfEmployees": "235"
+	},
+	{
+		"name": "Samuel Devyver",
+		"company": "Upcall",
+		"numberOfEmployees": "4"
+	},
+	{
+		"name": "Lloyed Lobo",
+		"company": "Boast Capital",
+		"numberOfEmployees": "19"
+	},
+	{
+		"name": "Kimberly Barnes",
+		"company": "ContentPark",
+		"numberOfEmployees": "5"
+	},
+	{
+		"name": "Dmitry Dragilev",
+		"company": "JustReachOut.io",
+		"numberOfEmployees": "118"
+	},
+	{
+		"name": "Matt Roe",
+		"company": "Heap",
+		"numberOfEmployees": "1,132"
+	},
+	{
+		"name": "Heidi Yu",
+		"company": "Boostinsider",
+		"numberOfEmployees": "24"
+	},
+	{
+		"name": "Conor Lee",
+		"company": "HipLead",
+		"numberOfEmployees": "10"
+	},
+	{
+		"name": "Max Lytvyn",
+		"company": "Grammarly",
+		"numberOfEmployees": "162"
+	},
+	{
+		"name": "Shelly Kramer",
+		"company": "V3 Broadsuite",
+		"numberOfEmployees": "17"
+	},
+	{
+		"name": "Kumar Thangudu",
+		"company": "LInkTexting",
+		"numberOfEmployees": "4"
+	},
+	{
+		"name": "Barron Ernst",
+		"company": "ShowMax",
+		"numberOfEmployees": "200"
+	},
+	{
+		"name": "Maryna Hradovich",
+		"company": "SEMrush",
+		"numberOfEmployees": "414"
+	},
+	{
+		"name": "Shawn Elledge",
+		"company": "Integrated Marketing Association",
+		"numberOfEmployees": "3"
+	},
+	{
+		"name": "Jesse Pujji",
+		"company": "Ampush",
+		"numberOfEmployees": "103"
+	},
+	{
+		"name": "Michelle Kim",
+		"company": "Amplitude Analytics",
+		"numberOfEmployees": "124"
+	},
+	{
+		"name": "Joe Sanchis",
+		"company": "Queue",
+		"numberOfEmployees": "71"
+	},
+	{
+		"name": "Clayton Wood",
+		"company": "IdentityLabs",
+		"numberOfEmployees": "employee"
+	},
+	{
+		"name": "Jay Adams",
+		"company": "Makesbridge ",
+		"numberOfEmployees": "18"
+	},
+	{
+		"name": "Prabhjot Singh",
+		"company": "Pyze Inc.",
+		"numberOfEmployees": "331"
+	},
+	{
+		"name": "Roy Morejon",
+		"company": "Enventys Partners",
+		"numberOfEmployees": "5"
+	},
+	{
+		"name": "Brian Goffman",
+		"company": "McKinsey &amp; Company",
+		"numberOfEmployees": "25,670"
+	},
+	{
+		"name": "David Spark",
+		"company": " Spark Media Solutions",
+		"numberOfEmployees": "3"
+	},
+	{
+		"name": "Derric Haynie",
+		"company": "Vulpine Interactive",
+		"numberOfEmployees": "5"
+	}
+]

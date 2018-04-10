@@ -1,0 +1,50 @@
+[
+	{
+		"ad_advertisers": "0",
+		"ad_num": "0",
+		"ad_publishers": "0",
+		"blinks_domains": "37",
+		"blinks_ips": "37",
+		"blinks_num": "107",
+		"domain": "zensurance.com",
+		"org_cost": "$37",
+		"org_kw": "50",
+		"org_num": "11",
+		"org_rank": "6.9M",
+		"sem_cost": "$2",
+		"sem_kw": "21",
+		"sem_num": "3"
+	},
+	{
+		"ad_advertisers": "0",
+		"ad_num": "0",
+		"ad_publishers": "0",
+		"blinks_domains": "743",
+		"blinks_ips": "941",
+		"blinks_num": "16.2K",
+		"domain": "tophat.com",
+		"org_cost": "$87.6K",
+		"org_kw": "17.1K",
+		"org_num": "122K",
+		"org_rank": "14.1K",
+		"sem_cost": "$116",
+		"sem_kw": "70",
+		"sem_num": "57"
+	},
+	{
+		"ad_advertisers": "0",
+		"ad_num": "0",
+		"ad_publishers": "0",
+		"blinks_domains": "217",
+		"blinks_ips": "240",
+		"blinks_num": "1.3K",
+		"domain": "league.com",
+		"org_cost": "$303",
+		"org_kw": "427",
+		"org_num": "561",
+		"org_rank": "973K",
+		"sem_cost": "$0",
+		"sem_kw": "25",
+		"sem_num": "10"
+	}
+]

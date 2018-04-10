@@ -1,0 +1,5036 @@
+[
+	{
+		"domain": "mindbridge.ai",
+		"index": 0,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 1,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 2,
+		"org_cost": "$221",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "venturehub.se/",
+		"index": 3,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 4,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "net-a-porter.com",
+		"index": 5,
+		"org_cost": "$903K",
+		"sem_cost": "$10.8K"
+	},
+	{
+		"domain": "demacmedia.com",
+		"index": 6,
+		"org_cost": "$9.2K",
+		"sem_cost": "$58"
+	},
+	{
+		"domain": "",
+		"index": 7,
+		"org_cost": "$718",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "steriprocanada.com",
+		"index": 8,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 9,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tineye.com",
+		"index": 10,
+		"org_cost": "$424K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mjs.capital",
+		"index": 11,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "insureye.com",
+		"index": 12,
+		"org_cost": "$40.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 13,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 14,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 15,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "infoq.com",
+		"index": 16,
+		"org_cost": "$145K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 17,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "MarcoRossiRealty.com",
+		"index": 18,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 19,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 20,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 21,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stratfordmanagers.com",
+		"index": 22,
+		"org_cost": "$110",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "espressocapital.com",
+		"index": 23,
+		"org_cost": "$222",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hive.org",
+		"index": 24,
+		"org_cost": "$121",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rideco.com",
+		"index": 25,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nvolv.co",
+		"index": 26,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "receptiviti.ai",
+		"index": 27,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 28,
+		"org_cost": "$3.0K",
+		"sem_cost": "$13"
+	},
+	{
+		"domain": "streetcontxt.com",
+		"index": 29,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tunnelbear.com",
+		"index": 30,
+		"org_cost": "$53.0K",
+		"sem_cost": "$2.6K"
+	},
+	{
+		"domain": "joist.com",
+		"index": 31,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 32,
+		"org_cost": "$80.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "lowestrates.ca",
+		"index": 33,
+		"org_cost": "$51.2K",
+		"sem_cost": "$20"
+	},
+	{
+		"domain": "shoplocket.com",
+		"index": 34,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "planet4it.com",
+		"index": 35,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "delphia.com",
+		"index": 36,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "atomicreach.com",
+		"index": 37,
+		"org_cost": "$359",
+		"sem_cost": "$20.2K"
+	},
+	{
+		"domain": "clickside.com/",
+		"index": 38,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "ideal.com",
+		"index": 39,
+		"org_cost": "$79.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rocketlaunchmarketing.com",
+		"index": 40,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "forbestechcouncil.com",
+		"index": 41,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 42,
+		"org_cost": "$6.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 43,
+		"org_cost": "$144",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 44,
+		"org_cost": "$76",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zesty.ai/",
+		"index": 45,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "mbassett.com",
+		"index": 46,
+		"org_cost": "$74",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 47,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hubba.com",
+		"index": 48,
+		"org_cost": "$3.1K",
+		"sem_cost": "$752"
+	},
+	{
+		"domain": "",
+		"index": 49,
+		"org_cost": "$6.7K",
+		"sem_cost": "$195"
+	},
+	{
+		"domain": "",
+		"index": 50,
+		"org_cost": "$32",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 51,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "keenconsulting.com",
+		"index": 52,
+		"org_cost": "$11",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nudgerewards.com",
+		"index": 53,
+		"org_cost": "$227",
+		"sem_cost": "$155"
+	},
+	{
+		"domain": "fortay.co",
+		"index": 54,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "chestnutpark.com",
+		"index": 55,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "indus.ai",
+		"index": 56,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "infieldclipboard.com",
+		"index": 57,
+		"org_cost": "$1",
+		"sem_cost": "$1.2K"
+	},
+	{
+		"domain": "",
+		"index": 58,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 59,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "mortgagemanagement.ca",
+		"index": 60,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "borrowell.com",
+		"index": 61,
+		"org_cost": "$2.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "alterspark.com",
+		"index": 62,
+		"org_cost": "$0",
+		"sem_cost": "$64"
+	},
+	{
+		"domain": "verve.ai",
+		"index": 63,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 64,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wbwassociates.com",
+		"index": 65,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 66,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 67,
+		"org_cost": "$10.3K",
+		"sem_cost": "$12"
+	},
+	{
+		"domain": "bizairlines.com",
+		"index": 68,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "traked.wordpress.com",
+		"index": 69,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 70,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rayvn.global",
+		"index": 71,
+		"org_cost": "$20",
+		"sem_cost": "$110"
+	},
+	{
+		"domain": "concord.org",
+		"index": 72,
+		"org_cost": "$14.1K",
+		"sem_cost": "$45.0K"
+	},
+	{
+		"domain": "flowventures.com",
+		"index": 73,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 74,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 75,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "logdna.com",
+		"index": 76,
+		"org_cost": "$910",
+		"sem_cost": "$243"
+	},
+	{
+		"domain": "futurpreneur.ca",
+		"index": 77,
+		"org_cost": "$3.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fastdial.ca",
+		"index": 78,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "greatdanecoffee.com",
+		"index": 79,
+		"org_cost": "$55",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hostaway.com",
+		"index": 80,
+		"org_cost": "$378",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "modea.com",
+		"index": 81,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "crowdbabble.com",
+		"index": 82,
+		"org_cost": "$2.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "kornferry.com",
+		"index": 83,
+		"org_cost": "$144K",
+		"sem_cost": "$3.2K"
+	},
+	{
+		"domain": "founderscircle.com",
+		"index": 84,
+		"org_cost": "$200",
+		"sem_cost": "$22"
+	},
+	{
+		"domain": "kineticcommerce.com",
+		"index": 85,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "plooto.com",
+		"index": 86,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "knowledgehook.com",
+		"index": 87,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "swiftlabs.com",
+		"index": 88,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "candid.io",
+		"index": 89,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mansfieldinc.com",
+		"index": 90,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "groovehq.com",
+		"index": 91,
+		"org_cost": "$120K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 92,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 93,
+		"org_cost": "$5.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rbc.com",
+		"index": 94,
+		"org_cost": "$56.0K",
+		"sem_cost": "$74"
+	},
+	{
+		"domain": "capillus.com",
+		"index": 95,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "earnwithdrop.com",
+		"index": 96,
+		"org_cost": "$3.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mka-world.com",
+		"index": 97,
+		"org_cost": "$16",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theignitionco.com",
+		"index": 98,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shopify.com",
+		"index": 99,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "giftagram.app",
+		"index": 100,
+		"org_cost": "$2.8K",
+		"sem_cost": "$236K"
+	},
+	{
+		"domain": "flixel.com",
+		"index": 101,
+		"org_cost": "$18.9K",
+		"sem_cost": "$618"
+	},
+	{
+		"domain": "gptt.ir",
+		"index": 102,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "logdna.com",
+		"index": 103,
+		"org_cost": "$910",
+		"sem_cost": "$243"
+	},
+	{
+		"domain": "flixel.com",
+		"index": 104,
+		"org_cost": "$18.9K",
+		"sem_cost": "$618"
+	},
+	{
+		"domain": "spoonity.com",
+		"index": 105,
+		"org_cost": "$849",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "katalyst-fitness.com",
+		"index": 106,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 107,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "getamity.com",
+		"index": 108,
+		"org_cost": "$1.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "portable-intelligence.com",
+		"index": 109,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "roserocket.com",
+		"index": 110,
+		"org_cost": "$1.9K",
+		"sem_cost": "$2.5K"
+	},
+	{
+		"domain": "pwlawyers.ca",
+		"index": 111,
+		"org_cost": "$108",
+		"sem_cost": "$12"
+	},
+	{
+		"domain": "worldlifestyle.com",
+		"index": 112,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hubba.com",
+		"index": 113,
+		"org_cost": "$3.1K",
+		"sem_cost": "$752"
+	},
+	{
+		"domain": "cartierwomensinitiative.com",
+		"index": 114,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "byuagency.com",
+		"index": 115,
+		"org_cost": "$71",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "emerge-commerce.com",
+		"index": 116,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "PhotoButler.com",
+		"index": 117,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thinkprotection.com",
+		"index": 118,
+		"org_cost": "$16.0K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "opencare.com",
+		"index": 119,
+		"org_cost": "$59.4K",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "uken.com",
+		"index": 120,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "perceptiveio.com",
+		"index": 121,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "postbeyond.com",
+		"index": 122,
+		"org_cost": "$1.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "evokesolutions.com",
+		"index": 123,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "brainardstrategy.com",
+		"index": 124,
+		"org_cost": "$54",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "newton.se",
+		"index": 125,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "firmcapital.com",
+		"index": 126,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "qoints.com",
+		"index": 127,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "redmantech.com",
+		"index": 128,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 129,
+		"org_cost": "$165",
+		"sem_cost": "$3"
+	},
+	{
+		"domain": "",
+		"index": 130,
+		"org_cost": "$14",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "Macromator.com",
+		"index": 131,
+		"org_cost": "$523",
+		"sem_cost": "$331"
+	},
+	{
+		"domain": "coaching4results.com",
+		"index": 132,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "promoter.io",
+		"index": 133,
+		"org_cost": "$9.3K",
+		"sem_cost": "$10.5K"
+	},
+	{
+		"domain": "expa.com",
+		"index": 134,
+		"org_cost": "$102",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "loopio.com",
+		"index": 135,
+		"org_cost": "$3.1K",
+		"sem_cost": "$1.2K"
+	},
+	{
+		"domain": "NowCreativeGroup.com",
+		"index": 136,
+		"org_cost": "$13",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "planswell.com",
+		"index": 137,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 138,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "nanoleaf.me",
+		"index": 139,
+		"org_cost": "$14.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "exactmedia.io",
+		"index": 140,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "startupchile.org",
+		"index": 141,
+		"org_cost": "$2.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "strellson.com",
+		"index": 142,
+		"org_cost": "$398",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "mars.com",
+		"index": 143,
+		"org_cost": "$121K",
+		"sem_cost": "$70"
+	},
+	{
+		"domain": "plasticitylabs.com",
+		"index": 144,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smashblock.com",
+		"index": 145,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "actoapp.com",
+		"index": 146,
+		"org_cost": "$0",
+		"sem_cost": "$13"
+	},
+	{
+		"domain": "",
+		"index": 147,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fishandsoda.com",
+		"index": 148,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "watserv.com",
+		"index": 149,
+		"org_cost": "$51",
+		"sem_cost": "$18.7K"
+	},
+	{
+		"domain": "leadonance.com",
+		"index": 150,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sourcing",
+		"index": 151,
+		"org_cost": "$55",
+		"sem_cost": "$44"
+	},
+	{
+		"domain": "",
+		"index": 152,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 153,
+		"org_cost": "$99",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "lift.co",
+		"index": 154,
+		"org_cost": "$3.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "bartels-global.com",
+		"index": 155,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "pilatiandassociates.com",
+		"index": 156,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cubiclefugitive.com",
+		"index": 157,
+		"org_cost": "$105",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "braininstitute.ca",
+		"index": 158,
+		"org_cost": "$548",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 159,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 160,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "allenpartners.com",
+		"index": 161,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 162,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "inAWE.com",
+		"index": 163,
+		"org_cost": "$22",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "madanirings.com",
+		"index": 164,
+		"org_cost": "$287",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 165,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fundthrough.com",
+		"index": 166,
+		"org_cost": "$167",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "redeo.com",
+		"index": 167,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 168,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "SteelHouse.com",
+		"index": 169,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zebrarobotics.com",
+		"index": 170,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "dbdintelligence.ca/",
+		"index": 171,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "cornerstonemarketing.ca",
+		"index": 172,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "condos.ca",
+		"index": 173,
+		"org_cost": "$8.8K",
+		"sem_cost": "$24"
+	},
+	{
+		"domain": "vmgcinematic.com",
+		"index": 174,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "creativesounds.nl",
+		"index": 175,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "buzzbuzzhome.com",
+		"index": 176,
+		"org_cost": "$75.2K",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "theica.ca/",
+		"index": 177,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "blockchainresearchinstitute.org",
+		"index": 178,
+		"org_cost": "$416",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "worldgaming.com",
+		"index": 179,
+		"org_cost": "$14.7K",
+		"sem_cost": "$10.1K"
+	},
+	{
+		"domain": "bytoseo.com",
+		"index": 180,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "snapsuite.io",
+		"index": 181,
+		"org_cost": "$6",
+		"sem_cost": "$53"
+	},
+	{
+		"domain": "divacup.com",
+		"index": 182,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "joist.com",
+		"index": 183,
+		"org_cost": "$92.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "scotiabank.com",
+		"index": 184,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "salestalentagency.com",
+		"index": 185,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "unikron.com",
+		"index": 186,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "businessinsider.com",
+		"index": 187,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "pressly.com",
+		"index": 188,
+		"org_cost": "$85",
+		"sem_cost": "$27"
+	},
+	{
+		"domain": "southerncompany.com",
+		"index": 189,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "Ratehub.ca",
+		"index": 190,
+		"org_cost": "$74.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "takeasec.co",
+		"index": 191,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "i-prorealty.com",
+		"index": 192,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "formswift.com",
+		"index": 193,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "johnmattone.com",
+		"index": 194,
+		"org_cost": "$382",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 195,
+		"org_cost": "$14",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cubecities.com",
+		"index": 196,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "intellitix.com",
+		"index": 197,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "MailLift.com",
+		"index": 198,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "mentorworks.ca",
+		"index": 199,
+		"org_cost": "$409",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "braininstitute.ca",
+		"index": 200,
+		"org_cost": "$548",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "coachestrainingroom.com",
+		"index": 201,
+		"org_cost": "$1.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "forma.ai",
+		"index": 202,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "eightyeightagency.com",
+		"index": 203,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "venturelab.ca",
+		"index": 204,
+		"org_cost": "$12",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theksociety.com",
+		"index": 205,
+		"org_cost": "$108",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "avanceservices.com",
+		"index": 206,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 207,
+		"org_cost": "$1.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "parka.ca",
+		"index": 208,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "careers",
+		"index": 209,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "alarmforce.com",
+		"index": 210,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "bridlepathrealty.ca",
+		"index": 211,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 212,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "roverparking.com",
+		"index": 213,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "g2i.info",
+		"index": 214,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 215,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 216,
+		"org_cost": "$14",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nascentdigital.com",
+		"index": 217,
+		"org_cost": "$79",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "carrot.co",
+		"index": 218,
+		"org_cost": "$20",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cgen.com",
+		"index": 219,
+		"org_cost": "$226",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wewherego.com",
+		"index": 220,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "connectedlab.com",
+		"index": 221,
+		"org_cost": "$3.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wsiworld.com",
+		"index": 222,
+		"org_cost": "$7.9K",
+		"sem_cost": "$649"
+	},
+	{
+		"domain": "torontostarts.com",
+		"index": 223,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "influitive.com",
+		"index": 224,
+		"org_cost": "$36.7K",
+		"sem_cost": "$206"
+	},
+	{
+		"domain": "HighlineBeta.com",
+		"index": 225,
+		"org_cost": "$242",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "empirebolt.com",
+		"index": 226,
+		"org_cost": "$65",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "telmetrics.com",
+		"index": 227,
+		"org_cost": "$834",
+		"sem_cost": "$784"
+	},
+	{
+		"domain": "intelex.com",
+		"index": 228,
+		"org_cost": "$22.9K",
+		"sem_cost": "$10.1K"
+	},
+	{
+		"domain": "bt4lcoachingacademy.com",
+		"index": 229,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hotspex.com",
+		"index": 230,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "jkconsulting.biz",
+		"index": 231,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "youxventures.com",
+		"index": 232,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ca.havas.com",
+		"index": 233,
+		"org_cost": "$22.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "testlauncher.com",
+		"index": 234,
+		"org_cost": "$15",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hubdoc.com",
+		"index": 235,
+		"org_cost": "$6.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theleadershipcircle.com",
+		"index": 236,
+		"org_cost": "$21",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 237,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "venbridge.com",
+		"index": 238,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "proximiteam.com",
+		"index": 239,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 240,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 241,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 242,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 243,
+		"org_cost": "$202",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "erplain.com",
+		"index": 244,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "carwash.org",
+		"index": 245,
+		"org_cost": "$4.9K",
+		"sem_cost": "$280"
+	},
+	{
+		"domain": "markevans.ca",
+		"index": 246,
+		"org_cost": "$6",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "TheRedPin.com",
+		"index": 247,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "toi.io",
+		"index": 248,
+		"org_cost": "$2.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "bain.com",
+		"index": 249,
+		"org_cost": "$562K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "",
+		"index": 250,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 251,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "scribd.com",
+		"index": 252,
+		"org_cost": "$982K",
+		"sem_cost": "$8.0K"
+	},
+	{
+		"domain": "zoom.ai",
+		"index": 253,
+		"org_cost": "$129",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 254,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "peekapak.com",
+		"index": 255,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "structur3d.io",
+		"index": 256,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "hubdoc.com",
+		"index": 257,
+		"org_cost": "$6.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "disneycareers.com",
+		"index": 258,
+		"org_cost": "$477K",
+		"sem_cost": "$9.4K"
+	},
+	{
+		"domain": "edynamic.net",
+		"index": 259,
+		"org_cost": "$774",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rocketinterview.com",
+		"index": 260,
+		"org_cost": "$0",
+		"sem_cost": "$207"
+	},
+	{
+		"domain": "chartattack.com",
+		"index": 261,
+		"org_cost": "$805",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 262,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wpup.co",
+		"index": 263,
+		"org_cost": "$24",
+		"sem_cost": "$3"
+	},
+	{
+		"domain": "chatterresearch.com",
+		"index": 264,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "dementiaknowledgebroker.ca",
+		"index": 265,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 266,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stericycle.com",
+		"index": 267,
+		"org_cost": "$152K",
+		"sem_cost": "$22.7K"
+	},
+	{
+		"domain": "tribalscale.com",
+		"index": 268,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "needls.com",
+		"index": 269,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 270,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "boomlabs.ai",
+		"index": 271,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "quizlet.com",
+		"index": 272,
+		"org_cost": "$14.1M",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "movesnap.com",
+		"index": 273,
+		"org_cost": "$315",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "maryrezek.com",
+		"index": 274,
+		"org_cost": "$19",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "incitebusiness.com",
+		"index": 275,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 276,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "relayventures.com",
+		"index": 277,
+		"org_cost": "$49",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "axonify.com",
+		"index": 278,
+		"org_cost": "$23.1K",
+		"sem_cost": "$844"
+	},
+	{
+		"domain": "marketfuze.com",
+		"index": 279,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fizzle.co",
+		"index": 280,
+		"org_cost": "$35.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "SuperchargeYou.com",
+		"index": 281,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "events.com",
+		"index": 282,
+		"org_cost": "$2.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "simonerealty.com",
+		"index": 283,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "medstack.co",
+		"index": 284,
+		"org_cost": "$883",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sparktoro.com",
+		"index": 285,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "conciergeplus.com",
+		"index": 286,
+		"org_cost": "$329",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "influicity.com",
+		"index": 287,
+		"org_cost": "$146",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "agilitycms.com",
+		"index": 288,
+		"org_cost": "$469",
+		"sem_cost": "$1.1K"
+	},
+	{
+		"domain": "",
+		"index": 289,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 290,
+		"org_cost": "$412",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "joshgibson.com",
+		"index": 291,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "alternative-sourcing.fr",
+		"index": 292,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 293,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 294,
+		"org_cost": "$59",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 295,
+		"org_cost": "$335",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "EventMobi.com",
+		"index": 296,
+		"org_cost": "$30.3K",
+		"sem_cost": "$1.9K"
+	},
+	{
+		"domain": "",
+		"index": 297,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "commerzbank.com",
+		"index": 298,
+		"org_cost": "$7.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "1821.ca",
+		"index": 299,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "League.com",
+		"index": 300,
+		"org_cost": "$434",
+		"sem_cost": "$7"
+	},
+	{
+		"domain": "printchomp.com",
+		"index": 301,
+		"org_cost": "$253",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "emmalarkins.com",
+		"index": 302,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "influencerinc.co",
+		"index": 303,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "juleshowardwright.com",
+		"index": 304,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "kognitiv.com",
+		"index": 305,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "CareGuide.com",
+		"index": 306,
+		"org_cost": "$2.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "afore.vc",
+		"index": 307,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "chiefoutsiders.com",
+		"index": 308,
+		"org_cost": "$35.1K",
+		"sem_cost": "$3.3K"
+	},
+	{
+		"domain": "",
+		"index": 309,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "elementai.com",
+		"index": 310,
+		"org_cost": "$386",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 311,
+		"org_cost": "$6.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "parachuteexecutivecoaching.com",
+		"index": 312,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "business",
+		"index": 313,
+		"org_cost": "$340",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "medreleaf.com",
+		"index": 314,
+		"org_cost": "$731",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 315,
+		"org_cost": "$25.3K",
+		"sem_cost": "$1.4K"
+	},
+	{
+		"domain": "torontolife.com",
+		"index": 316,
+		"org_cost": "$80.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "FutureDesignSchool.com",
+		"index": 317,
+		"org_cost": "$52",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "accounthq.com",
+		"index": 318,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mitulagroup.com",
+		"index": 319,
+		"org_cost": "$43",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wattpad.com",
+		"index": 320,
+		"org_cost": "$5.7M",
+		"sem_cost": "$198"
+	},
+	{
+		"domain": "frac.tl",
+		"index": 321,
+		"org_cost": "$998",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "surepathcapital.com",
+		"index": 322,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "launchlife.ca",
+		"index": 323,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "wisecatmedia.com",
+		"index": 324,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ideonmedia.com",
+		"index": 325,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tribalscale.com",
+		"index": 326,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nextcanada.com",
+		"index": 327,
+		"org_cost": "$17",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "3cscoaching.com",
+		"index": 328,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "foundpeople.ca",
+		"index": 329,
+		"org_cost": "$116",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 330,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "suv.vc",
+		"index": 331,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thomascase.com.br",
+		"index": 332,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "winmagic.com",
+		"index": 333,
+		"org_cost": "$2.9K",
+		"sem_cost": "$924"
+	},
+	{
+		"domain": "livingMBA.com",
+		"index": 334,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 335,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 336,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "homigo.com",
+		"index": 337,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "digi-notice.com",
+		"index": 338,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 339,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ptaginc.com",
+		"index": 340,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "AutoReimbursement.com",
+		"index": 341,
+		"org_cost": "$91",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zensurance.com",
+		"index": 342,
+		"org_cost": "$170",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "zesty.ai/",
+		"index": 343,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 344,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "quantius.ca",
+		"index": 345,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sherpacrm.com",
+		"index": 346,
+		"org_cost": "$10.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "forbescoachescouncil.com",
+		"index": 347,
+		"org_cost": "$703",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 348,
+		"org_cost": "$2.7K",
+		"sem_cost": "$326"
+	},
+	{
+		"domain": "movethedial.ca",
+		"index": 349,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "coachleigh.com",
+		"index": 350,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "recruitmyfriends.com",
+		"index": 351,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ward.ventures",
+		"index": 352,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "financeit.io",
+		"index": 353,
+		"org_cost": "$2.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "dpcLAW.ca",
+		"index": 354,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 355,
+		"org_cost": "$380K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "franklincovey.is",
+		"index": 356,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "pacaoffice.org",
+		"index": 357,
+		"org_cost": "$33",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nielsen.com",
+		"index": 358,
+		"org_cost": "$183K",
+		"sem_cost": "$3.4K"
+	},
+	{
+		"domain": "athenabrand.com",
+		"index": 359,
+		"org_cost": "$35",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hausbots.com",
+		"index": 360,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "homestars.com",
+		"index": 361,
+		"org_cost": "$43.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "senso.ai",
+		"index": 362,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "slateam.com",
+		"index": 363,
+		"org_cost": "$31",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 364,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "brainmustard.com",
+		"index": 365,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "StrategicDB.com",
+		"index": 366,
+		"org_cost": "$38",
+		"sem_cost": "$4.4K"
+	},
+	{
+		"domain": "twg-esr.com",
+		"index": 367,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thetopflooragency.co.uk",
+		"index": 368,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "deepsubconscious.com",
+		"index": 369,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mitulagroup.com",
+		"index": 370,
+		"org_cost": "$43",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "huru.io",
+		"index": 371,
+		"org_cost": "$31",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "leading-edge.co",
+		"index": 372,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 373,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 374,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "nextcanada.com",
+		"index": 375,
+		"org_cost": "$17",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 376,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "groupbyinc.com",
+		"index": 377,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 378,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "goodculture.com",
+		"index": 379,
+		"org_cost": "$3.7K",
+		"sem_cost": "$80"
+	},
+	{
+		"domain": "",
+		"index": 380,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 381,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "financeit.io",
+		"index": 382,
+		"org_cost": "$2.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "pressednews.com",
+		"index": 383,
+		"org_cost": "$1.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "designdrop.io",
+		"index": 384,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 385,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "ybSuf",
+		"index": 386,
+		"org_cost": "$139",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "foodea.com",
+		"index": 387,
+		"org_cost": "$9",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "betterup.co",
+		"index": 388,
+		"org_cost": "$8.6K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "jolera.com",
+		"index": 389,
+		"org_cost": "$269",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 390,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 391,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "clear-cut.co.il",
+		"index": 392,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rubikloud.ai",
+		"index": 393,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 394,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 395,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 396,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 397,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 398,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 399,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "belgrovecapital.com",
+		"index": 400,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 401,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "frac.tl",
+		"index": 402,
+		"org_cost": "$998",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mohandes.com",
+		"index": 403,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 404,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 405,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 406,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 407,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "waveapps.com",
+		"index": 408,
+		"org_cost": "$532K",
+		"sem_cost": "$51.9K"
+	},
+	{
+		"domain": "",
+		"index": 409,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 410,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 411,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 412,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 413,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 414,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 415,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 416,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 417,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 418,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 419,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 420,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 421,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "phinklifeinstitute.com",
+		"index": 422,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "chargespot.com",
+		"index": 423,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 424,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "intelex.com",
+		"index": 425,
+		"org_cost": "$22.9K",
+		"sem_cost": "$10.1K"
+	},
+	{
+		"domain": "tapwealth.com",
+		"index": 426,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "icondigital.com",
+		"index": 427,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "AudienceSecurity.com",
+		"index": 428,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "indiegogo.com",
+		"index": 429,
+		"org_cost": "$966K",
+		"sem_cost": "$56.7K"
+	},
+	{
+		"domain": "",
+		"index": 430,
+		"org_cost": "$14.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 431,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 432,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "4finance.com",
+		"index": 433,
+		"org_cost": "$11",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "clickminded.com",
+		"index": 434,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 435,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "simply-laundry.com",
+		"index": 436,
+		"org_cost": "$47",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cortado.com",
+		"index": 437,
+		"org_cost": "$921",
+		"sem_cost": "$5.9K"
+	},
+	{
+		"domain": "TheRedPin.com",
+		"index": 438,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "TheRedPin.com",
+		"index": 439,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "accsoft.ca",
+		"index": 440,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "maropost.com",
+		"index": 441,
+		"org_cost": "$29.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "revealvalue.com",
+		"index": 442,
+		"org_cost": "$80",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "eventualmillionaire.com",
+		"index": 443,
+		"org_cost": "$12.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "pageonepower.com",
+		"index": 444,
+		"org_cost": "$28.9K",
+		"sem_cost": "$14"
+	},
+	{
+		"domain": "",
+		"index": 445,
+		"org_cost": "$142K",
+		"sem_cost": "$15.2K"
+	},
+	{
+		"domain": "dotcombase.com",
+		"index": 446,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "ca",
+		"index": 447,
+		"org_cost": "$263",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "",
+		"index": 448,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 449,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 450,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 451,
+		"org_cost": "$14",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "demacmedia.com",
+		"index": 452,
+		"org_cost": "$9.2K",
+		"sem_cost": "$58"
+	},
+	{
+		"domain": "ybSuf",
+		"index": 453,
+		"org_cost": "$139",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "insidercondoclub.com",
+		"index": 454,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "news.everynation.org",
+		"index": 455,
+		"org_cost": "$1.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "plazaventures.ca",
+		"index": 456,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ybSuf",
+		"index": 457,
+		"org_cost": "$139",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "imediadesigns.ca",
+		"index": 458,
+		"org_cost": "$72",
+		"sem_cost": "$229"
+	},
+	{
+		"domain": "ehook.co",
+		"index": 459,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "abraaj.com",
+		"index": 460,
+		"org_cost": "$457",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "connectedlab.com",
+		"index": 461,
+		"org_cost": "$3.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "creditgenie.co",
+		"index": 462,
+		"org_cost": "$74",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "DomusFinancial.com",
+		"index": 463,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 464,
+		"org_cost": "$24",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "woodbinemedicalcentre.com",
+		"index": 465,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sphereishere.com",
+		"index": 466,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 467,
+		"org_cost": "$228",
+		"sem_cost": "$3.9K"
+	},
+	{
+		"domain": "tirgan.ca",
+		"index": 468,
+		"org_cost": "$180",
+		"sem_cost": "$2.0K"
+	},
+	{
+		"domain": "MantellaVP.com",
+		"index": 469,
+		"org_cost": "$29",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "TheAssuredBoutique.com",
+		"index": 470,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 471,
+		"org_cost": "$10.1K",
+		"sem_cost": "$51"
+	},
+	{
+		"domain": "getketty.com",
+		"index": 472,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 473,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "fi.co",
+		"index": 474,
+		"org_cost": "$9.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "axonify.com",
+		"index": 475,
+		"org_cost": "$23.1K",
+		"sem_cost": "$844"
+	},
+	{
+		"domain": "freshii.com",
+		"index": 476,
+		"org_cost": "$130K",
+		"sem_cost": "$35"
+	},
+	{
+		"domain": "",
+		"index": 477,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "purplearchventures.com",
+		"index": 478,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "TheRedPin.com",
+		"index": 479,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "navarik.com",
+		"index": 480,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 481,
+		"org_cost": "$59.9K",
+		"sem_cost": "$600"
+	},
+	{
+		"domain": "canadalearningcode.ca",
+		"index": 482,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "propertyportalaccelerators.com",
+		"index": 483,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "marketingargyll.co.uk",
+		"index": 484,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 485,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 486,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "gsnh.com",
+		"index": 487,
+		"org_cost": "$42",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tfnrealty.com",
+		"index": 488,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "healthtap.com",
+		"index": 489,
+		"org_cost": "$264K",
+		"sem_cost": "$6.9K"
+	},
+	{
+		"domain": "orangebazooka.com",
+		"index": 490,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 491,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "kitchenmate.com",
+		"index": 492,
+		"org_cost": "$75",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "EventMobi.com",
+		"index": 493,
+		"org_cost": "$30.3K",
+		"sem_cost": "$1.9K"
+	},
+	{
+		"domain": "",
+		"index": 494,
+		"org_cost": "$225K",
+		"sem_cost": "$4.0K"
+	},
+	{
+		"domain": "zesty.ai/",
+		"index": 495,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "marsdd.com",
+		"index": 496,
+		"org_cost": "$83.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thatfranchisegroup.com",
+		"index": 497,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wealthsimple.com",
+		"index": 498,
+		"org_cost": "$38.6K",
+		"sem_cost": "$28.4K"
+	},
+	{
+		"domain": "substack.com",
+		"index": 499,
+		"org_cost": "$393",
+		"sem_cost": "$7"
+	},
+	{
+		"domain": "ThisSpaceWorks.com",
+		"index": 500,
+		"org_cost": "$164",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "moneykey.com",
+		"index": 501,
+		"org_cost": "$173K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mapleleafangels.com",
+		"index": 502,
+		"org_cost": "$139",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fi.co",
+		"index": 503,
+		"org_cost": "$9.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rightrecruit.ca",
+		"index": 504,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vectorinstitute.ai",
+		"index": 505,
+		"org_cost": "$63",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "TheRedPin.com",
+		"index": 506,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "belgrovecapital.com",
+		"index": 507,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 508,
+		"org_cost": "$69",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 509,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "upsidefoundation.ca",
+		"index": 510,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 511,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "alkemi.ai",
+		"index": 512,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "ShiftPosts.com",
+		"index": 513,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 514,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "surepathcapital.com",
+		"index": 515,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ellisclarke.com",
+		"index": 516,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 517,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "repable.com",
+		"index": 518,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nextcanada.com",
+		"index": 519,
+		"org_cost": "$17",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 520,
+		"org_cost": "$72.2K",
+		"sem_cost": "$36"
+	},
+	{
+		"domain": "luminari.ai",
+		"index": 521,
+		"org_cost": "$13",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "branchcreativenetwork.com",
+		"index": 522,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "TechToronto.org",
+		"index": 523,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "jnper.com",
+		"index": 524,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "creativeiv.ca",
+		"index": 525,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 526,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "google.com",
+		"index": 527,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "mycapitalcorner.com",
+		"index": 528,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 529,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "urbansproutmarketing.com",
+		"index": 530,
+		"org_cost": "$9",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "verticalscope.com",
+		"index": 531,
+		"org_cost": "$67",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "universalavenue.com",
+		"index": 532,
+		"org_cost": "$374",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "brokerlift.com",
+		"index": 533,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "kount.com",
+		"index": 534,
+		"org_cost": "$13.1K",
+		"sem_cost": "$15.0K"
+	},
+	{
+		"domain": "mobiointeractive.com",
+		"index": 535,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "purecreative.co.za",
+		"index": 536,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "guelphhumber.ca",
+		"index": 537,
+		"org_cost": "$632",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "kimgraham.ca",
+		"index": 538,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "omersventures.com",
+		"index": 539,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nextcanada.com",
+		"index": 540,
+		"org_cost": "$17",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 541,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "edgenda.com",
+		"index": 542,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "box.com",
+		"index": 543,
+		"org_cost": "$907K",
+		"sem_cost": "$162K"
+	},
+	{
+		"domain": "manchesterlanguageschool.co.uk",
+		"index": 544,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 545,
+		"org_cost": "$28",
+		"sem_cost": "$9"
+	},
+	{
+		"domain": "contactldi.com",
+		"index": 546,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hoodzi.ca",
+		"index": 547,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "telmetrics.com",
+		"index": 548,
+		"org_cost": "$834",
+		"sem_cost": "$784"
+	},
+	{
+		"domain": "deshretcapital.com",
+		"index": 549,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cinchy.co",
+		"index": 550,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "socialfounder.net",
+		"index": 551,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "smartup.ir",
+		"index": 552,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "socialicity.ca",
+		"index": 553,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "empirecommunities.com",
+		"index": 554,
+		"org_cost": "$727",
+		"sem_cost": "$357"
+	},
+	{
+		"domain": "centriciq.com",
+		"index": 555,
+		"org_cost": "$0",
+		"sem_cost": "$121"
+	},
+	{
+		"domain": "statuptechunleashed.com",
+		"index": 556,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "free2move.se",
+		"index": 557,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 558,
+		"org_cost": "$103K",
+		"sem_cost": "$5.5K"
+	},
+	{
+		"domain": "Multiplicity.Media",
+		"index": 559,
+		"org_cost": "$6",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "techstars.com",
+		"index": 560,
+		"org_cost": "$37.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cormangroup.com",
+		"index": 561,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "whitecapvp.com",
+		"index": 562,
+		"org_cost": "$77",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "getevolution.co",
+		"index": 563,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 564,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "airvinci.com",
+		"index": 565,
+		"org_cost": "$37",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fcainsurance.com",
+		"index": 566,
+		"org_cost": "$174",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wealthsimple.com",
+		"index": 567,
+		"org_cost": "$38.6K",
+		"sem_cost": "$28.4K"
+	},
+	{
+		"domain": "nulogy.com",
+		"index": 568,
+		"org_cost": "$34",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nudge.ai",
+		"index": 569,
+		"org_cost": "$1.1K",
+		"sem_cost": "$1.4K"
+	},
+	{
+		"domain": "",
+		"index": 570,
+		"org_cost": "$72.2K",
+		"sem_cost": "$36"
+	},
+	{
+		"domain": "makegoodfood.ca",
+		"index": 571,
+		"org_cost": "$38.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "whereipark.com",
+		"index": 572,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "pdffinancial.com",
+		"index": 573,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "alterracollections.com",
+		"index": 574,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "frontsteps.com",
+		"index": 575,
+		"org_cost": "$1.1K",
+		"sem_cost": "$640"
+	},
+	{
+		"domain": "TheRedPin.com",
+		"index": 576,
+		"org_cost": "$2.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "",
+		"index": 577,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "airbnb.com",
+		"index": 578,
+		"org_cost": "$8.0M",
+		"sem_cost": "$638K"
+	},
+	{
+		"domain": "",
+		"index": 579,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "evernote.com",
+		"index": 580,
+		"org_cost": "$521K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vendhq.com",
+		"index": 581,
+		"org_cost": "$196K",
+		"sem_cost": "$11.2K"
+	},
+	{
+		"domain": "",
+		"index": 582,
+		"org_cost": "$36",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mindtheproduct.com",
+		"index": 583,
+		"org_cost": "$28.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ScorpionComputerServices.com",
+		"index": 584,
+		"org_cost": "$15.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "roof.ai",
+		"index": 585,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "BlackBerry.com",
+		"index": 586,
+		"org_cost": "$764K",
+		"sem_cost": "$88.5K"
+	},
+	{
+		"domain": "",
+		"index": 587,
+		"org_cost": "$9",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cobaltcounsel.com",
+		"index": 588,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "forbestechcouncil.com",
+		"index": 589,
+		"org_cost": "$158",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sesociety.org",
+		"index": 590,
+		"org_cost": "$548",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "suzannahscully.com",
+		"index": 591,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "break-even.it",
+		"index": 592,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "growthmarketing.today",
+		"index": 593,
+		"org_cost": "$35",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cbc.ca",
+		"index": 594,
+		"org_cost": "$1.4M",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "pagerduty.com",
+		"index": 595,
+		"org_cost": "$248K",
+		"sem_cost": "$83.7K"
+	},
+	{
+		"domain": "ccl.org",
+		"index": 596,
+		"org_cost": "$88.6K",
+		"sem_cost": "$135"
+	},
+	{
+		"domain": "brightspark.com",
+		"index": 597,
+		"org_cost": "$161",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "remaxintegra.com",
+		"index": 598,
+		"org_cost": "$282",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sage.biz/",
+		"index": 599,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "brentlowe.com",
+		"index": 600,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nikitaclothing.cz",
+		"index": 601,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "greenflow.ca",
+		"index": 602,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "mcclatchy.com",
+		"index": 603,
+		"org_cost": "$15.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 604,
+		"org_cost": "$140K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "illumilightelectrical.com",
+		"index": 605,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "dragados.com",
+		"index": 606,
+		"org_cost": "$40",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ccstratus.com",
+		"index": 607,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "google.com",
+		"index": 608,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "uio.no",
+		"index": 609,
+		"org_cost": "$72.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "bdc.ca",
+		"index": 610,
+		"org_cost": "$100K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 611,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "kp.org",
+		"index": 612,
+		"org_cost": "$1.6M",
+		"sem_cost": "$58.8K"
+	},
+	{
+		"domain": "ibm.com",
+		"index": 613,
+		"org_cost": "$6.0M",
+		"sem_cost": "$3.2M"
+	},
+	{
+		"domain": "",
+		"index": 614,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "caesars.com",
+		"index": 615,
+		"org_cost": "$4.7M",
+		"sem_cost": "$257K"
+	},
+	{
+		"domain": "google.com",
+		"index": 616,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "uic.edu",
+		"index": 617,
+		"org_cost": "$2.4M",
+		"sem_cost": "$16.9K"
+	},
+	{
+		"domain": "theglobeandmail.com",
+		"index": 618,
+		"org_cost": "$885K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "judge.com",
+		"index": 619,
+		"org_cost": "$8.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "td.com",
+		"index": 620,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "",
+		"index": 621,
+		"org_cost": "$1.9K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "rangle.io",
+		"index": 622,
+		"org_cost": "$23.4K",
+		"sem_cost": "$544"
+	},
+	{
+		"domain": "bmocm.com",
+		"index": 623,
+		"org_cost": "$17.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "onefinancial.com",
+		"index": 624,
+		"org_cost": "$27",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nortonrosefulbright.com",
+		"index": 625,
+		"org_cost": "$60.1K",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "amazon.com",
+		"index": 626,
+		"org_cost": "$462M",
+		"sem_cost": "$66.8M"
+	},
+	{
+		"domain": "google.com",
+		"index": 627,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "BridgingLives.com",
+		"index": 628,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "caringforclients.com",
+		"index": 629,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "usisearch.com",
+		"index": 630,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rogers.com",
+		"index": 631,
+		"org_cost": "$170K",
+		"sem_cost": "$549"
+	},
+	{
+		"domain": "",
+		"index": 632,
+		"org_cost": "$210M",
+		"sem_cost": "$4.9M"
+	},
+	{
+		"domain": "RichardsonGMP.com",
+		"index": 633,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "convatecgroup.com",
+		"index": 634,
+		"org_cost": "$1.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "google.com",
+		"index": 635,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "infusion.com",
+		"index": 636,
+		"org_cost": "$688",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nymmg.com",
+		"index": 637,
+		"org_cost": "$7.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "lsoe",
+		"index": 638,
+		"org_cost": "$1.3M",
+		"sem_cost": "$37.1K"
+	},
+	{
+		"domain": "",
+		"index": 639,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "gsk.com",
+		"index": 640,
+		"org_cost": "$138K",
+		"sem_cost": "$14.1K"
+	},
+	{
+		"domain": "uic.edu",
+		"index": 641,
+		"org_cost": "$2.4M",
+		"sem_cost": "$16.9K"
+	},
+	{
+		"domain": "",
+		"index": 642,
+		"org_cost": "$386",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "autodesk.com",
+		"index": 643,
+		"org_cost": "$3.5M",
+		"sem_cost": "$265K"
+	},
+	{
+		"domain": "MTO",
+		"index": 644,
+		"org_cost": "$119K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "CrowdmatrixHome",
+		"index": 645,
+		"org_cost": "$1.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "siriusxm.com",
+		"index": 646,
+		"org_cost": "$1.7M",
+		"sem_cost": "$73.5K"
+	},
+	{
+		"domain": "olg.ca",
+		"index": 647,
+		"org_cost": "$23.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "xenaccounting.com",
+		"index": 648,
+		"org_cost": "$235",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cbc.ca",
+		"index": 649,
+		"org_cost": "$1.4M",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "shopify.com",
+		"index": 650,
+		"org_cost": "$9.9M",
+		"sem_cost": "$1.9M"
+	},
+	{
+		"domain": "53.com",
+		"index": 651,
+		"org_cost": "$3.3M",
+		"sem_cost": "$287K"
+	},
+	{
+		"domain": "oracle.com",
+		"index": 652,
+		"org_cost": "$12.4M",
+		"sem_cost": "$911K"
+	},
+	{
+		"domain": "fi.co",
+		"index": 653,
+		"org_cost": "$9.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "proofpoint.com",
+		"index": 654,
+		"org_cost": "$129K",
+		"sem_cost": "$25.2K"
+	},
+	{
+		"domain": "ecobee.com",
+		"index": 655,
+		"org_cost": "$238K",
+		"sem_cost": "$5.7K"
+	},
+	{
+		"domain": "td.com",
+		"index": 656,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "",
+		"index": 657,
+		"org_cost": "$565K",
+		"sem_cost": "$98.8K"
+	},
+	{
+		"domain": "scotiabank.com",
+		"index": 658,
+		"org_cost": "$601K",
+		"sem_cost": "$431"
+	},
+	{
+		"domain": "",
+		"index": 659,
+		"org_cost": "$10.5M",
+		"sem_cost": "$128K"
+	},
+	{
+		"domain": "REWW.com",
+		"index": 660,
+		"org_cost": "$8.7K",
+		"sem_cost": "$798"
+	},
+	{
+		"domain": "rogers.com",
+		"index": 661,
+		"org_cost": "$170K",
+		"sem_cost": "$549"
+	},
+	{
+		"domain": "umich.edu",
+		"index": 662,
+		"org_cost": "$6.0M",
+		"sem_cost": "$30.4K"
+	},
+	{
+		"domain": "LFTFIELD.com",
+		"index": 663,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 664,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "td.com",
+		"index": 665,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "",
+		"index": 666,
+		"org_cost": "$42.0K",
+		"sem_cost": "$36"
+	},
+	{
+		"domain": "gerenewableenergy.com",
+		"index": 667,
+		"org_cost": "$32.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zuora.com",
+		"index": 668,
+		"org_cost": "$204K",
+		"sem_cost": "$9.1K"
+	},
+	{
+		"domain": "cppib.com",
+		"index": 669,
+		"org_cost": "$8.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uu.nl",
+		"index": 670,
+		"org_cost": "$41.7K",
+		"sem_cost": "$111"
+	},
+	{
+		"domain": "",
+		"index": 671,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "flowjo.co",
+		"index": 672,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "coachingforchange.co.uk",
+		"index": 673,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "royallepage.ca",
+		"index": 674,
+		"org_cost": "$21.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sonnet.ca",
+		"index": 675,
+		"org_cost": "$12.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "goodmans.ca",
+		"index": 676,
+		"org_cost": "$248",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 677,
+		"org_cost": "$126K",
+		"sem_cost": "$171K"
+	},
+	{
+		"domain": "shopify.com",
+		"index": 678,
+		"org_cost": "$9.9M",
+		"sem_cost": "$1.9M"
+	},
+	{
+		"domain": "raise.com",
+		"index": 679,
+		"org_cost": "$552K",
+		"sem_cost": "$13.5K"
+	},
+	{
+		"domain": "kearnstechnology.com",
+		"index": 680,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ryerson.ca",
+		"index": 681,
+		"org_cost": "$72.2K",
+		"sem_cost": "$36"
+	},
+	{
+		"domain": "pwc.com",
+		"index": 682,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hungrhub.ca",
+		"index": 683,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 684,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "globalnews.ca",
+		"index": 685,
+		"org_cost": "$590K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tdsb.on.ca",
+		"index": 686,
+		"org_cost": "$6.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cgi.com",
+		"index": 687,
+		"org_cost": "$152K",
+		"sem_cost": "$17"
+	},
+	{
+		"domain": "td.com",
+		"index": 688,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "",
+		"index": 689,
+		"org_cost": "$565K",
+		"sem_cost": "$98.8K"
+	},
+	{
+		"domain": "unitedshore.com",
+		"index": 690,
+		"org_cost": "$6.7K",
+		"sem_cost": "$7.1K"
+	},
+	{
+		"domain": "casper.com",
+		"index": 691,
+		"org_cost": "$2.7M",
+		"sem_cost": "$635K"
+	},
+	{
+		"domain": "abundance-prosperity.com",
+		"index": 692,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "deepmind.com",
+		"index": 693,
+		"org_cost": "$52.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tr.com",
+		"index": 694,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "default.aspx",
+		"index": 695,
+		"org_cost": "$460",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ryerson.ca",
+		"index": 696,
+		"org_cost": "$72.2K",
+		"sem_cost": "$36"
+	},
+	{
+		"domain": "google.com",
+		"index": 697,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "ibm.com",
+		"index": 698,
+		"org_cost": "$6.0M",
+		"sem_cost": "$3.2M"
+	},
+	{
+		"domain": "smarthire.io",
+		"index": 699,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 700,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 701,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "fi.co",
+		"index": 702,
+		"org_cost": "$9.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uber.com",
+		"index": 703,
+		"org_cost": "$21.0M",
+		"sem_cost": "$922K"
+	},
+	{
+		"domain": "hu",
+		"index": 704,
+		"org_cost": "$380K",
+		"sem_cost": "$30.7K"
+	},
+	{
+		"domain": "loyalty.com",
+		"index": 705,
+		"org_cost": "$1.3K",
+		"sem_cost": "$792"
+	},
+	{
+		"domain": "",
+		"index": 706,
+		"org_cost": "$90.4K",
+		"sem_cost": "$4.5K"
+	},
+	{
+		"domain": "peraton.com",
+		"index": 707,
+		"org_cost": "$106",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "homesinwesttoronto.com",
+		"index": 708,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nascentdigital.com",
+		"index": 709,
+		"org_cost": "$79",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "dawsoncollege.qc.ca",
+		"index": 710,
+		"org_cost": "$8.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "purposeinvest.com",
+		"index": 711,
+		"org_cost": "$2.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 712,
+		"org_cost": "$565K",
+		"sem_cost": "$98.8K"
+	},
+	{
+		"domain": "mastercard.com",
+		"index": 713,
+		"org_cost": "$133K",
+		"sem_cost": "$648"
+	},
+	{
+		"domain": "amazon.com",
+		"index": 714,
+		"org_cost": "$462M",
+		"sem_cost": "$66.8M"
+	},
+	{
+		"domain": "yelp.com",
+		"index": 715,
+		"org_cost": "$412M",
+		"sem_cost": "$147K"
+	},
+	{
+		"domain": "google.com",
+		"index": 716,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "intel.com",
+		"index": 717,
+		"org_cost": "$3.2M",
+		"sem_cost": "$1.0M"
+	},
+	{
+		"domain": "opg.com",
+		"index": 718,
+		"org_cost": "$4.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "lclark.edu",
+		"index": 719,
+		"org_cost": "$192K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "google.com",
+		"index": 720,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "indexexchange.com",
+		"index": 721,
+		"org_cost": "$1.9K",
+		"sem_cost": "$9.8K"
+	},
+	{
+		"domain": "",
+		"index": 722,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "fundthrough.com",
+		"index": 723,
+		"org_cost": "$167",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 724,
+		"org_cost": "$73.0M",
+		"sem_cost": "$4.3M"
+	},
+	{
+		"domain": "rbc.com",
+		"index": 725,
+		"org_cost": "$56.0K",
+		"sem_cost": "$74"
+	},
+	{
+		"domain": "capillarytech.com",
+		"index": 726,
+		"org_cost": "$75",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "perkinelmer.com",
+		"index": 727,
+		"org_cost": "$126K",
+		"sem_cost": "$17.3K"
+	},
+	{
+		"domain": "td.com",
+		"index": 728,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "miraclesoft.com",
+		"index": 729,
+		"org_cost": "$232",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 730,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "usfca.edu",
+		"index": 731,
+		"org_cost": "$879K",
+		"sem_cost": "$32.0K"
+	},
+	{
+		"domain": "careers.ford.com",
+		"index": 732,
+		"org_cost": "$34.1M",
+		"sem_cost": "$2.8M"
+	},
+	{
+		"domain": "lifelabs.com",
+		"index": 733,
+		"org_cost": "$14.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "telegraphjournal.com",
+		"index": 734,
+		"org_cost": "$1.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "jet.com",
+		"index": 735,
+		"org_cost": "$618K",
+		"sem_cost": "$193K"
+	},
+	{
+		"domain": "cbc.ca",
+		"index": 736,
+		"org_cost": "$1.4M",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "",
+		"index": 737,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "td.com",
+		"index": 738,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "td.com",
+		"index": 739,
+		"org_cost": "$863K",
+		"sem_cost": "$143"
+	},
+	{
+		"domain": "",
+		"index": 740,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "techstars.com",
+		"index": 741,
+		"org_cost": "$37.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 742,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 743,
+		"org_cost": "$502",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "hotmart.com",
+		"index": 744,
+		"org_cost": "$7.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "foresee.com",
+		"index": 745,
+		"org_cost": "$211K",
+		"sem_cost": "$40.5K"
+	},
+	{
+		"domain": "atb.com",
+		"index": 746,
+		"org_cost": "$26.1K",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "",
+		"index": 747,
+		"org_cost": "$194K",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "cbc.ca",
+		"index": 748,
+		"org_cost": "$1.4M",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "tucows.com",
+		"index": 749,
+		"org_cost": "$236K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "lifelabs.com",
+		"index": 750,
+		"org_cost": "$14.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "medtronic.com",
+		"index": 751,
+		"org_cost": "$689K",
+		"sem_cost": "$81.1K"
+	},
+	{
+		"domain": "",
+		"index": 752,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 753,
+		"org_cost": "$167K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "globalive.com",
+		"index": 754,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "avanade.com",
+		"index": 755,
+		"org_cost": "$7.5K",
+		"sem_cost": "$89"
+	},
+	{
+		"domain": "",
+		"index": 756,
+		"org_cost": "$1.3M",
+		"sem_cost": "$14.4K"
+	},
+	{
+		"domain": "freedom55financial.com",
+		"index": 757,
+		"org_cost": "$164",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "suzannfoerster.com",
+		"index": 758,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "millerthomson.com",
+		"index": 759,
+		"org_cost": "$1.7K",
+		"sem_cost": "$31"
+	},
+	{
+		"domain": "umich.edu",
+		"index": 760,
+		"org_cost": "$6.0M",
+		"sem_cost": "$30.4K"
+	},
+	{
+		"domain": "express-scripts.ca",
+		"index": 761,
+		"org_cost": "$250",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "google.com",
+		"index": 762,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "ibm.com",
+		"index": 763,
+		"org_cost": "$6.0M",
+		"sem_cost": "$3.2M"
+	},
+	{
+		"domain": "mccarthy.ca",
+		"index": 764,
+		"org_cost": "$1.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 765,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "lhh.com",
+		"index": 766,
+		"org_cost": "$168K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ca",
+		"index": 767,
+		"org_cost": "$42.6K",
+		"sem_cost": "$50"
+	},
+	{
+		"domain": "madegoodfoods.com",
+		"index": 768,
+		"org_cost": "$1.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "amazon.com",
+		"index": 769,
+		"org_cost": "$462M",
+		"sem_cost": "$66.8M"
+	},
+	{
+		"domain": "bdo.ca",
+		"index": 770,
+		"org_cost": "$3.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 771,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "Education",
+		"index": 772,
+		"org_cost": "$119K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "global",
+		"index": 773,
+		"org_cost": "$1.1M",
+		"sem_cost": "$160K"
+	},
+	{
+		"domain": "republicparking.com",
+		"index": 774,
+		"org_cost": "$3.4K",
+		"sem_cost": "$6"
+	},
+	{
+		"domain": "custom",
+		"index": 775,
+		"org_cost": "$3.9M",
+		"sem_cost": "$372K"
+	},
+	{
+		"domain": "",
+		"index": 776,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rbcds.com",
+		"index": 777,
+		"org_cost": "$18.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "",
+		"index": 778,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 779,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rangle.io",
+		"index": 780,
+		"org_cost": "$23.4K",
+		"sem_cost": "$544"
+	},
+	{
+		"domain": "",
+		"index": 781,
+		"org_cost": "$565K",
+		"sem_cost": "$98.8K"
+	},
+	{
+		"domain": "",
+		"index": 782,
+		"org_cost": "$565K",
+		"sem_cost": "$98.8K"
+	},
+	{
+		"domain": "salesforce.com",
+		"index": 783,
+		"org_cost": "$14.6M",
+		"sem_cost": "$634K"
+	},
+	{
+		"domain": "",
+		"index": 784,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "cocogroup.com",
+		"index": 785,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "diid.io",
+		"index": 786,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "careers.twitter.com",
+		"index": 787,
+		"org_cost": "$402M",
+		"sem_cost": "$252K"
+	},
+	{
+		"domain": "bmo.com",
+		"index": 788,
+		"org_cost": "$305K",
+		"sem_cost": "$7.1K"
+	},
+	{
+		"domain": "salesforce.com",
+		"index": 789,
+		"org_cost": "$14.6M",
+		"sem_cost": "$634K"
+	},
+	{
+		"domain": "founderspledge.com",
+		"index": 790,
+		"org_cost": "$11",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ucalgary.ca",
+		"index": 791,
+		"org_cost": "$199K",
+		"sem_cost": "$85"
+	},
+	{
+		"domain": "Global",
+		"index": 792,
+		"org_cost": "$45.8K",
+		"sem_cost": "$1.1K"
+	},
+	{
+		"domain": "superventures.com",
+		"index": 793,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "consulting.html",
+		"index": 794,
+		"org_cost": "$1.1M",
+		"sem_cost": "$160K"
+	},
+	{
+		"domain": "dayross.ca",
+		"index": 795,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rbcds.com",
+		"index": 796,
+		"org_cost": "$18.3K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "sertasimmons.com",
+		"index": 797,
+		"org_cost": "$12.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rbc.com",
+		"index": 798,
+		"org_cost": "$56.0K",
+		"sem_cost": "$74"
+	},
+	{
+		"domain": "BlackBerry.com",
+		"index": 799,
+		"org_cost": "$764K",
+		"sem_cost": "$88.5K"
+	},
+	{
+		"domain": "Invis.ca",
+		"index": 800,
+		"org_cost": "$470",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "forbescoachescouncil.com",
+		"index": 801,
+		"org_cost": "$703",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "google.com",
+		"index": 802,
+		"org_cost": "$657M",
+		"sem_cost": "$6.1M"
+	},
+	{
+		"domain": "ellisdon.com",
+		"index": 803,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stewartleadership.com",
+		"index": 804,
+		"org_cost": "$16",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shopify.com",
+		"index": 805,
+		"org_cost": "$9.9M",
+		"sem_cost": "$1.9M"
+	},
+	{
+		"domain": "cornell.edu",
+		"index": 806,
+		"org_cost": "$10.7M",
+		"sem_cost": "$181K"
+	},
+	{
+		"domain": "ibm.com",
+		"index": 807,
+		"org_cost": "$6.0M",
+		"sem_cost": "$3.2M"
+	},
+	{
+		"domain": "millerthomson.com",
+		"index": 808,
+		"org_cost": "$1.7K",
+		"sem_cost": "$31"
+	},
+	{
+		"domain": "millerthomson.com",
+		"index": 809,
+		"org_cost": "$1.7K",
+		"sem_cost": "$31"
+	},
+	{
+		"domain": "",
+		"index": 810,
+		"org_cost": "$287K",
+		"sem_cost": "$737"
+	},
+	{
+		"domain": "ethereum.org",
+		"index": 811,
+		"org_cost": "$415K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 812,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "axa-im.com",
+		"index": 813,
+		"org_cost": "$12.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "investorsgroup.com",
+		"index": 814,
+		"org_cost": "$7.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "overbond.com",
+		"index": 815,
+		"org_cost": "$30",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "toph.at/li",
+		"index": 816,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "guidewire.com",
+		"index": 817,
+		"org_cost": "$33.7K",
+		"sem_cost": "$99"
+	},
+	{
+		"domain": "naturalis.nl",
+		"index": 818,
+		"org_cost": "$230",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "",
+		"index": 819,
+		"org_cost": "$33.2K",
+		"sem_cost": "$2.2K"
+	},
+	{
+		"domain": "",
+		"index": 820,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "yourchoicerealty.ca",
+		"index": 821,
+		"org_cost": "$6",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "cbc.ca",
+		"index": 822,
+		"org_cost": "$1.4M",
+		"sem_cost": "$8"
+	},
+	{
+		"domain": "acaus.org",
+		"index": 823,
+		"org_cost": "$166",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "amazon.com",
+		"index": 824,
+		"org_cost": "$462M",
+		"sem_cost": "$66.8M"
+	},
+	{
+		"domain": "baver.io",
+		"index": 825,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "metrolinx.com",
+		"index": 826,
+		"org_cost": "$1.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "aecom.com",
+		"index": 827,
+		"org_cost": "$83.5K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "aecom.com",
+		"index": 828,
+		"org_cost": "$83.5K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "yourbrandpartner.com",
+		"index": 829,
+		"org_cost": "$754",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ddb.com",
+		"index": 830,
+		"org_cost": "$10.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "gadventures.com",
+		"index": 831,
+		"org_cost": "$149K",
+		"sem_cost": "$7.4K"
+	},
+	{
+		"domain": "harmonizemobility.com/",
+		"index": 832,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "business",
+		"index": 833,
+		"org_cost": "$21.0K",
+		"sem_cost": "$14"
+	},
+	{
+		"domain": "",
+		"index": 834,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "",
+		"index": 835,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "tridel.com",
+		"index": 836,
+		"org_cost": "$349",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "nexj.com",
+		"index": 837,
+		"org_cost": "$1.2K",
+		"sem_cost": "$356"
+	},
+	{
+		"domain": "mewe.fi",
+		"index": 838,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	}
+]

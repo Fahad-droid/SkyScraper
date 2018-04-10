@@ -1,0 +1,12008 @@
+[
+	{
+		"domain": "zymsys.com",
+		"index": 2,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 3,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zymewire.com",
+		"index": 4,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 5,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zuora.com",
+		"index": 6,
+		"org_cost": "$116K",
+		"sem_cost": "$6.6K"
+	},
+	{
+		"index": 7,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 8,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 9,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 10,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zulaapp.com",
+		"index": 11,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zqnce.de",
+		"index": 12,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 13,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zoomerang.com",
+		"index": 14,
+		"org_cost": "$1.7K",
+		"sem_cost": "$71"
+	},
+	{
+		"index": 15,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zlien.com",
+		"index": 16,
+		"org_cost": "$42.7K",
+		"sem_cost": "$362"
+	},
+	{
+		"index": 17,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 18,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 19,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 20,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 21,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 22,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 23,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 24,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 25,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 26,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 27,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ziprecruiter.com",
+		"index": 28,
+		"org_cost": "$3.0M",
+		"sem_cost": "$112K"
+	},
+	{
+		"domain": "zigg.com",
+		"index": 29,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 30,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 31,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zerobluetech.com",
+		"index": 32,
+		"org_cost": "$230",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zense.co.th",
+		"index": 33,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zenq.com",
+		"index": 34,
+		"org_cost": "$606",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 35,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zenkaos.com",
+		"index": 36,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "zenideas.ca",
+		"index": 37,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zeek.com",
+		"index": 38,
+		"org_cost": "$46",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 39,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zealify.com",
+		"index": 40,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zdf-enterprises.de",
+		"index": 41,
+		"org_cost": "$75",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zbocka.com",
+		"index": 42,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "zapier.com",
+		"index": 43,
+		"org_cost": "$1.2M",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "zachlatta.com",
+		"index": 44,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "z-wave.in",
+		"index": 45,
+		"org_cost": "$124",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "youthnation.com",
+		"index": 46,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yourworldmyviews.com",
+		"index": 47,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yourenext.ca",
+		"index": 48,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yourarmstoisraelglobal.com",
+		"index": 49,
+		"org_cost": "$19",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 50,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "youngstartup.com",
+		"index": 51,
+		"org_cost": "$45",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 52,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 53,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yorku.ca",
+		"index": 54,
+		"org_cost": "$125K",
+		"sem_cost": "$158"
+	},
+	{
+		"index": 55,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yogatailor.com",
+		"index": 56,
+		"org_cost": "$1.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yoast.com",
+		"index": 57,
+		"org_cost": "$283K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 58,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 59,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 60,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 61,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 62,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 63,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 64,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 65,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 66,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ymail.com",
+		"index": 67,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "yihui.com.tw",
+		"index": 68,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yesware.com",
+		"index": 69,
+		"org_cost": "$369K",
+		"sem_cost": "$21.5K"
+	},
+	{
+		"domain": "yeslioness.com",
+		"index": 70,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yellowsisters.com",
+		"index": 71,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 72,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 73,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yandex.ru",
+		"index": 74,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yammer.com",
+		"index": 75,
+		"org_cost": "$1.8M",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yahoo.se",
+		"index": 76,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 77,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 78,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 79,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 80,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.it",
+		"index": 81,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yahoo.in",
+		"index": 82,
+		"org_cost": "$8.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yahoo.ie",
+		"index": 83,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yahoo.gr",
+		"index": 84,
+		"org_cost": "$330",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 85,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 86,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.fr",
+		"index": 87,
+		"org_cost": "$232",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 88,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 89,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.es",
+		"index": 90,
+		"org_cost": "$112K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 91,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 92,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.de",
+		"index": 93,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yahoo.com.ph",
+		"index": 94,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "yahoo.com.hk",
+		"index": 95,
+		"org_cost": "$57.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 96,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.com.br",
+		"index": 97,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 98,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.com.au",
+		"index": 99,
+		"org_cost": "$1.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 100,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 101,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 102,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 103,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 104,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 105,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 106,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 107,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 108,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 109,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 110,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 111,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 112,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 113,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 114,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 115,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 116,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 117,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 118,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 119,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 120,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 121,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 122,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 123,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 124,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 125,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 126,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 127,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 128,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 129,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 130,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 131,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 132,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 133,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 134,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 135,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 136,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 137,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 138,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 139,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 140,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 141,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 142,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 143,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 144,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 145,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 146,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 147,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 148,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 149,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 150,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 151,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 152,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 153,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 154,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 155,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 156,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 157,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 158,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 159,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 160,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 161,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 162,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 163,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 164,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 165,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 166,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 167,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 168,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 169,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 170,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 171,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 172,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 173,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 174,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 175,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 176,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 177,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 178,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 179,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 180,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 181,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 182,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 183,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 184,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 185,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 186,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 187,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 188,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 189,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 190,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 191,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 192,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 193,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 194,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 195,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 196,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 197,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 198,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 199,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 200,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 201,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 202,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 203,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 204,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 205,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 206,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 207,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 208,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 209,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 210,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 211,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 212,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 213,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 214,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 215,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 216,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 217,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 218,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 219,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 220,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 221,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 222,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 223,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 224,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 225,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 226,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 227,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 228,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 229,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 230,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 231,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 232,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 233,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 234,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 235,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 236,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 237,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 238,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 239,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 240,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 241,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 242,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 243,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 244,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 245,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 246,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 247,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 248,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 249,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 250,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 251,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 252,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 253,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 254,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 255,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 256,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 257,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 258,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 259,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 260,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 261,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 262,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 263,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 264,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 265,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 266,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 267,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 268,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 269,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 270,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 271,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 272,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 273,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 274,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 275,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 276,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 277,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 278,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 279,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 280,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 281,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 282,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 283,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 284,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 285,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 286,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 287,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 288,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 289,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 290,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 291,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 292,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 293,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 294,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 295,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 296,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 297,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 298,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 299,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 300,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 301,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 302,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 303,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 304,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 305,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 306,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 307,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 308,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 309,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 310,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 311,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 312,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 313,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 314,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 315,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 316,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 317,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 318,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 319,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 320,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 321,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 322,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 323,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 324,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 325,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 326,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 327,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 328,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 329,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 330,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 331,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 332,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 333,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 334,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 335,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 336,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 337,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 338,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 339,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 340,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 341,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 342,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 343,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 344,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 345,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 346,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 347,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 348,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 349,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 350,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 351,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 352,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 353,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 354,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 355,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 356,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 357,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.com",
+		"index": 358,
+		"org_cost": "$285M",
+		"sem_cost": "$22.7M"
+	},
+	{
+		"index": 359,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 360,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 361,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 362,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 363,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 364,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 365,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 366,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 367,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 368,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 369,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 370,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 371,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 372,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 373,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.co.uk",
+		"index": 374,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 375,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.co.nz",
+		"index": 376,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 377,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.co.jp",
+		"index": 378,
+		"org_cost": "$521K",
+		"sem_cost": "$2"
+	},
+	{
+		"index": 379,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 380,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 381,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.co.in",
+		"index": 382,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 383,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 384,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 385,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 386,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 387,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 388,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 389,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 390,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 391,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 392,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 393,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 394,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 395,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 396,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 397,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 398,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 399,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 400,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 401,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 402,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 403,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 404,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 405,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 406,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 407,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 408,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 409,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 410,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 411,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 412,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 413,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 414,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 415,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 416,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 417,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 418,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 419,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 420,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 421,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 422,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 423,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 424,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 425,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 426,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 427,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "yahoo.ca",
+		"index": 428,
+		"org_cost": "$1.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "y-titty.de",
+		"index": 429,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "y-canada.com",
+		"index": 430,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 431,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "xtremelabs.com",
+		"index": 432,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "xtremecontracting.ca",
+		"index": 433,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "xplornet.com",
+		"index": 434,
+		"org_cost": "$9.5K",
+		"sem_cost": "$5"
+	},
+	{
+		"domain": "xmr3.com",
+		"index": 435,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 436,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 437,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 438,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 439,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 440,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 441,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 442,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 443,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 444,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 445,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 446,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 447,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 448,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 449,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 450,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 451,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 452,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 453,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 454,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "xing.com",
+		"index": 455,
+		"org_cost": "$9.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "xen.do",
+		"index": 456,
+		"org_cost": "$207",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 457,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "xebba.com",
+		"index": 458,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 459,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "x.ai",
+		"index": 460,
+		"org_cost": "$2.4K",
+		"sem_cost": "$2.8K"
+	},
+	{
+		"domain": "wyzelink.com",
+		"index": 461,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 462,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wyhint.com",
+		"index": 463,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "www-vertexinc.ccsend.com",
+		"index": 464,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "writepublishmarket.com",
+		"index": 465,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wpengine.com",
+		"index": 466,
+		"org_cost": "$257K",
+		"sem_cost": "$140K"
+	},
+	{
+		"index": 467,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 468,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 469,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 470,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 471,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 472,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wp.pl",
+		"index": 473,
+		"org_cost": "$60",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wosc.de",
+		"index": 474,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "worldskillsuk.org",
+		"index": 475,
+		"org_cost": "$74",
+		"sem_cost": "$9"
+	},
+	{
+		"domain": "wordworking.com",
+		"index": 476,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wordtracker.com",
+		"index": 477,
+		"org_cost": "$50.5K",
+		"sem_cost": "$163"
+	},
+	{
+		"domain": "wonderspark.co",
+		"index": 478,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wonderlondonfilms.com",
+		"index": 479,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 480,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wondereur.com",
+		"index": 481,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wokworks.com",
+		"index": 482,
+		"org_cost": "$1.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 483,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "woh.rr.com",
+		"index": 484,
+		"org_cost": "$156K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wobuilt.com",
+		"index": 485,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wobstep.net",
+		"index": 486,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "wobblyart.com",
+		"index": 487,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wizardcm.com",
+		"index": 488,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "witness.org",
+		"index": 489,
+		"org_cost": "$2.1K",
+		"sem_cost": "$15.0K"
+	},
+	{
+		"domain": "wishaha.com",
+		"index": 490,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 491,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wisecatmedia.com",
+		"index": 492,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "wiparty.co.il",
+		"index": 493,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 494,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 495,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 496,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "winshuttle.com",
+		"index": 497,
+		"org_cost": "$9.7K",
+		"sem_cost": "$1.7K"
+	},
+	{
+		"index": 498,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 499,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 500,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 501,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 502,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 503,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 504,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 505,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 506,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 507,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 508,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "winningmark.com",
+		"index": 509,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 510,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 511,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 512,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 513,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 514,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 515,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 516,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 517,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "windowscentral.com",
+		"index": 518,
+		"org_cost": "$1.0M",
+		"sem_cost": "$42"
+	},
+	{
+		"domain": "windishagency.com",
+		"index": 519,
+		"org_cost": "$1.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wimco.com",
+		"index": 520,
+		"org_cost": "$22.2K",
+		"sem_cost": "$598"
+	},
+	{
+		"domain": "wilsonmediaservices.com",
+		"index": 521,
+		"org_cost": "$82",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 522,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "willfortanbary.com",
+		"index": 523,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "willcodes.ca",
+		"index": 524,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 525,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wildlaw.ca",
+		"index": 526,
+		"org_cost": "$32",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "widgetsanddigits.ca",
+		"index": 527,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 528,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 529,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "whoplusyou.com",
+		"index": 530,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "whoismocca.com",
+		"index": 531,
+		"org_cost": "$70",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 532,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "whiteknightled.com",
+		"index": 533,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "whiteink.com",
+		"index": 534,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "whiteforestrecords.com",
+		"index": 535,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "whcc.com",
+		"index": 536,
+		"org_cost": "$19.2K",
+		"sem_cost": "$21.7K"
+	},
+	{
+		"domain": "whatthechic.com",
+		"index": 537,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 538,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "whatspauldoing.com",
+		"index": 539,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "whatimwear.in",
+		"index": 540,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wetcatdesign.com",
+		"index": 541,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wetalkto.co.uk",
+		"index": 542,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "westbrookctschools.org",
+		"index": 543,
+		"org_cost": "$2.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "weplay.co",
+		"index": 544,
+		"org_cost": "$152",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "weloveithard.com",
+		"index": 545,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 546,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wellplayed.org",
+		"index": 547,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wellnesshour.com",
+		"index": 548,
+		"org_cost": "$328",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "welivefilm.com",
+		"index": 549,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "welcome.aexp.com",
+		"index": 550,
+		"org_cost": "$92",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "weinberggroup.com",
+		"index": 551,
+		"org_cost": "$4.3K",
+		"sem_cost": "$718"
+	},
+	{
+		"domain": "wedgies.com",
+		"index": 552,
+		"org_cost": "$695",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "webweb.ca",
+		"index": 553,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "webvideostore.co.uk",
+		"index": 554,
+		"org_cost": "$76",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "webtechwireless.com",
+		"index": 555,
+		"org_cost": "$93",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "webex.com",
+		"index": 556,
+		"org_cost": "$623K",
+		"sem_cost": "$86.4K"
+	},
+	{
+		"domain": "webdirections.org",
+		"index": 557,
+		"org_cost": "$916",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "webdevstudios.com",
+		"index": 558,
+		"org_cost": "$3.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "webbarchitect.com",
+		"index": 559,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "web.de.oder",
+		"index": 560,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 561,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 562,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 563,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 564,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 565,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 566,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 567,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "web.de",
+		"index": 568,
+		"org_cost": "$26.3K",
+		"sem_cost": "$2.5K"
+	},
+	{
+		"domain": "web-savvy-marketing.com",
+		"index": 569,
+		"org_cost": "$53.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "weaverdigital.com",
+		"index": 570,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 571,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "weareq.com",
+		"index": 572,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 573,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wearepopup.com",
+		"index": 574,
+		"org_cost": "$15",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 575,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 576,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "wearehx.co",
+		"index": 577,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "weareher.com",
+		"index": 578,
+		"org_cost": "$10.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "we-heart-fashion.com",
+		"index": 579,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "wdr.de",
+		"index": 580,
+		"org_cost": "$2.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wcsr.com",
+		"index": 581,
+		"org_cost": "$39",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "waterfront-magazine.com",
+		"index": 582,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "watchwigs.com",
+		"index": 583,
+		"org_cost": "$376",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "watchlaterapp.com",
+		"index": 584,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "washingtonian.com",
+		"index": 585,
+		"org_cost": "$484K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "warrenmorris.com",
+		"index": 586,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "warnermusic.com",
+		"index": 587,
+		"org_cost": "$8.6K",
+		"sem_cost": "$2.7K"
+	},
+	{
+		"domain": "wainhouse.com",
+		"index": 588,
+		"org_cost": "$1.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "wackywavelabs.com",
+		"index": 589,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "vuzum.com",
+		"index": 590,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vuru.co",
+		"index": 591,
+		"org_cost": "$2.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 592,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vtldesign.com",
+		"index": 593,
+		"org_cost": "$99.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vsnl.com",
+		"index": 594,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vpi-inc.com",
+		"index": 595,
+		"org_cost": "$643",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vpathsolutions.com",
+		"index": 596,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 597,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vp.pl",
+		"index": 598,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 599,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 600,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 601,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 602,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 603,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 604,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "voxmedia.com",
+		"index": 605,
+		"org_cost": "$11.4K",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "voximplant.com",
+		"index": 606,
+		"org_cost": "$14",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "votecompass.com",
+		"index": 607,
+		"org_cost": "$173",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "voovo.co",
+		"index": 608,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "volvoforlife.com",
+		"index": 609,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "volume.at",
+		"index": 610,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "volkswagen.de",
+		"index": 611,
+		"org_cost": "$21.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "voiceshot.com",
+		"index": 612,
+		"org_cost": "$3.7K",
+		"sem_cost": "$3.5K"
+	},
+	{
+		"domain": "voiceofe.com",
+		"index": 613,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vodafone.co.nz",
+		"index": 614,
+		"org_cost": "$38.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 615,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "visualsense.ie",
+		"index": 616,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "visualbasemedia.com",
+		"index": 617,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vistaprint.com",
+		"index": 618,
+		"org_cost": "$9.6M",
+		"sem_cost": "$1.3M"
+	},
+	{
+		"index": 619,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "visr.co",
+		"index": 620,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 621,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vishaltelangre.com",
+		"index": 622,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "visage.co",
+		"index": 623,
+		"org_cost": "$6.6K",
+		"sem_cost": "$5"
+	},
+	{
+		"domain": "virtualagency-pcc.com",
+		"index": 624,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 625,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "virtace.com",
+		"index": 626,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "virgilio.it",
+		"index": 627,
+		"org_cost": "$778",
+		"sem_cost": "$1.1K"
+	},
+	{
+		"domain": "viralspiralgroup.com",
+		"index": 628,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "viralbrothers.cz",
+		"index": 629,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "viper007bond.com",
+		"index": 630,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "violinlikethat.com",
+		"index": 631,
+		"org_cost": "$78",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vinylmeplease.com",
+		"index": 632,
+		"org_cost": "$261K",
+		"sem_cost": "$1.4K"
+	},
+	{
+		"domain": "vintagecarconnection.com",
+		"index": 633,
+		"org_cost": "$234",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vinniapp.com",
+		"index": 634,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "villamedia.ca",
+		"index": 635,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "viewrenew.com",
+		"index": 636,
+		"org_cost": "$136",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "videogami.tv",
+		"index": 637,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "videogami.co",
+		"index": 638,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 639,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 640,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 641,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 642,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 643,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 644,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 645,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 646,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 647,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 648,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 649,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 650,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 651,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 652,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 653,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 654,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 655,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 656,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 657,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 658,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 659,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 660,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 661,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 662,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 663,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 664,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 665,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 666,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 667,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 668,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 669,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 670,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 671,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 672,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 673,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 674,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 675,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 676,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 677,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 678,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 679,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 680,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 681,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 682,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 683,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 684,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 685,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 686,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 687,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 688,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 689,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 690,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 691,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 692,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 693,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 694,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 695,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 696,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 697,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 698,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 699,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 700,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 701,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 702,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 703,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 704,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 705,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 706,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 707,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 708,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 709,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 710,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vice.com",
+		"index": 711,
+		"org_cost": "$6.5M",
+		"sem_cost": "$122K"
+	},
+	{
+		"index": 712,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 713,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "viafoura.com",
+		"index": 714,
+		"org_cost": "$12",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vgstations.com",
+		"index": 715,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 716,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vesselinnovations.com",
+		"index": 717,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 718,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 719,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 720,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 721,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 722,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 723,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 724,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 725,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 726,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 727,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 728,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 729,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 730,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vertexinc.com",
+		"index": 731,
+		"org_cost": "$23.7K",
+		"sem_cost": "$13.1K"
+	},
+	{
+		"domain": "vertexgts.co.uk",
+		"index": 732,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 733,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "verizonbusiness.com",
+		"index": 734,
+		"org_cost": "$33.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "verdevalleyarchaeology.org",
+		"index": 735,
+		"org_cost": "$171",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 736,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "venturestart.ca",
+		"index": 737,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "venturelynx.com",
+		"index": 738,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "venturelawassociates.com",
+		"index": 739,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "venona.com",
+		"index": 740,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 741,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 742,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 743,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 744,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 745,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 746,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 747,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 748,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 749,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 750,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vendhq.com",
+		"index": 751,
+		"org_cost": "$127K",
+		"sem_cost": "$9.7K"
+	},
+	{
+		"index": 752,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ven.io",
+		"index": 753,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "vemployee.com",
+		"index": 754,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 755,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 756,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "velossent.com",
+		"index": 757,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vegasgoldfather.com",
+		"index": 758,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "vegasgeek.com",
+		"index": 759,
+		"org_cost": "$44",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vandusengm.com",
+		"index": 760,
+		"org_cost": "$700",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vanaworkforce.com",
+		"index": 761,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "valspar.com",
+		"index": 762,
+		"org_cost": "$3.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "valoregroup.com",
+		"index": 763,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 764,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "valgeisler.com",
+		"index": 765,
+		"org_cost": "$301",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "vahrehvah.com",
+		"index": 766,
+		"org_cost": "$39.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 767,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vahidjozi.com",
+		"index": 768,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 769,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "vagrant.com",
+		"index": 770,
+		"org_cost": "$1.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "v2presents.com",
+		"index": 771,
+		"org_cost": "$839",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uzyn.com",
+		"index": 772,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uwindsor.ca",
+		"index": 773,
+		"org_cost": "$41.3K",
+		"sem_cost": "$3.6K"
+	},
+	{
+		"domain": "uwatwork.com",
+		"index": 774,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 775,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "uwaterloo.ca",
+		"index": 776,
+		"org_cost": "$129K",
+		"sem_cost": "$697"
+	},
+	{
+		"domain": "uwa.edu.au",
+		"index": 777,
+		"org_cost": "$23.2K",
+		"sem_cost": "$74"
+	},
+	{
+		"domain": "uvic.ca",
+		"index": 778,
+		"org_cost": "$78.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uua.org",
+		"index": 779,
+		"org_cost": "$163K",
+		"sem_cost": "$61.9K"
+	},
+	{
+		"domain": "utsc.utoronto.ca",
+		"index": 780,
+		"org_cost": "$417K",
+		"sem_cost": "$179K"
+	},
+	{
+		"domain": "uts.edu.au",
+		"index": 781,
+		"org_cost": "$62.9K",
+		"sem_cost": "$1.0K"
+	},
+	{
+		"index": 782,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 783,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 784,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 785,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 786,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 787,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 788,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 789,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 790,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 791,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 792,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "utoronto.ca",
+		"index": 793,
+		"org_cost": "$417K",
+		"sem_cost": "$179K"
+	},
+	{
+		"index": 794,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "utherverse.com",
+		"index": 795,
+		"org_cost": "$2.2K",
+		"sem_cost": "$516"
+	},
+	{
+		"index": 796,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 797,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 798,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 799,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 800,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 801,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 802,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 803,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 804,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 805,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 806,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "usmediaconsulting.com",
+		"index": 807,
+		"org_cost": "$280",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "usilive.org",
+		"index": 808,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "usfirst.org",
+		"index": 809,
+		"org_cost": "$5.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "usfca.edu",
+		"index": 810,
+		"org_cost": "$483K",
+		"sem_cost": "$23.1K"
+	},
+	{
+		"index": 811,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "userlike.com",
+		"index": 812,
+		"org_cost": "$15.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "usercycle.com",
+		"index": 813,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "usa.secude.com",
+		"index": 814,
+		"org_cost": "$90",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "us.spss.com",
+		"index": 815,
+		"org_cost": "$339",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 816,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 817,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 818,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 819,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "us.ibm.com",
+		"index": 820,
+		"org_cost": "$6.8M",
+		"sem_cost": "$2.5M"
+	},
+	{
+		"domain": "us.af.mil",
+		"index": 821,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 822,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "urzenia.net",
+		"index": 823,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "urx.com",
+		"index": 824,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "urbanworkbench.com",
+		"index": 825,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 826,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 827,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 828,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 829,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 830,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 831,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 832,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 833,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "upworthy.com",
+		"index": 834,
+		"org_cost": "$187K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "upwestlabs.com",
+		"index": 835,
+		"org_cost": "$11",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 836,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "upcounsel.com",
+		"index": 837,
+		"org_cost": "$705K",
+		"sem_cost": "$57.3K"
+	},
+	{
+		"index": 838,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 839,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 840,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 841,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "upcloud.com",
+		"index": 842,
+		"org_cost": "$12.8K",
+		"sem_cost": "$531"
+	},
+	{
+		"domain": "upcloseoutfitters.com",
+		"index": 843,
+		"org_cost": "$45",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uottawa.ca",
+		"index": 844,
+		"org_cost": "$88.8K",
+		"sem_cost": "$245"
+	},
+	{
+		"domain": "unlv.nevada.edu",
+		"index": 845,
+		"org_cost": "$173K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "unleashed-design.de",
+		"index": 846,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "universowoman.com",
+		"index": 847,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "universalpropertypreservation.com",
+		"index": 848,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "unitedtalent.com",
+		"index": 849,
+		"org_cost": "$44.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uniseo.com",
+		"index": 850,
+		"org_cost": "$23",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uniquethink.com",
+		"index": 851,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uniquechiropractic.com",
+		"index": 852,
+		"org_cost": "$37",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "unipoint.ca",
+		"index": 853,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uni-bonn.de",
+		"index": 854,
+		"org_cost": "$9.8K",
+		"sem_cost": "$102"
+	},
+	{
+		"domain": "umiami.edu",
+		"index": 855,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "umi.io",
+		"index": 856,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "umcmanagement.co.uk",
+		"index": 857,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "umapreve.com",
+		"index": 858,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ultraspectra.com",
+		"index": 859,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ulrikefell.de",
+		"index": 860,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "ukr.net",
+		"index": 861,
+		"org_cost": "$88.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 862,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "uknowa.com",
+		"index": 863,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 864,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "uken.com",
+		"index": 865,
+		"org_cost": "$702",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ufile.ca",
+		"index": 866,
+		"org_cost": "$2.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ufabc.edu.br",
+		"index": 867,
+		"org_cost": "$138",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "udtech.ca",
+		"index": 868,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "uds.rs",
+		"index": 869,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 870,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 871,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 872,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 873,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 874,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 875,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 876,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 877,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 878,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 879,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 880,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 881,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 882,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 883,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 884,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 885,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ucc.edu",
+		"index": 886,
+		"org_cost": "$198K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ucaya.com",
+		"index": 887,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 888,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 889,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "uberflip.com",
+		"index": 890,
+		"org_cost": "$27.7K",
+		"sem_cost": "$170"
+	},
+	{
+		"domain": "uberconference.com",
+		"index": 891,
+		"org_cost": "$201K",
+		"sem_cost": "$5.9K"
+	},
+	{
+		"domain": "uapb.edu",
+		"index": 892,
+		"org_cost": "$29.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "u2-tribute.co.uk",
+		"index": 893,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "u-touch.co.uk",
+		"index": 894,
+		"org_cost": "$139",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tyroxfx.com",
+		"index": 895,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "twopointsrecords.com",
+		"index": 896,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "twistedfork.me",
+		"index": 897,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "twinfigure.com",
+		"index": 898,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 899,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "twg.ca",
+		"index": 900,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 901,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tweetwallpro.com",
+		"index": 902,
+		"org_cost": "$867",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "twangnbang.net",
+		"index": 903,
+		"org_cost": "$48",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tvstar.com",
+		"index": 904,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 905,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tvpcommunications.com",
+		"index": 906,
+		"org_cost": "$57",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tvbusa.com",
+		"index": 907,
+		"org_cost": "$11.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "turnfirstartists.com",
+		"index": 908,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "tunatraffic.com",
+		"index": 909,
+		"org_cost": "$119",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 910,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 911,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 912,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 913,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 914,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 915,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 916,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 917,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tuatarabrewing.co.nz",
+		"index": 918,
+		"org_cost": "$6",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tssn.co",
+		"index": 919,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "trxcorrex.com",
+		"index": 920,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 921,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "trustly.com",
+		"index": 922,
+		"org_cost": "$66",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "trust2pay.io",
+		"index": 923,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 924,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 925,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "trurating.com",
+		"index": 926,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 927,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 928,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 929,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "truphone.com",
+		"index": 930,
+		"org_cost": "$1.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 931,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 932,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 933,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 934,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "trueventures.com",
+		"index": 935,
+		"org_cost": "$3.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "truetoyourhorse.com",
+		"index": 936,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 937,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "truenorthchev.com",
+		"index": 938,
+		"org_cost": "$353",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "triptikmanagement.co.uk",
+		"index": 939,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 940,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 941,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 942,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 943,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 944,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 945,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 946,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 947,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "triplepundit.com",
+		"index": 948,
+		"org_cost": "$48.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 949,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "trioro.com",
+		"index": 950,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "tri-tone.co.uk",
+		"index": 951,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "trepfuel.co",
+		"index": 952,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "trentu.ca",
+		"index": 953,
+		"org_cost": "$23.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "trentsound.com",
+		"index": 954,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 955,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 956,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 957,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 958,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 959,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 960,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 961,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 962,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "trebnet.com",
+		"index": 963,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "trclean.com.br",
+		"index": 964,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 965,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tray.io",
+		"index": 966,
+		"org_cost": "$312",
+		"sem_cost": "$26.1K"
+	},
+	{
+		"domain": "travefy.com",
+		"index": 967,
+		"org_cost": "$29.3K",
+		"sem_cost": "$187"
+	},
+	{
+		"index": 968,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "trashfamily.com",
+		"index": 969,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "transmitent.com",
+		"index": 970,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "trainwithpush.com",
+		"index": 971,
+		"org_cost": "$554",
+		"sem_cost": "$10"
+	},
+	{
+		"domain": "trainerpl.us",
+		"index": 972,
+		"org_cost": "$20",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "trademarkpro.ca",
+		"index": 973,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tradec.com.br",
+		"index": 974,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "trackersearth.com",
+		"index": 975,
+		"org_cost": "$424",
+		"sem_cost": "$36"
+	},
+	{
+		"domain": "townofajax.com",
+		"index": 976,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 977,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 978,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 979,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "touchwonders.com",
+		"index": 980,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "totpenz.net",
+		"index": 981,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 982,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 983,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 984,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tothenew.com",
+		"index": 985,
+		"org_cost": "$12.7K",
+		"sem_cost": "$4.0K"
+	},
+	{
+		"domain": "totechmeetup.com",
+		"index": 986,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "totaltrap.net",
+		"index": 987,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "totallysketch.com",
+		"index": 988,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "totalhorsechannel.com",
+		"index": 989,
+		"org_cost": "$4.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "total.de",
+		"index": 990,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "torquemethod.com",
+		"index": 991,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 992,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 993,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "torontocricketclub.com",
+		"index": 994,
+		"org_cost": "$445",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "torchlite.com",
+		"index": 995,
+		"org_cost": "$600",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "toptal.com",
+		"index": 996,
+		"org_cost": "$648K",
+		"sem_cost": "$123K"
+	},
+	{
+		"domain": "toprightpartners.com",
+		"index": 997,
+		"org_cost": "$314",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tophat.com",
+		"index": 998,
+		"org_cost": "$77.3K",
+		"sem_cost": "$116"
+	},
+	{
+		"domain": "top-form-fitness.com",
+		"index": 999,
+		"org_cost": "$17",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "toolbox9.com",
+		"index": 1000,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tonyking.com",
+		"index": 1001,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tomschlick.com",
+		"index": 1002,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "todrickhall.com",
+		"index": 1003,
+		"org_cost": "$197",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1004,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1005,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tlcvision.com",
+		"index": 1006,
+		"org_cost": "$235K",
+		"sem_cost": "$14.0K"
+	},
+	{
+		"index": 1007,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "titanfireproducts.com",
+		"index": 1008,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1009,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tippingmedia.com",
+		"index": 1010,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1011,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tinyletter.com",
+		"index": 1012,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1013,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tinyhearts.com",
+		"index": 1014,
+		"org_cost": "$37",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tinachang.io",
+		"index": 1015,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1016,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "timothyquinn.me",
+		"index": 1017,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "timothyquinn.com",
+		"index": 1018,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1019,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "timhwang.org",
+		"index": 1020,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "timedoctor.com",
+		"index": 1021,
+		"org_cost": "$118K",
+		"sem_cost": "$238"
+	},
+	{
+		"domain": "timeconsulting.ca",
+		"index": 1022,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "time.com",
+		"index": 1023,
+		"org_cost": "$18.2M",
+		"sem_cost": "$9.8K"
+	},
+	{
+		"domain": "tilde.io",
+		"index": 1024,
+		"org_cost": "$202",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1025,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tighten.co",
+		"index": 1026,
+		"org_cost": "$149",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tidyup.co.uk",
+		"index": 1027,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tickets.hostgator.com",
+		"index": 1028,
+		"org_cost": "$755K",
+		"sem_cost": "$70.6K"
+	},
+	{
+		"index": 1029,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ticketmaster.ca",
+		"index": 1030,
+		"org_cost": "$42.8K",
+		"sem_cost": "$8.3K"
+	},
+	{
+		"domain": "tibco.com",
+		"index": 1031,
+		"org_cost": "$258K",
+		"sem_cost": "$94.8K"
+	},
+	{
+		"domain": "tianchaos.com",
+		"index": 1032,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thuytrieudo.com",
+		"index": 1033,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1034,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1035,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "threetowersflooring.com",
+		"index": 1036,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1037,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "three.org",
+		"index": 1038,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "threadbird.com",
+		"index": 1039,
+		"org_cost": "$40.2K",
+		"sem_cost": "$224"
+	},
+	{
+		"index": 1040,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thompsonpr.com",
+		"index": 1041,
+		"org_cost": "$20",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thirdplateau.com",
+		"index": 1042,
+		"org_cost": "$16",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1043,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thirdocean.com",
+		"index": 1044,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thirdechelonpi.com",
+		"index": 1045,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "third-pole.com",
+		"index": 1046,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1047,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thinknation.ca",
+		"index": 1048,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thinkdirtyapp.com",
+		"index": 1049,
+		"org_cost": "$12.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theworkrepublic.ca",
+		"index": 1050,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "theworkinggroup.ca",
+		"index": 1051,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thewinggirls.com",
+		"index": 1052,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thewestcoastsyndicate.com",
+		"index": 1053,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1054,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1055,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1056,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1057,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1058,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1059,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1060,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1061,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1062,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1063,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1064,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "theverge.com",
+		"index": 1065,
+		"org_cost": "$13.5M",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thevenomcondition.com",
+		"index": 1066,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thetengcompany.com",
+		"index": 1067,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thesuccessroom.ca",
+		"index": 1068,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1069,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thestoryoftelling.com",
+		"index": 1070,
+		"org_cost": "$1.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thestonerscookbook.com",
+		"index": 1071,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thestonedsociety.com",
+		"index": 1072,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thestartupdigest.com",
+		"index": 1073,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thesquarepegfilms.in",
+		"index": 1074,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thesolutionagency.com",
+		"index": 1075,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theskonkworks.com",
+		"index": 1076,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theshecreatures.com",
+		"index": 1077,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thesamplerapp.com",
+		"index": 1078,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thermo-floor.co.uk",
+		"index": 1079,
+		"org_cost": "$128",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theresumator.com",
+		"index": 1080,
+		"org_cost": "$23.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theredwineband.com",
+		"index": 1081,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theredpin.com",
+		"index": 1082,
+		"org_cost": "$1.1K",
+		"sem_cost": "$1"
+	},
+	{
+		"domain": "theplasticboy.com",
+		"index": 1083,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1084,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thepixitude.com",
+		"index": 1085,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thepigandthelady.com",
+		"index": 1086,
+		"org_cost": "$287",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thepggames.com",
+		"index": 1087,
+		"org_cost": "$911",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theothermecoaching.com",
+		"index": 1088,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theoriginalbeats.com",
+		"index": 1089,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theoneromance.co.uk",
+		"index": 1090,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "themintla.com",
+		"index": 1091,
+		"org_cost": "$12.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "themetalrebel.com",
+		"index": 1092,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "themedianinja.net",
+		"index": 1093,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "themanwhocamehome.com",
+		"index": 1094,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thelilacroom.co",
+		"index": 1095,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theleanstartupmachine.com",
+		"index": 1096,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thelastatom.com",
+		"index": 1097,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theindustrybeats.com",
+		"index": 1098,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1099,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thehouselondon.com",
+		"index": 1100,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1101,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thehomeinspector.ca",
+		"index": 1102,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thehittingstopshere.com",
+		"index": 1103,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1104,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1105,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1106,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1107,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1108,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1109,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1110,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1111,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1112,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1113,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1114,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1115,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1116,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1117,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1118,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1119,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1120,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1121,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1122,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1123,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1124,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1125,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1126,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1127,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1128,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1129,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1130,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1131,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1132,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1133,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1134,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1135,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1136,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1137,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1138,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1139,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1140,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1141,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1142,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1143,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1144,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1145,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1146,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1147,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1148,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1149,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1150,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1151,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1152,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1153,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1154,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1155,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1156,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1157,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1158,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1159,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1160,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "theguardian.com",
+		"index": 1161,
+		"org_cost": "$33.5M",
+		"sem_cost": "$13.7K"
+	},
+	{
+		"domain": "thegreatcompany.com",
+		"index": 1162,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thegoneapp.com",
+		"index": 1163,
+		"org_cost": "$522",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thefundingportal.com",
+		"index": 1164,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1165,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1166,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thefunded.com",
+		"index": 1167,
+		"org_cost": "$585",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thefumusic.com",
+		"index": 1168,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1169,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thefreedomline.com",
+		"index": 1170,
+		"org_cost": "$73",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "theflowercraft.com",
+		"index": 1171,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thefinebros.com",
+		"index": 1172,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thefatfighter.sa",
+		"index": 1173,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1174,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thefaceteam.com",
+		"index": 1175,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thedsmgroup.com",
+		"index": 1176,
+		"org_cost": "$15.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thedanceconnexion.com",
+		"index": 1177,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thecurlyfitchic.com",
+		"index": 1178,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thecorestudios.com",
+		"index": 1179,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thecollectivebeat.com",
+		"index": 1180,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thecollective-la.com",
+		"index": 1181,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thechildrenstrust.org.uk",
+		"index": 1182,
+		"org_cost": "$19",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thebrointheknow.com",
+		"index": 1183,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1184,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thebrick.com",
+		"index": 1185,
+		"org_cost": "$23.2K",
+		"sem_cost": "$40"
+	},
+	{
+		"domain": "thebmex.com",
+		"index": 1186,
+		"org_cost": "$70",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1187,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "theblanchard.com",
+		"index": 1188,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thebecks.ca",
+		"index": 1189,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thebeautyplan.com",
+		"index": 1190,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1191,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "theaussiex.com",
+		"index": 1192,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "theatlantic.com",
+		"index": 1193,
+		"org_cost": "$14.8M",
+		"sem_cost": "$20.9K"
+	},
+	{
+		"index": 1194,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1195,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1196,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1197,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "theaterninjas.com",
+		"index": 1198,
+		"org_cost": "$408",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1199,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "thearchivum.com",
+		"index": 1200,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1201,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "theapplabb.com",
+		"index": 1202,
+		"org_cost": "$104",
+		"sem_cost": "$10"
+	},
+	{
+		"domain": "theandgrp.com",
+		"index": 1203,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "the1janitor.com",
+		"index": 1204,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "the-fitness-store.net",
+		"index": 1205,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "thawnoise.com",
+		"index": 1206,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "thatsoxford.com",
+		"index": 1207,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "that-is-all.com",
+		"index": 1208,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "terrainformation.com",
+		"index": 1209,
+		"org_cost": "$26",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "terra.com.br",
+		"index": 1210,
+		"org_cost": "$34.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1211,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "teradata.com",
+		"index": 1212,
+		"org_cost": "$201K",
+		"sem_cost": "$3.6K"
+	},
+	{
+		"domain": "telus.blackberry.net",
+		"index": 1213,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1214,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1215,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1216,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1217,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "telefilm.ca",
+		"index": 1218,
+		"org_cost": "$915",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "telcibey.com.tr",
+		"index": 1219,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "teientertainment.com",
+		"index": 1220,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "techtranslated.com",
+		"index": 1221,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1222,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1223,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "techraptor.net",
+		"index": 1224,
+		"org_cost": "$15.0K",
+		"sem_cost": "$24"
+	},
+	{
+		"domain": "technologiestrade.com",
+		"index": 1225,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1226,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1227,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1228,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "techinsider.io",
+		"index": 1229,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "techinclusion.co",
+		"index": 1230,
+		"org_cost": "$253",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "techforceoncall.com",
+		"index": 1231,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1232,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "techconnect.nl",
+		"index": 1233,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1234,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1235,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1236,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tech.co",
+		"index": 1237,
+		"org_cost": "$41.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1238,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1239,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "team2.to",
+		"index": 1240,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "teach-me-spanish.es",
+		"index": 1241,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1242,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tdwi.org",
+		"index": 1243,
+		"org_cost": "$59.1K",
+		"sem_cost": "$5.3K"
+	},
+	{
+		"domain": "tdsecurities.com",
+		"index": 1244,
+		"org_cost": "$7.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1245,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1246,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "td.com",
+		"index": 1247,
+		"org_cost": "$264K",
+		"sem_cost": "$113"
+	},
+	{
+		"index": 1248,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1249,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1250,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1251,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1252,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1253,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1254,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1255,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tcu360.com",
+		"index": 1256,
+		"org_cost": "$8.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tconfidentwoman.com",
+		"index": 1257,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1258,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tcn.net",
+		"index": 1259,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "tcheu.be",
+		"index": 1260,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tcamusicgroup.com",
+		"index": 1261,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tbs-education.org",
+		"index": 1262,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tbkcreative.com",
+		"index": 1263,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "taxrecoveryservices.com",
+		"index": 1264,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1265,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tawileh.net",
+		"index": 1266,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1267,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tavakoli.me",
+		"index": 1268,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "tasky.me",
+		"index": 1269,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "taskbob.com",
+		"index": 1270,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1271,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "targetprocess.com",
+		"index": 1272,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "tarenguy.com",
+		"index": 1273,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1274,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1275,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1276,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "tapdaq.com",
+		"index": 1277,
+		"org_cost": "$6",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "talkingwithheroes.com",
+		"index": 1278,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "taliaslegacy.org",
+		"index": 1279,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1280,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "talgroup.net",
+		"index": 1281,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "talend.com",
+		"index": 1282,
+		"org_cost": "$146K",
+		"sem_cost": "$16.3K"
+	},
+	{
+		"domain": "takemorephotos.com",
+		"index": 1283,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "takemetoyourleena.com",
+		"index": 1284,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "takemeoutnyc.com",
+		"index": 1285,
+		"org_cost": "$27",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "takeitngo.com",
+		"index": 1286,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "takeashot.lv",
+		"index": 1287,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "t-cons.com",
+		"index": 1288,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "systematics.ca",
+		"index": 1289,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1290,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "system45.com",
+		"index": 1291,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1292,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "syslog.com",
+		"index": 1293,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "synap.ac",
+		"index": 1294,
+		"org_cost": "$1.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "symtrax.com",
+		"index": 1295,
+		"org_cost": "$50",
+		"sem_cost": "$3.3K"
+	},
+	{
+		"domain": "symphonyseries.ca",
+		"index": 1296,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1297,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1298,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1299,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1300,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1301,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1302,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1303,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1304,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1305,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1306,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1307,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1308,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sympatico.ca",
+		"index": 1309,
+		"org_cost": "$5.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sylvainwhissell.com",
+		"index": 1310,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1311,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sygnuscorp.com",
+		"index": 1312,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1313,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1314,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1315,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1316,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1317,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1318,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "syapse.com",
+		"index": 1319,
+		"org_cost": "$114",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1320,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sxswv2v.com",
+		"index": 1321,
+		"org_cost": "$228",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "switchvideo.com",
+		"index": 1322,
+		"org_cost": "$5.8K",
+		"sem_cost": "$646"
+	},
+	{
+		"domain": "swishlabs.co",
+		"index": 1323,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1324,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1325,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "swirrl.com",
+		"index": 1326,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sweetasacandy.com",
+		"index": 1327,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1328,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1329,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "swebdevelopment.com",
+		"index": 1330,
+		"org_cost": "$3.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "swapmedia.ca",
+		"index": 1331,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "swanorg.com",
+		"index": 1332,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sussex.ac.uk",
+		"index": 1333,
+		"org_cost": "$16.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "surprisehighway.com",
+		"index": 1334,
+		"org_cost": "$16",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "surfair.com",
+		"index": 1335,
+		"org_cost": "$31.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "surajreddy.com",
+		"index": 1336,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1337,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "supersonic-soul.com",
+		"index": 1338,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sunstonecommunication.com",
+		"index": 1339,
+		"org_cost": "$70",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1340,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1341,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1342,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1343,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1344,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sunlife.com",
+		"index": 1345,
+		"org_cost": "$112K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sunir.org",
+		"index": 1346,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sunglassesshop.com",
+		"index": 1347,
+		"org_cost": "$198",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "summitelec.com",
+		"index": 1348,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sulibreaks.com",
+		"index": 1349,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1350,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "suite4social.com",
+		"index": 1351,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1352,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sugester.com",
+		"index": 1353,
+		"org_cost": "$52",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sugarlanddance.com",
+		"index": 1354,
+		"org_cost": "$127",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1355,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "studiofunction.com",
+		"index": 1356,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1357,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "studio71.com",
+		"index": 1358,
+		"org_cost": "$3.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1359,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "studeohq.com",
+		"index": 1360,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "studentsuccess.org",
+		"index": 1361,
+		"org_cost": "$2.2K",
+		"sem_cost": "$2.8K"
+	},
+	{
+		"domain": "studentlifecare.com",
+		"index": 1362,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "student.wayne.k12.in.us",
+		"index": 1363,
+		"org_cost": "$39.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "student.stenden.com",
+		"index": 1364,
+		"org_cost": "$481",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "student.bridgew.edu",
+		"index": 1365,
+		"org_cost": "$166K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "strongproductions.com.au",
+		"index": 1366,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1367,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "strongerteam.com",
+		"index": 1368,
+		"org_cost": "$45",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1369,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "stringcaninteractive.com",
+		"index": 1370,
+		"org_cost": "$186",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "streetschool.it",
+		"index": 1371,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stouffvilletoyota.net",
+		"index": 1372,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stouffvillehyundai.com",
+		"index": 1373,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1374,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1375,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1376,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1377,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1378,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1379,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1380,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1381,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1382,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1383,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "storify.com",
+		"index": 1384,
+		"org_cost": "$56.9K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stockfridge.com",
+		"index": 1385,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stnfdtc.com",
+		"index": 1386,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stith.me",
+		"index": 1387,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1388,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "stitchmedia.ca",
+		"index": 1389,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stillavin.pro",
+		"index": 1390,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stigmasearch.com",
+		"index": 1391,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1392,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1393,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1394,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1395,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1396,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1397,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "stickybeat.se",
+		"index": 1398,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sticktocute.se",
+		"index": 1399,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "stevepereira.ca",
+		"index": 1400,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sterling-turner.com",
+		"index": 1401,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1402,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1403,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1404,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1405,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "stereotonic.com",
+		"index": 1406,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "steer.me",
+		"index": 1407,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "steamandrye.com",
+		"index": 1408,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stayrcc.com",
+		"index": 1409,
+		"org_cost": "$152",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stayfly.biz",
+		"index": 1410,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "statslc.com",
+		"index": 1411,
+		"org_cost": "$106",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stathletes.com",
+		"index": 1412,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "state.mn.us",
+		"index": 1413,
+		"org_cost": "$2.8M",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1414,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1415,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1416,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "startupweekend.org",
+		"index": 1417,
+		"org_cost": "$4.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "startupsocials.com",
+		"index": 1418,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1419,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1420,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "startupsn.com",
+		"index": 1421,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1422,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1423,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "startupmatches.org",
+		"index": 1424,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "startmail.com",
+		"index": 1425,
+		"org_cost": "$1.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "starsof.com",
+		"index": 1426,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1427,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "starfield.ca",
+		"index": 1428,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "starduck.sk",
+		"index": 1429,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "standupomsk.com",
+		"index": 1430,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "standupcomedy.com.br",
+		"index": 1431,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1432,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "stamplay.com",
+		"index": 1433,
+		"org_cost": "$37",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stackoverflow.com",
+		"index": 1434,
+		"org_cost": "$4.2M",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1435,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1436,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "stackmob.com",
+		"index": 1437,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "stackadapt.com",
+		"index": 1438,
+		"org_cost": "$2.2K",
+		"sem_cost": "$6.1K"
+	},
+	{
+		"domain": "st-helenascofe.lincs.sch.uk",
+		"index": 1439,
+		"org_cost": "$952",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1440,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1441,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1442,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1443,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1444,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1445,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1446,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1447,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sree.net",
+		"index": 1448,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "src.edu",
+		"index": 1449,
+		"org_cost": "$66.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sracanada.com",
+		"index": 1450,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sqlpass.org",
+		"index": 1451,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "spssinfo.com",
+		"index": 1452,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sprouter.com",
+		"index": 1453,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sprk-d.com",
+		"index": 1454,
+		"org_cost": "$857",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1455,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1456,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1457,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1458,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "springboardmarketing.com",
+		"index": 1459,
+		"org_cost": "$307",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sportsmediachallenge.com",
+		"index": 1460,
+		"org_cost": "$12",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sportdog.net",
+		"index": 1461,
+		"org_cost": "$9",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1462,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sportball.ca",
+		"index": 1463,
+		"org_cost": "$20",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "splc-pl.org",
+		"index": 1464,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "spindance.com",
+		"index": 1465,
+		"org_cost": "$282",
+		"sem_cost": "$54"
+	},
+	{
+		"domain": "spiderg.com",
+		"index": 1466,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1467,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1468,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "speedmotion.co.uk",
+		"index": 1469,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "spectrasymbol.com",
+		"index": 1470,
+		"org_cost": "$547",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sparklytips.com",
+		"index": 1471,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sp4zie.com",
+		"index": 1472,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "soulpancake.com",
+		"index": 1473,
+		"org_cost": "$8.8K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sorryapp.com",
+		"index": 1474,
+		"org_cost": "$165",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sonspring.com",
+		"index": 1475,
+		"org_cost": "$39",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "soniastravels.com",
+		"index": 1476,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "solvy.com",
+		"index": 1477,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1478,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1479,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1480,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1481,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1482,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1483,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1484,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1485,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1486,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1487,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1488,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1489,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1490,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1491,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1492,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "solstice-mobile.com",
+		"index": 1493,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "solidstategroup.com",
+		"index": 1494,
+		"org_cost": "$6",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "solidcutfactory.com",
+		"index": 1495,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "solertium.com",
+		"index": 1496,
+		"org_cost": "$11",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1497,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1498,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1499,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "softwareforgood.com",
+		"index": 1500,
+		"org_cost": "$160",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "softersoftware.com",
+		"index": 1501,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sofaraway.it",
+		"index": 1502,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "socialsuccess.dk",
+		"index": 1503,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1504,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "socialstatus.io",
+		"index": 1505,
+		"org_cost": "$157",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "socialpanda.co.uk",
+		"index": 1506,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1507,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sociallyactive.ca",
+		"index": 1508,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1509,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1510,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1511,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "socialinnovation.ca",
+		"index": 1512,
+		"org_cost": "$13",
+		"sem_cost": "$1"
+	},
+	{
+		"index": 1513,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "socialightconference.com",
+		"index": 1514,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1515,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "socialbeat.in",
+		"index": 1516,
+		"org_cost": "$781",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sociable.co",
+		"index": 1517,
+		"org_cost": "$933",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "socedo-2.mail.intercom.io",
+		"index": 1518,
+		"org_cost": "$529",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sobrietyforwomen.com",
+		"index": 1519,
+		"org_cost": "$560",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1520,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sobralty.com",
+		"index": 1521,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "snowdeal.org",
+		"index": 1522,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sneakyzebra.com",
+		"index": 1523,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1524,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "snapeda.com",
+		"index": 1525,
+		"org_cost": "$1.0K",
+		"sem_cost": "$29"
+	},
+	{
+		"domain": "smudgethis.com",
+		"index": 1526,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smosh.com",
+		"index": 1527,
+		"org_cost": "$2.1M",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1528,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1529,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "smoothpay.com",
+		"index": 1530,
+		"org_cost": "$7",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smithbucklin.com",
+		"index": 1531,
+		"org_cost": "$4.8K",
+		"sem_cost": "$535"
+	},
+	{
+		"domain": "smithandconnors.com",
+		"index": 1532,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smbu.com",
+		"index": 1533,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smashingred.com",
+		"index": 1534,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "smarthire.io",
+		"index": 1535,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smartfair.me",
+		"index": 1536,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "smartbooksonline.com.au",
+		"index": 1537,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "smartadaptableproven.com",
+		"index": 1538,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1539,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "smallscreennetwork.com",
+		"index": 1540,
+		"org_cost": "$5.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "slugbooks.com",
+		"index": 1541,
+		"org_cost": "$27.0K",
+		"sem_cost": "$796"
+	},
+	{
+		"index": 1542,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "slingshotvoip.com",
+		"index": 1543,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1544,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1545,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1546,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1547,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "slimcutmedia.com",
+		"index": 1548,
+		"org_cost": "$87",
+		"sem_cost": "$193"
+	},
+	{
+		"index": 1549,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "slidecraft.com",
+		"index": 1550,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sleepiscommercial.com",
+		"index": 1551,
+		"org_cost": "$30",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "slcollege.ac.uk",
+		"index": 1552,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1553,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1554,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1555,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1556,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1557,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1558,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1559,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1560,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1561,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1562,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1563,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1564,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1565,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1566,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1567,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1568,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "slate.com",
+		"index": 1569,
+		"org_cost": "$7.2M",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1570,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1571,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1572,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "slack.com",
+		"index": 1573,
+		"org_cost": "$2.2M",
+		"sem_cost": "$252K"
+	},
+	{
+		"domain": "skype.com",
+		"index": 1574,
+		"org_cost": "$6.3M",
+		"sem_cost": "$321K"
+	},
+	{
+		"domain": "skyexits.com",
+		"index": 1575,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sky.com",
+		"index": 1576,
+		"org_cost": "$1.1M",
+		"sem_cost": "$31"
+	},
+	{
+		"index": 1577,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "skindler.com",
+		"index": 1578,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "skincarewithross.com",
+		"index": 1579,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sivhd.com",
+		"index": 1580,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sit-n-go-strategie.de",
+		"index": 1581,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sistajoy.com",
+		"index": 1582,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1583,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1584,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1585,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1586,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "singspiel.ca",
+		"index": 1587,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "singer.to",
+		"index": 1588,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sina.com",
+		"index": 1589,
+		"org_cost": "$60.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1590,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "simplifyanalytics.com",
+		"index": 1591,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "simonjrowe.com",
+		"index": 1592,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1593,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "silica.com",
+		"index": 1594,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "silentstarsentertainment.com",
+		"index": 1595,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "silentgliss.com",
+		"index": 1596,
+		"org_cost": "$205",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1597,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sidekick.pro",
+		"index": 1598,
+		"org_cost": "$210",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sidechainmgmt.com",
+		"index": 1599,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "siberia.io",
+		"index": 1600,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "si.edu",
+		"index": 1601,
+		"org_cost": "$3.2M",
+		"sem_cost": "$137K"
+	},
+	{
+		"domain": "shoplocket.com",
+		"index": 1602,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shirkofficial.com",
+		"index": 1603,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shinysprocket.com",
+		"index": 1604,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sheppardvillagedental.com",
+		"index": 1605,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sheet-metal-depot-toronto.com",
+		"index": 1606,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shawthing.com",
+		"index": 1607,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1608,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "shawnlepp.com",
+		"index": 1609,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1610,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1611,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "shaw.ca",
+		"index": 1612,
+		"org_cost": "$1.0M",
+		"sem_cost": "$291"
+	},
+	{
+		"index": 1613,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sharpscholar.com",
+		"index": 1614,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sharpcall.ca",
+		"index": 1615,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sharingforce.com",
+		"index": 1616,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sharebombbeats.com",
+		"index": 1617,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1618,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "shanta.ca",
+		"index": 1619,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shanson.co",
+		"index": 1620,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "shanerounce.com",
+		"index": 1621,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1622,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "shak.tv",
+		"index": 1623,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "shak.biz",
+		"index": 1624,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sfu.ca",
+		"index": 1625,
+		"org_cost": "$109K",
+		"sem_cost": "$73"
+	},
+	{
+		"index": 1626,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sfnewtech.com",
+		"index": 1627,
+		"org_cost": "$70",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sfmusictech.com",
+		"index": 1628,
+		"org_cost": "$296",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sfangelsgroup.com",
+		"index": 1629,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1630,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1631,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1632,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "seznam.cz",
+		"index": 1633,
+		"org_cost": "$187K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "severeidaho.com",
+		"index": 1634,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sevencontinents.com",
+		"index": 1635,
+		"org_cost": "$33",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1636,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1637,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "setscouter.com",
+		"index": 1638,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sethgrabel.com",
+		"index": 1639,
+		"org_cost": "$19.1K",
+		"sem_cost": "$13"
+	},
+	{
+		"domain": "servotronix.com",
+		"index": 1640,
+		"org_cost": "$63",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "service.amazon.com",
+		"index": 1641,
+		"org_cost": "$269M",
+		"sem_cost": "$60.8M"
+	},
+	{
+		"domain": "sepiariver.com",
+		"index": 1642,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sensorsuite.com",
+		"index": 1643,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sensassure.com",
+		"index": 1644,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sens.ai",
+		"index": 1645,
+		"org_cost": "$4",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "semf.se",
+		"index": 1646,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "self-culture.com",
+		"index": 1647,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "selectsothebysrealty.com",
+		"index": 1648,
+		"org_cost": "$2.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "seez.co",
+		"index": 1649,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "seekhomes.ca",
+		"index": 1650,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "seedcode.com",
+		"index": 1651,
+		"org_cost": "$1.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "seed.net.tw",
+		"index": 1652,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "securenet.ca",
+		"index": 1653,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "secudeus.com",
+		"index": 1654,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "secude.com",
+		"index": 1655,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "secretweaponmedia.ca",
+		"index": 1656,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "secondchance.co.uk",
+		"index": 1657,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1658,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "seansmith.ca",
+		"index": 1659,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1660,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "seamuslyte.com",
+		"index": 1661,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sealthedealteam.com",
+		"index": 1662,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sdi.edu",
+		"index": 1663,
+		"org_cost": "$37.0K",
+		"sem_cost": "$192"
+	},
+	{
+		"index": 1664,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1665,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1666,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1667,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1668,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1669,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "scrollmotion.com",
+		"index": 1670,
+		"org_cost": "$404",
+		"sem_cost": "$870"
+	},
+	{
+		"domain": "scripting.com",
+		"index": 1671,
+		"org_cost": "$1.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1672,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1673,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1674,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1675,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "scribenet.com",
+		"index": 1676,
+		"org_cost": "$215",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1677,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "scout.org",
+		"index": 1678,
+		"org_cost": "$327",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "scottbeale.org",
+		"index": 1679,
+		"org_cost": "$13",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "scotlandyard.ee",
+		"index": 1680,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1681,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1682,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1683,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1684,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1685,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1686,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1687,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1688,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1689,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "scotiabank.com",
+		"index": 1690,
+		"org_cost": "$302K",
+		"sem_cost": "$293"
+	},
+	{
+		"domain": "scootmagazine.com",
+		"index": 1691,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "scm.ca",
+		"index": 1692,
+		"org_cost": "$71",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "scienceofnaturalgame.com",
+		"index": 1693,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sciencehouse.com",
+		"index": 1694,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "schulick.yorku.ca",
+		"index": 1695,
+		"org_cost": "$125K",
+		"sem_cost": "$158"
+	},
+	{
+		"domain": "schulich.yorku.ca",
+		"index": 1696,
+		"org_cost": "$125K",
+		"sem_cost": "$158"
+	},
+	{
+		"index": 1697,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1698,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1699,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "schillmania.com",
+		"index": 1700,
+		"org_cost": "$271",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sbtv.co.uk",
+		"index": 1701,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1702,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sbmblaw.com",
+		"index": 1703,
+		"org_cost": "$10",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1704,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1705,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sbcglobal.net",
+		"index": 1706,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "savenubia.org",
+		"index": 1707,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "saucal.com",
+		"index": 1708,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sasktel.net",
+		"index": 1709,
+		"org_cost": "$274",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "saskatoonideas.com",
+		"index": 1710,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sarahlesh.com",
+		"index": 1711,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "saptips.com",
+		"index": 1712,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "saprankings.com",
+		"index": 1713,
+		"org_cost": "$221",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1714,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sapphireofficial.com",
+		"index": 1715,
+		"org_cost": "$55",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1716,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1717,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1718,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1719,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1720,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1721,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sapandasug.com",
+		"index": 1722,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1723,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1724,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1725,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1726,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1727,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1728,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1729,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sap.com",
+		"index": 1730,
+		"org_cost": "$1.8M",
+		"sem_cost": "$319K"
+	},
+	{
+		"index": 1731,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sanfrancisco.fi",
+		"index": 1732,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sandmansinferno.com",
+		"index": 1733,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "sananas2106.com",
+		"index": 1734,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "samsungaccelerator.com",
+		"index": 1735,
+		"org_cost": "$85",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1736,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "samsung.com",
+		"index": 1737,
+		"org_cost": "$20.8M",
+		"sem_cost": "$1.8M"
+	},
+	{
+		"domain": "sammyrosen.com",
+		"index": 1738,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sammylau.com",
+		"index": 1739,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "samlegros.com",
+		"index": 1740,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1741,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "salesforce.com",
+		"index": 1742,
+		"org_cost": "$11.9M",
+		"sem_cost": "$604K"
+	},
+	{
+		"domain": "salahmed.com",
+		"index": 1743,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "saintilcommunications.com",
+		"index": 1744,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "saic.edu",
+		"index": 1745,
+		"org_cost": "$246K",
+		"sem_cost": "$6.2K"
+	},
+	{
+		"index": 1746,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "sagerecruiting.me",
+		"index": 1747,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "safe-tracks.com",
+		"index": 1748,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "safe-mail.net",
+		"index": 1749,
+		"org_cost": "$91.6K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "saextreme.co.za",
+		"index": 1750,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sad-but-true.de",
+		"index": 1751,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "sabercow.com",
+		"index": 1752,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1753,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ryersonfutures.ca",
+		"index": 1754,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ryersonangelnetwork.com",
+		"index": 1755,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1756,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1757,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1758,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1759,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1760,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1761,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1762,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1763,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1764,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1765,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1766,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1767,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1768,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1769,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1770,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1771,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1772,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1773,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1774,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1775,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1776,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1777,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1778,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1779,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1780,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1781,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1782,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1783,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1784,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1785,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1786,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1787,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1788,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1789,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1790,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1791,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1792,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1793,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1794,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1795,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1796,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1797,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1798,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1799,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1800,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1801,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1802,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1803,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1804,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1805,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1806,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1807,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1808,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1809,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1810,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1811,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1812,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1813,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1814,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1815,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ryerson.ca",
+		"index": 1816,
+		"org_cost": "$120K",
+		"sem_cost": "$10"
+	},
+	{
+		"domain": "ruv.net",
+		"index": 1817,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "runfortheearth.org",
+		"index": 1818,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1819,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1820,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1821,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rumie.org",
+		"index": 1822,
+		"org_cost": "$4",
+		"sem_cost": "$686"
+	},
+	{
+		"domain": "rumblefish.com",
+		"index": 1823,
+		"org_cost": "$1.5K",
+		"sem_cost": "$333"
+	},
+	{
+		"domain": "ruboss.com",
+		"index": 1824,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rub.de",
+		"index": 1825,
+		"org_cost": "$524",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1826,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1827,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1828,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1829,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1830,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1831,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1832,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1833,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1834,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1835,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1836,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1837,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1838,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1839,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1840,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rts.kijiji.ca",
+		"index": 1841,
+		"org_cost": "$642K",
+		"sem_cost": "$35"
+	},
+	{
+		"domain": "rtlong.com",
+		"index": 1842,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rtggroupinc.com",
+		"index": 1843,
+		"org_cost": "$5",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "royfoss.com",
+		"index": 1844,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "royalmouldtech.com",
+		"index": 1845,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1846,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1847,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "royallepage.ca",
+		"index": 1848,
+		"org_cost": "$18.5K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "roverparking.com",
+		"index": 1849,
+		"org_cost": "$114",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rotman.utoronto.ca",
+		"index": 1850,
+		"org_cost": "$417K",
+		"sem_cost": "$179K"
+	},
+	{
+		"domain": "ronaldpbarba.com",
+		"index": 1851,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rollyourownpaper.com",
+		"index": 1852,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "roks.ca",
+		"index": 1853,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rokkincat.com",
+		"index": 1854,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "roiiiy.com",
+		"index": 1855,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1856,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1857,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1858,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1859,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1860,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1861,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1862,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1863,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1864,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1865,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1866,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1867,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1868,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1869,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1870,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1871,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1872,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1873,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1874,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1875,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1876,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1877,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1878,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1879,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1880,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1881,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1882,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1883,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1884,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1885,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1886,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1887,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1888,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1889,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1890,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1891,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1892,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1893,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1894,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1895,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1896,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1897,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1898,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1899,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1900,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1901,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1902,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1903,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1904,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1905,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1906,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1907,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1908,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1909,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1910,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1911,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1912,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1913,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1914,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1915,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1916,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1917,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1918,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1919,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1920,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1921,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1922,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1923,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1924,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1925,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1926,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1927,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1928,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rogers.com",
+		"index": 1929,
+		"org_cost": "$157K",
+		"sem_cost": "$591"
+	},
+	{
+		"index": 1930,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1931,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1932,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1933,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rogers.blackberry.net",
+		"index": 1934,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rockhardlive.com",
+		"index": 1935,
+		"org_cost": "$2",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rockforevermagazine.com",
+		"index": 1936,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1937,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rocketmail.com",
+		"index": 1938,
+		"org_cost": "$296",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rocketbank.ru",
+		"index": 1939,
+		"org_cost": "$3",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1940,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rockalight.com",
+		"index": 1941,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "robtarr.net",
+		"index": 1942,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "robotsandpencils.com",
+		"index": 1943,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1944,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "robinreadgriffin.com",
+		"index": 1945,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "robinpowered.com",
+		"index": 1946,
+		"org_cost": "$13.5K",
+		"sem_cost": "$554"
+	},
+	{
+		"domain": "robg3d.com",
+		"index": 1947,
+		"org_cost": "$8",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "robesondesign.com",
+		"index": 1948,
+		"org_cost": "$1.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "roberthaverly.com",
+		"index": 1949,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1950,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "robbwolf.com",
+		"index": 1951,
+		"org_cost": "$102K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "roadtrippers.com",
+		"index": 1952,
+		"org_cost": "$574K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1953,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1954,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "roadmunk.com",
+		"index": 1955,
+		"org_cost": "$19.1K",
+		"sem_cost": "$3.3K"
+	},
+	{
+		"domain": "road-scholars.com",
+		"index": 1956,
+		"org_cost": "$1",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rmdm-ca-mail.com",
+		"index": 1957,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1958,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "riviera.org.uk",
+		"index": 1959,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "risingangermetal.de",
+		"index": 1960,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rippleit.com",
+		"index": 1961,
+		"org_cost": "$2.7K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rim.com",
+		"index": 1962,
+		"org_cost": "$219",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rikrikrik.com",
+		"index": 1963,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rightster.com",
+		"index": 1964,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "righthookrecords.com",
+		"index": 1965,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 1966,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1967,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1968,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1969,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1970,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1971,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "rightbluelabs.com",
+		"index": 1972,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rigashootingrange.com",
+		"index": 1973,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1974,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1975,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1976,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ride.com",
+		"index": 1977,
+		"org_cost": "$3.0K",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1978,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "ricostacruz.com",
+		"index": 1979,
+		"org_cost": "$2.2K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rickystrong.org",
+		"index": 1980,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "rickjobin.com",
+		"index": 1981,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"domain": "richmaloy.com",
+		"index": 1982,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1983,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "riccentre.com",
+		"index": 1984,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "ribbonfarm.com",
+		"index": 1985,
+		"org_cost": "$1.3K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "rhinoark.org",
+		"index": 1986,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 1987,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1988,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1989,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1990,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1991,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1992,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1993,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1994,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1995,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1996,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1997,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1998,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 1999,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 2000,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 2001,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 2002,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	}
+]

@@ -1,0 +1,122 @@
+[
+	{
+		"domain": "twitter.com",
+		"index": 0,
+		"org_cost": "$447M",
+		"sem_cost": "$251K"
+	},
+	{
+		"domain": "+endy.com",
+		"index": 1,
+		"org_cost": "$2.6K",
+		"sem_cost": "$2"
+	},
+	{
+		"domain": "ca",
+		"index": 2,
+		"org_cost": "$577K",
+		"sem_cost": "$181K"
+	},
+	{
+		"domain": "cities",
+		"index": 3,
+		"org_cost": "$21.0M",
+		"sem_cost": "$698K"
+	},
+	{
+		"domain": "ca",
+		"index": 4,
+		"org_cost": "$577K",
+		"sem_cost": "$181K"
+	},
+	{
+		"domain": "+sprint.ly",
+		"index": 5,
+		"org_cost": "$4.1K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+zoom.ai",
+		"index": 6,
+		"org_cost": "$161",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+nielsen.com",
+		"index": 7,
+		"org_cost": "$184K",
+		"sem_cost": "$3.4K"
+	},
+	{
+		"domain": "+comarch.com",
+		"index": 8,
+		"org_cost": "$9.2K",
+		"sem_cost": "$926"
+	},
+	{
+		"domain": "+interac.ca",
+		"index": 9,
+		"org_cost": "$24.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+juniperlifeinsurance.com",
+		"index": 10,
+		"org_cost": "$176",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+sweetiq.com",
+		"index": 11,
+		"org_cost": "$1.8K",
+		"sem_cost": "$950"
+	},
+	{
+		"domain": "+rangle.io",
+		"index": 12,
+		"org_cost": "$26.9K",
+		"sem_cost": "$544"
+	},
+	{
+		"domain": "rangle.io",
+		"index": 13,
+		"org_cost": "$26.9K",
+		"sem_cost": "$544"
+	},
+	{
+		"domain": "+bluelinkerp.com",
+		"index": 14,
+		"org_cost": "$24.4K",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+mrkt360.com",
+		"index": 15,
+		"org_cost": "$31",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+try.retreaver.com",
+		"index": 16,
+		"org_cost": "$20",
+		"sem_cost": "$5"
+	},
+	{
+		"domain": "+sdl.com",
+		"index": 17,
+		"org_cost": "$24.7K",
+		"sem_cost": "$63"
+	},
+	{
+		"domain": "+bespotful.com",
+		"index": 18,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"domain": "+environicsanalytics.com",
+		"index": 19,
+		"org_cost": "$2.8K",
+		"sem_cost": "$0"
+	}
+]

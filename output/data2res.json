@@ -1,0 +1,977 @@
+[
+	{
+		"name": "Eropa Stein",
+		"company": "Hyre Growth",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Victor Ongpin",
+		"company": "Jake Talks",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Daniel DiGiorgio",
+		"company": "cidel",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Brian Kumaraswamy",
+		"company": "IWD",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Inmar Givoni",
+		"company": "Kindred",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Ash Kumar",
+		"company": "VanHack",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Yousuf Khatib",
+		"company": "VanHack",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Giri Amarakone",
+		"company": "DeepPiXEL AI",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Kieron Sewell",
+		"company": "TechTO",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Sumant Pujari",
+		"company": "Edge196",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Nafis Ahmed",
+		"company": "Legal Innovation Zone",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Josh Langan",
+		"company": "MCN",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Behrouz Hariri",
+		"company": "SMART NORA Inc",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Michael English",
+		"company": "Dancetheatre David Earle",
+		"employeeCount": ""
+	},
+	{
+		"name": "George Eyre",
+		"company": "Toronto Arts and Events",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Eamon O'Connor",
+		"company": "Refraction Films",
+		"employeeCount": "201-500 employees"
+	},
+	{
+		"name": "Andrew Budd",
+		"company": "Team Elevate",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Karen Katchen",
+		"company": "Partner",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Bernie Katchen",
+		"company": "Partner",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Romeo lula",
+		"company": "Coconut Calendar",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Michelle Mathias",
+		"company": "Cision",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Edward Bryant",
+		"company": "Sampford Advisors",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Mike Lambrix",
+		"company": "Sampford Advisors",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Xaviera Diaz",
+		"company": "9to5 Disruped",
+		"employeeCount": ""
+	},
+	{
+		"name": "Michelle Mika",
+		"company": "Hacking Health",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Jessica Miller",
+		"company": "University of Toronto",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Anna Sottto",
+		"company": "Ontario Government",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "R. Jacqueline Dsouza",
+		"company": "Linx Connect",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Gurdeep Singh",
+		"company": "Growth Hacker",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Andrew Haller",
+		"company": "TOHealth",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Ella Korets-Smith",
+		"company": "TOHealth",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Chris Chan",
+		"company": "Dwello",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Moussa Tancharani",
+		"company": "Dwello",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Vanessa Wyse",
+		"company": "Studio Wyse",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Stephanie Hurtado",
+		"company": "Thomson Reuters",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Luis Antunes",
+		"company": "Thomson Reuters",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Sean Ho Lung",
+		"company": "Homebound",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Shelby Pickett",
+		"company": "Albedo Informatics Inc",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "John Curtin",
+		"company": "Albedo Informatics Inc",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Jeff Knechtel",
+		"company": "Exchange Solutions Inc",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Kai Shimuzi",
+		"company": "Toyota Tsusho Canada Inc.",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Marc Coututier",
+		"company": "Toyota Tsusho Canada Inc.",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Janelle Hinds",
+		"company": "Helping hands",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Rishi Dhir",
+		"company": "Stikeman Elliot LLP",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "James Rubec",
+		"company": "Cision",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Andrea Lekushoff",
+		"company": "Broad Reach Communications",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Adil Dhalla",
+		"company": "Centre for Social Innovation",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Alex Dordevic",
+		"company": "Tribe Magazine",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Zoe Layne",
+		"company": "KLINK Coffee",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Mark Kerwin",
+		"company": "Journal of Community correction",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Samantha Schreiber",
+		"company": "Spark LLP",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Sanjay Kutty",
+		"company": "SPark LLP",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Karim Jadavji",
+		"company": "Intelliware Develpoment",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Karim Sumar",
+		"company": "InstaRyde",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Hadi Hami",
+		"company": "Steel Sky Group Ltd",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Ke Zheng",
+		"company": "Startup & Techup 4 Chinese @GTA",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Aqsa Zubair",
+		"company": "Deloitte",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Andy Liu",
+		"company": "InfoTech",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Mitansh Dave",
+		"company": "InfoTech",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Denys Linkov",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "David Glazer",
+		"company": "InfoTech",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Guy Yango",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Phong Huynh",
+		"company": "Hubba",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "John De Guzman",
+		"company": "Hubba",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Michael Henry",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Cassie Mackenzie",
+		"company": "Scotiabank",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Lindsay Ellis",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "David Levy",
+		"company": "Futureale",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Pia Garcia",
+		"company": "UT",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Lisa Belbeck",
+		"company": "MBA",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Rajeev Sakhuja",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Andreas Windemuth",
+		"company": "Cyclica Inc",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Raj Birring",
+		"company": "Enthalpy",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Garnet Smith",
+		"company": "Enthalpy",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Anton Brinovec",
+		"company": "Tech Partrners",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Patrick Nihill",
+		"company": "Tech Partrners",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Kelvin Cuma",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Emily Boucher",
+		"company": "Bitmaker Labs",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Abuzar Chaudhary",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Simon Mills",
+		"company": "Ratehub.ca",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Kate Schlussler",
+		"company": "EventMobi",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Mark Ramsay",
+		"company": "EventMobi",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Hussain Punjani",
+		"company": "University of Toronto",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Lors kushtov",
+		"company": "University of Toronto",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Athinthra Krishnaswamy",
+		"company": "McMaster University",
+		"employeeCount": "5001-10,000 employees"
+	},
+	{
+		"name": "Abirmai Thirumalaisamy",
+		"company": "KPMG",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Nazila Akbari",
+		"company": "Be Candaian Be Proud",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Caroline Fernandes",
+		"company": "GE Healthcare",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Connor Taras",
+		"company": "Intellycs",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Stephen Martone",
+		"company": "Diply",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Tiffany Mah",
+		"company": "Ontario Government",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Vanessa Garofalo",
+		"company": "MEDG/MRIS",
+		"employeeCount": ""
+	},
+	{
+		"name": "Morvarid Rohani",
+		"company": "Communihelp Inc",
+		"employeeCount": "501-1000 employees"
+	},
+	{
+		"name": "Mayna Murray",
+		"company": "Sunnybrook",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Above Znoneofthe",
+		"company": "Above it All",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Dolly Audit",
+		"company": "Method x Design",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "David Tran",
+		"company": "Garrison Bespoke",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Dorian Munroe",
+		"company": "Filmgate",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Steve Wilson",
+		"company": "Growth Matters",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "David Huggins",
+		"company": "Scotiabank",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Phil Seymour",
+		"company": "Scotiabank",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Sinath Kim",
+		"company": "CIBC",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Corrine Tansowny",
+		"company": "Western University",
+		"employeeCount": "5001-10,000 employees"
+	},
+	{
+		"name": "Teresa Sing",
+		"company": "ASRA Consulting",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Ana Miletic",
+		"company": "Ministry",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Maya Newman",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Nasos Makriyiannis",
+		"company": "Komand Consulting",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Alpesh Patel",
+		"company": "Johnston Law",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Erik Tammsalu",
+		"company": "Johnston Law",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Mohan Markandaier",
+		"company": "Good News Ventures",
+		"employeeCount": ""
+	},
+	{
+		"name": "Adrian Duyzer",
+		"company": "Parallel",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Chris Snoyer",
+		"company": "Spiffy",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Dan Forte",
+		"company": "Portl Media",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Wyatt Shaw",
+		"company": "Portl Media",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Gaurav Sharma",
+		"company": "TechTO",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Richard Reiner",
+		"company": "RR",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Ritu Sethi",
+		"company": "Milton Dermatology",
+		"employeeCount": ""
+	},
+	{
+		"name": "Beau Humphreys",
+		"company": "Invest Wisely",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Igli Panariti",
+		"company": "Starters",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Eli Alter",
+		"company": "EJ Management",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Tyler Collins",
+		"company": "Deloitte Digital",
+		"employeeCount": "5001-10,000 employees"
+	},
+	{
+		"name": "Kevin Wilson",
+		"company": "Deloitte",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Chris Dyck",
+		"company": "Deloitte Digital",
+		"employeeCount": "5001-10,000 employees"
+	},
+	{
+		"name": "Peter Kattan",
+		"company": "Wavefront",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Brelynn Tkatch",
+		"company": "Coconut Calendar",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Daira Bajus",
+		"company": "Team Elevate",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "James Breen",
+		"company": "OneEleven",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Mackenzie Neal",
+		"company": "Studenr",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Stepahnie Barbosa",
+		"company": "Pursuit.ca",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "keviin Bartus",
+		"company": "Ideon",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Neil Lokhtnath",
+		"company": "Achievers",
+		"employeeCount": "201-500 employees"
+	},
+	{
+		"name": "Brad Breininger",
+		"company": "Zync",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Monshi Gandhi",
+		"company": "Gradient Ascent",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Jaime Aronmowitz",
+		"company": "Proximiteam",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Balaji Gopalan",
+		"company": "MedStack",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Nicola Hamilton",
+		"company": "Studio Wyse",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Hugh Comeford",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Michael Wright",
+		"company": "Enkidu Inc",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Eaton Asher",
+		"company": "Glyco Polymers",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Mike Arnold",
+		"company": "AT Now",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Nivedita Lobo Gajiwala",
+		"company": "Artemis Canada",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Vandhana Mohanraj",
+		"company": "Lifer",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Vikram Singh",
+		"company": "Alectra",
+		"employeeCount": "5001-10,000 employees"
+	},
+	{
+		"name": "Peter Patterson",
+		"company": "IBM",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Raheel Virani",
+		"company": "Student",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Ibrahim Asadullah",
+		"company": "University of Toronto",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Vishwa Rachamalla",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Taylor Mann",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Caren DesBrisay",
+		"company": "Intelliware Develpoment",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Natalie Bisset",
+		"company": "noursished babe",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Karin Amjad",
+		"company": "Manulife",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Reema Gowani",
+		"company": "CIBC",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Valerie Fernandes",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Karinna Baloch",
+		"company": "Ryerson University",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Jayden Pereira",
+		"company": "Ryerson University",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Nick Katranztzidis",
+		"company": "Ryerson University",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Daviena Biaspal",
+		"company": "Ryerson University",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Walid Shariff",
+		"company": "Government",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Simon Lloyd",
+		"company": "Springwater Woodcraft",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Fern Karsh",
+		"company": "Independent",
+		"employeeCount": "201-500 employees"
+	},
+	{
+		"name": "John Pereira",
+		"company": "Loop",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Andrew Teolis",
+		"company": "ENthalpy",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Rob Massaar",
+		"company": "Newsoi Technologies",
+		"employeeCount": ""
+	},
+	{
+		"name": "Ana Zotvic",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Alison Gibbins",
+		"company": "RBC",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Patrick Searle",
+		"company": "CCI",
+		"employeeCount": "201-500 employees"
+	},
+	{
+		"name": "Dana O'Born",
+		"company": "CCI",
+		"employeeCount": "201-500 employees"
+	},
+	{
+		"name": "Jelena",
+		"company": "Djuric",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Ivan Sharko",
+		"company": "TechTO",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Max Tremaine",
+		"company": "Sherpa",
+		"employeeCount": "1001-5000 employees"
+	},
+	{
+		"name": "Narayan Sainaney",
+		"company": "Mojio",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Josh Reif",
+		"company": "Partner",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Zev Skolnik",
+		"company": "InfoTech",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Olivia Ling",
+		"company": "Garrison Bespoke",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Chris Nepomuceno",
+		"company": "TD",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "James Ton",
+		"company": "TD",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Idas levato",
+		"company": "Startup Toronto",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Gary Solway",
+		"company": "Benett Jones",
+		"employeeCount": "501-1000 employees"
+	},
+	{
+		"name": "Elik Jaeger",
+		"company": "SuiteSpot",
+		"employeeCount": "1-10 employees"
+	},
+	{
+		"name": "Hondy Hung",
+		"company": "CIBC",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Cheryl Cheung",
+		"company": "CIBC",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Killian McGuinness",
+		"company": "WEStern University",
+		"employeeCount": "5001-10,000 employees"
+	},
+	{
+		"name": "ROLAND SING",
+		"company": "Skywatch",
+		"employeeCount": "51-200 employees"
+	},
+	{
+		"name": "Brian Orlotti",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Marc Bruyere",
+		"company": "Capital One",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Daniel Kent",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "Tyson loney",
+		"company": "Drop",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Christal Wang",
+		"company": "Drop",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "Tyson loney",
+		"company": "Drop",
+		"employeeCount": "11-50 employees"
+	},
+	{
+		"name": "",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	},
+	{
+		"name": "",
+		"company": "",
+		"employeeCount": "10,001+ employees"
+	}
+]

@@ -1,0 +1,1422 @@
+[
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 6,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 8,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 9,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 11,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 12,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 18,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 19,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 20,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 24,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 31,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 32,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 42,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 45,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 46,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 49,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 53,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 54,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 55,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 59,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 60,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 64,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 65,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 68,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 70,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 72,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 74,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 80,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 81,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 84,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 85,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 86,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 88,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 89,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 92,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 97,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 100,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 102,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 103,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 105,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 107,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 108,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 110,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 111,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 112,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 114,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 117,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 118,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 119,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 121,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 123,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 124,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 128,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 129,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 131,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 132,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 139,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 141,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 146,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 148,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 149,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 150,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 156,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 158,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 160,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 162,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 164,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 165,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 167,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 168,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 169,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 171,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 175,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 176,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 181,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 187,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 188,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 189,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 190,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 195,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 196,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 198,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 200,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 204,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 206,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 215,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 218,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 220,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 222,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 223,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 226,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 227,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 229,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 233,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 234,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 244,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 246,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 247,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 249,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 252,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 257,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 263,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 265,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 269,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 272,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 274,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 275,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 276,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 282,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 283,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 286,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 290,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 292,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 293,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 295,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 296,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 298,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 301,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 304,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 306,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 309,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 310,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 311,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 314,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 320,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 324,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 326,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 331,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 333,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 335,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 339,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 341,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 343,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 347,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 348,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 351,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 352,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 356,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 365,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 366,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 367,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 368,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 371,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 372,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 376,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 381,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 384,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 385,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 391,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 392,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 395,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 406,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 426,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 428,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 430,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 436,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	[],
+	{
+		"index": 441,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 443,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 446,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 447,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 450,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 451,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 452,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 455,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 456,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 458,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	{
+		"index": 461,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 462,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 463,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 465,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 469,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 470,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 474,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 476,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 477,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 479,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 480,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 481,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 482,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 486,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 487,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	{
+		"index": 489,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 493,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[],
+	[],
+	[],
+	{
+		"index": 497,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"index": 498,
+		"domain": null,
+		"org_cost": null,
+		"sem_cost": null
+	},
+	[]
+]

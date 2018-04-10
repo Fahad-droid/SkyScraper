@@ -1,0 +1,38 @@
+h1 {
+    font-size: 45px;
+    color: black;
+    font-family: 'Libre Barcode 39 Extended Text', cursive;
+    text-align: center; 
+    font-weight: bold;
+    margin-bottom: 100px;
+
+}
+
+body { background-color: #cccccc}
+
+.button:hover {
+    transform: scale(1.1); 
+ } 
+
+#buttons {
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+#textFields {
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    /* color: black; */
+    /* text-align: center; 
+    font-weight: bold;
+    /*  */
+}    
+
+
+
+
+
+

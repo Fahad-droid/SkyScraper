@@ -1,0 +1,30 @@
+[
+	null,
+	{
+		"company": "Marketo",
+		"degreeOfConnection": "2nd",
+		"name": "Matt Zilli",
+		"openlink": "",
+		"position": "Chief Customer Officer",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/2881964,zXQo,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-people-refinement&contextId=DD9C761ABDD50C15C00D6932462B0000&requestId=84afa360-519c-42e7-919d-42f1cd7310cb&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C2881964)&pageNumber=0&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo"
+	},
+	{
+		"company": "World's Foremost Expert on HIPAA AND Cybersecurity",
+		"degreeOfConnection": "2nd",
+		"name": "Craig Petronella",
+		"openlink": "Open link",
+		"position": "Petronella Technology Group, Inc.",
+		"region": "Raleigh-Durham, North Carolina Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/13635153,ENAv,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-people-refinement&contextId=2E5F00FFBDD50C1500314C6B462B0000&requestId=b52c72db-969f-459e-b215-d89202dc3d5d&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C13635153)&pageNumber=0&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo"
+	},
+	{
+		"company": "The Smartass Marketer's Handbook",
+		"degreeOfConnection": "2nd",
+		"name": "Carro Ford",
+		"openlink": "",
+		"position": "Author and Marketing Expert",
+		"region": "Lexington, Kentucky Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/8652357,XRHI,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-people-refinement&contextId=7E5BE3EBBED50C1500B320E9452B0000&requestId=dd17c69b-0ccd-49b4-b48d-1cb79ae58ebe&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C8652357)&pageNumber=0&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo"
+	}
+]

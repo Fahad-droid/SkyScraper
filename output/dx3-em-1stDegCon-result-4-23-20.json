@@ -1,0 +1,2402 @@
+[
+	{
+		"company": "Vantage",
+		"degreeOfConnection": "1st",
+		"name": "Aran Hamilton",
+		"openlink": "Open linkIn CRM",
+		"position": "President, Co-Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/10465,FghZ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(1762216167%2C10465)&pageNumber=0&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Kinetic Commerce",
+		"degreeOfConnection": "2nd",
+		"name": "Chris Carder",
+		"openlink": "Open link",
+		"position": "Co-Founder and Chief Commercialization Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/35260,jeNy,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C35260)&pageNumber=0&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "132"
+	},
+	{
+		"company": "Hill Street Beverage Company",
+		"degreeOfConnection": "2nd",
+		"name": "Terence Donnelly",
+		"openlink": "",
+		"position": "Chief Executive Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/39504,OP-E,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C39504)&pageNumber=0&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "93"
+	},
+	{
+		"company": "Highline BETA",
+		"degreeOfConnection": "2nd",
+		"name": "Marcus Daniels",
+		"openlink": "Open link",
+		"position": "Founding Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/40314,WBpy,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C40314)&pageNumber=0&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "The Automated Method Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Jason Grant",
+		"openlink": "Open link",
+		"position": "CEO + Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/43982,eqYe,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C43982)&pageNumber=0&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "149"
+	},
+	{
+		"company": "EPAM Systems",
+		"degreeOfConnection": "2nd",
+		"name": "chris williams",
+		"openlink": "",
+		"position": "Solutions Architect",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/130385,tZjN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C130385)&pageNumber=0&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "30"
+	},
+	{
+		"company": "Singularity University",
+		"degreeOfConnection": "2nd",
+		"name": "Ramez Naam",
+		"openlink": "",
+		"position": "Co-Chair, Energy and Environment",
+		"region": "Greater Seattle Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/264507,PhSY,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C264507)&pageNumber=0&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Partners Against Child Trafficking",
+		"degreeOfConnection": "2nd",
+		"name": "Rick Naylor",
+		"openlink": "Open link",
+		"position": "Founder & Executive Director",
+		"region": "Austin, Texas Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/270970,sfC5,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C270970)&pageNumber=0&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Talk Boutique",
+		"degreeOfConnection": "2nd",
+		"name": "Andrea Sampson",
+		"openlink": "",
+		"position": "Executive Speaker Coach, Partner & Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/279375,Hgin,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C279375)&pageNumber=0&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "ArtEnvy Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Peter G. Goral",
+		"openlink": "",
+		"position": "Social Media Business Strategist",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/346146,UZTX,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C346146)&pageNumber=0&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Techstars",
+		"degreeOfConnection": "2nd",
+		"name": "Karen Schulman Dupuis",
+		"openlink": "",
+		"position": "Mentor",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/740347,mJF1,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C740347)&pageNumber=0&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "53"
+	},
+	{
+		"company": "Singularity University",
+		"degreeOfConnection": "2nd",
+		"name": "Raymond McCauley",
+		"openlink": "Open link",
+		"position": "Chair Digital Biology, Founding Faculty",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/833543,EgtN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C833543)&pageNumber=0&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Chatter Research",
+		"degreeOfConnection": "2nd",
+		"name": "Simon Foster",
+		"openlink": "Open link",
+		"position": "Founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1080641,ycQz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1080641)&pageNumber=0&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "47"
+	},
+	{
+		"company": "Sheridan College Bachelor of Interaction Design Program Advisory Board",
+		"degreeOfConnection": "2nd",
+		"name": "Ari Marc Aronson",
+		"openlink": "Open link",
+		"position": "PAC Member",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1181342,iL2p,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1181342)&pageNumber=0&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "51"
+	},
+	{
+		"company": "Brightspark Ventures",
+		"degreeOfConnection": "1st",
+		"name": "Ray Newal",
+		"openlink": "",
+		"position": "Advisor",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1267035,gExL,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1267035)&pageNumber=0&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Dumo",
+		"degreeOfConnection": "2nd",
+		"name": "Jed Schneiderman",
+		"openlink": "",
+		"position": "Advisor",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1308213,4h7L,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1308213)&pageNumber=0&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "SingularityU Canada Summit",
+		"degreeOfConnection": "2nd",
+		"name": "Krista Pawley",
+		"openlink": "",
+		"position": "Marketing and Impact",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1329363,iVyS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1329363)&pageNumber=0&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "21"
+	},
+	{
+		"company": "influenceTHIS Canada",
+		"degreeOfConnection": "1st",
+		"name": "Mark Greenspan",
+		"openlink": "",
+		"position": "Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1427251,dMhL,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1427251)&pageNumber=0&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "MISC-media",
+		"degreeOfConnection": "2nd",
+		"name": "Simon C.",
+		"openlink": "Open link",
+		"position": "Creative / Producer / Strategist ",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1596686,ca4j,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1596686)&pageNumber=0&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "48"
+	},
+	{
+		"company": "United Way Toronto & York Region",
+		"degreeOfConnection": "2nd",
+		"name": "Jennifer Campbell",
+		"openlink": "",
+		"position": "Marketing Strategy (Contract)",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1627148,Bna7,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1627148)&pageNumber=0&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "Logient",
+		"degreeOfConnection": "2nd",
+		"name": "Antoine Azar",
+		"openlink": "Open link",
+		"position": "Special Advisor",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1705739,wNGS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1705739)&pageNumber=0&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "12"
+	},
+	{
+		"company": "AMPERSAND | Growth by Design",
+		"degreeOfConnection": "2nd",
+		"name": "Roger Mader",
+		"openlink": "Open link",
+		"position": "Managing Partner",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/1750996,Xm-t,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C1750996)&pageNumber=0&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Consumer Technology Association",
+		"degreeOfConnection": "2nd",
+		"name": "Steve Koenig",
+		"openlink": "",
+		"position": "Senior Director, Market Research",
+		"region": "Washington D.C. Metro Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/2300026,8bR3,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C2300026)&pageNumber=0&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Cundari",
+		"degreeOfConnection": "2nd",
+		"name": "Aldo Cundari, CM",
+		"openlink": "Open link",
+		"position": "Chairman, CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/2740758,PN1e,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C2740758)&pageNumber=0&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "33"
+	},
+	{
+		"company": "IMC",
+		"degreeOfConnection": "2nd",
+		"name": "Stuart Sherman",
+		"openlink": "",
+		"position": "CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/2909513,J5R6,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=936482fd-d57e-4330-9317-17d02fbe289a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C2909513)&pageNumber=0&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "AmberMac Media,  Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Amber Mac",
+		"openlink": "",
+		"position": "President",
+		"region": "Other",
+		"salesLink": "https://www.linkedin.com/sales/profile/3076351,Y8My,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3076351)&pageNumber=1&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "101"
+	},
+	{
+		"company": "Sensei Labs",
+		"degreeOfConnection": "2nd",
+		"name": "Jay Goldman",
+		"openlink": "",
+		"position": "Co-Founder and Managing Director",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3156005,vyES,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3156005)&pageNumber=1&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "62"
+	},
+	{
+		"company": "MotivIndex Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Jason Partridge",
+		"openlink": "",
+		"position": "Co-founder & President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3166635,I6j3,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3166635)&pageNumber=1&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "17"
+	},
+	{
+		"company": "TruRating",
+		"degreeOfConnection": "1st",
+		"name": "Jon Horsman",
+		"openlink": "",
+		"position": "Head of TruRating Canada",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3270337,JBbJ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3270337)&pageNumber=1&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "HS Marketing",
+		"degreeOfConnection": "2nd",
+		"name": "Helen Shumilova",
+		"openlink": "",
+		"position": "Marketing Consultant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3517716,MIgh,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3517716)&pageNumber=1&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "12"
+	},
+	{
+		"company": "TWG",
+		"degreeOfConnection": "2nd",
+		"name": "Richard Switzer",
+		"openlink": "",
+		"position": "Senior Strategist",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3599119,dB3B,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3599119)&pageNumber=1&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "44"
+	},
+	{
+		"company": "hiltonbarbour.com",
+		"degreeOfConnection": "2nd",
+		"name": "Hilton Barbour",
+		"openlink": "Open link",
+		"position": "Marketing Provocateur (Independent Consultant)",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3653444,6fed,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3653444)&pageNumber=1&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "26"
+	},
+	{
+		"company": "Hummingbird Lawyers LLP",
+		"degreeOfConnection": "2nd",
+		"name": "Roy Bernhard",
+		"openlink": "",
+		"position": "CEO/Executive Director",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/3726492,ehfJ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3726492)&pageNumber=1&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "10"
+	},
+	{
+		"company": "Symbility Intersect",
+		"degreeOfConnection": "2nd",
+		"name": "Karim Awad",
+		"openlink": "",
+		"position": "VP, Product Innovation and Education",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3771667,82R-,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3771667)&pageNumber=1&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "40"
+	},
+	{
+		"company": "Magnet Search Group Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Rob Yocom",
+		"openlink": "Open link",
+		"position": "Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/3997861,iNe1,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C3997861)&pageNumber=1&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "Loblaw Digital",
+		"degreeOfConnection": "2nd",
+		"name": "Karamjot Bains",
+		"openlink": "",
+		"position": "Vice President, E-Commerce",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4154711,GBAN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4154711)&pageNumber=1&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "Element AI",
+		"degreeOfConnection": "1st",
+		"name": "Omar Dhalla",
+		"openlink": "",
+		"position": "SVP, Industry Solutions & Corporate Development",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4403495,XzQm,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4403495)&pageNumber=1&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Iron Gate - Private Wine Management",
+		"degreeOfConnection": "2nd",
+		"name": "Gregg Tilston",
+		"openlink": "",
+		"position": "Vice President Sales and Operations",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4544121,13iu,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4544121)&pageNumber=1&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "24"
+	},
+	{
+		"company": "Sales Talent Agency Inc - Canada's Best Sales Recruitment Company",
+		"degreeOfConnection": "2nd",
+		"name": "Sonya Meloff",
+		"openlink": "",
+		"position": "Founding Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4544893,gkps,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4544893)&pageNumber=1&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "100"
+	},
+	{
+		"company": "Singularity University",
+		"degreeOfConnection": "2nd",
+		"name": "Lisa Kay Solomon",
+		"openlink": "Open link",
+		"position": "Chair, Transformational Practices and Leadership",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4617887,lIhw,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4617887)&pageNumber=1&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Looking Glass Group",
+		"degreeOfConnection": "2nd",
+		"name": "Jamey Gordon",
+		"openlink": "Open link",
+		"position": "Managing Director ",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4890360,dSr8,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4890360)&pageNumber=1&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "16"
+	},
+	{
+		"company": "DEFYENT - INC",
+		"degreeOfConnection": "2nd",
+		"name": "Ryan Apps",
+		"openlink": "",
+		"position": "Managing Director + Head of Strategy",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/4950747,r8BS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C4950747)&pageNumber=1&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "57"
+	},
+	{
+		"company": "Farber Group",
+		"degreeOfConnection": "2nd",
+		"name": "Adam W Silver",
+		"openlink": "Open link",
+		"position": "Managing Director, Performance Improvement",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5243146,WSu4,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5243146)&pageNumber=1&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "JAW Advertising",
+		"degreeOfConnection": "2nd",
+		"name": "David Jones",
+		"openlink": "",
+		"position": "Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5273152,qjtz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5273152)&pageNumber=1&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "17"
+	},
+	{
+		"company": "Shift Mindset High Performance Coaching Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Andrew Srinarayan, MBA",
+		"openlink": "",
+		"position": "Certified High Performance Coach",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5340077,h6Nc,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5340077)&pageNumber=1&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "19"
+	},
+	{
+		"company": "SweetIQ Analytics Corp.",
+		"degreeOfConnection": "2nd",
+		"name": "Bradley Wing",
+		"openlink": "Open link",
+		"position": "VP Partnerships & Platform",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5343808,N36V,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5343808)&pageNumber=1&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "16"
+	},
+	{
+		"company": "Projektor Brand Image",
+		"degreeOfConnection": "2nd",
+		"name": "John Furneaux",
+		"openlink": "",
+		"position": "Principal",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5465362,v9uP,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5465362)&pageNumber=1&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "TribalScale",
+		"degreeOfConnection": "1st",
+		"name": "Sheetal Jaitly",
+		"openlink": "Open link",
+		"position": "Founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5575211,6pKk,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5575211)&pageNumber=1&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Mitsubishi Electric Sales Canada Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Candace Steinberg",
+		"openlink": "",
+		"position": "Marketing Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5639962,OZes,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5639962)&pageNumber=1&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "22"
+	},
+	{
+		"company": "Altis Professional Recruitment",
+		"degreeOfConnection": "2nd",
+		"name": "Aditi Tyagi",
+		"openlink": "Open link",
+		"position": "Professional Services",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/5724652,m9Px,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d2290777-a3ad-478c-84d1-f805e53fc3ae&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5724652)&pageNumber=1&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Adestra",
+		"degreeOfConnection": "2nd",
+		"name": "Bob Millar",
+		"openlink": "Open link",
+		"position": "Regional Director",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/5794547,OQZ2,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C5794547)&pageNumber=2&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Pela Case",
+		"degreeOfConnection": "2nd",
+		"name": "Matthew Bertulli",
+		"openlink": "Open link",
+		"position": "Co-Founder & CEO, Pela",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/6071157,1t1U,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C6071157)&pageNumber=2&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "52"
+	},
+	{
+		"company": "Quiver Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Graham Budd",
+		"openlink": "Open link",
+		"position": "Managing Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/6319880,uim-,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C6319880)&pageNumber=2&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Salsa AI",
+		"degreeOfConnection": "2nd",
+		"name": "Hessie Jones",
+		"openlink": "",
+		"position": "Cofounder and CMO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/6441502,hYVC,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C6441502)&pageNumber=2&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "50"
+	},
+	{
+		"company": "RBC",
+		"degreeOfConnection": "1st",
+		"name": "Alison Gibbins",
+		"openlink": "",
+		"position": "Technology Community Engagement Lead",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/6499097,1B5O,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(1979434747%2C6499097)&pageNumber=2&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Arcane",
+		"degreeOfConnection": "2nd",
+		"name": "Ashleigh Gough",
+		"openlink": "",
+		"position": "Vice President Client Services",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/6779911,PDwz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C6779911)&pageNumber=2&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "Universe",
+		"degreeOfConnection": "2nd",
+		"name": "Craig Follett",
+		"openlink": "Open link",
+		"position": "Co-founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/7406593,EuXI,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C7406593)&pageNumber=2&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "64"
+	},
+	{
+		"company": "Qwatro Sanitation",
+		"degreeOfConnection": "1st",
+		"name": "Bill Hennessey",
+		"openlink": "",
+		"position": "CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/7462339,RfHZ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C7462339)&pageNumber=2&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "tandem.shop",
+		"degreeOfConnection": "2nd",
+		"name": "Kris Matheson",
+		"openlink": "Open link",
+		"position": "Managing Director / Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/7742101,dBEI,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C7742101)&pageNumber=2&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "58"
+	},
+	{
+		"company": "LPi Communications Group",
+		"degreeOfConnection": "2nd",
+		"name": "Melody MacPherson",
+		"openlink": "",
+		"position": "Managing Director, VP,   Toronto office",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/7769500,hItr,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C7769500)&pageNumber=2&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "quantius",
+		"degreeOfConnection": "2nd",
+		"name": "Hassan Khan",
+		"openlink": "",
+		"position": "Chairman & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/8274585,TOdk,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C8274585)&pageNumber=2&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "22"
+	},
+	{
+		"company": "33seven",
+		"degreeOfConnection": "2nd",
+		"name": "Derryn Shrosbree",
+		"openlink": "",
+		"position": "Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/8311353,HsuN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C8311353)&pageNumber=2&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "Wikibrands",
+		"degreeOfConnection": "2nd",
+		"name": "Sean Moffitt",
+		"openlink": "",
+		"position": "Managing Director/Author/Chief Architect",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/8408935,4vPE,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C8408935)&pageNumber=2&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "167"
+	},
+	{
+		"company": "Incloud Business Solutions",
+		"degreeOfConnection": "2nd",
+		"name": "Eric Bourret",
+		"openlink": "Open link",
+		"position": "VP solutions Cloud, associé fondateur",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/8483020,m5P9,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C8483020)&pageNumber=2&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "17"
+	},
+	{
+		"company": "TWG",
+		"degreeOfConnection": "2nd",
+		"name": "Robert Domagala",
+		"openlink": "Open link",
+		"position": "General Manager - Websites, Ecommerce & Branding",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/9284032,5tPf,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C9284032)&pageNumber=2&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "70"
+	},
+	{
+		"company": "Oasis Search Group Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Stuart Calvert",
+		"openlink": "Open link",
+		"position": "Founder & Principal",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/9498188,I67_,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C9498188)&pageNumber=2&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Blockchain Learning Group Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Chami Akmeemana",
+		"openlink": "Open link",
+		"position": "Advisor",
+		"region": "Other",
+		"salesLink": "https://www.linkedin.com/sales/profile/9814982,NXN4,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C9814982)&pageNumber=2&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "60"
+	},
+	{
+		"company": "Starvox Entertainment and Marketing",
+		"degreeOfConnection": "2nd",
+		"name": "Corey Ross",
+		"openlink": "",
+		"position": "President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/9840086,oPsR,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C9840086)&pageNumber=2&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Testicular Cancer Canada",
+		"degreeOfConnection": "2nd",
+		"name": "Vincent M White",
+		"openlink": "",
+		"position": "Interim Managing Director",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/10199716,o9X4,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C10199716)&pageNumber=2&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Printchomp",
+		"degreeOfConnection": "1st",
+		"name": "Joseph Puopolo",
+		"openlink": "Open link",
+		"position": "CEO and Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/10463643,-DYV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C10463643)&pageNumber=2&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Element AI",
+		"degreeOfConnection": "2nd",
+		"name": "Megh Gupta, CPA, CMA",
+		"openlink": "Open link",
+		"position": "Director, Industry Solutions & Corporate Development",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/10587005,Zfbn,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C10587005)&pageNumber=2&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "57"
+	},
+	{
+		"company": "SweetIQ",
+		"degreeOfConnection": "2nd",
+		"name": "Liz McConomy",
+		"openlink": "",
+		"position": "Director of Marketing",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/10655839,bGPS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C10655839)&pageNumber=2&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "DoseBiome",
+		"degreeOfConnection": "2nd",
+		"name": "Ted Jin",
+		"openlink": "",
+		"position": "Founder & CEO",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/10907641,T3hK,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C10907641)&pageNumber=2&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "Indigo",
+		"degreeOfConnection": "2nd",
+		"name": "Ambles Kwok",
+		"openlink": "Open link",
+		"position": "VP, Technology and Digital Innovation",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/10926730,oXAy,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C10926730)&pageNumber=2&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "25"
+	},
+	{
+		"company": "Fibernetics Corporation",
+		"degreeOfConnection": "2nd",
+		"name": "John Stix",
+		"openlink": "",
+		"position": "Co-Founder",
+		"region": "Kitchener, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/11228327,BmsC,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=042dd68d-7c73-4eda-9f75-ad2efcf631ef&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C11228327)&pageNumber=2&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "13"
+	},
+	{
+		"company": "Rogers Media",
+		"degreeOfConnection": "2nd",
+		"name": "Sandy Marshall",
+		"openlink": "Open link",
+		"position": "Writer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/21575648,UBYg,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C21575648)&pageNumber=4&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "AAAIM",
+		"degreeOfConnection": "2nd",
+		"name": "Grace Reyes",
+		"openlink": "Open link",
+		"position": "President | 2K+ Investment Managers | $100B AUM",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/21957579,Ved2,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C21957579)&pageNumber=4&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Muskoka Brewery",
+		"degreeOfConnection": "2nd",
+		"name": "Scott Davies",
+		"openlink": "",
+		"position": "Director of Key Accounts",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/22438946,zYrq,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C22438946)&pageNumber=4&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Highline BETA",
+		"degreeOfConnection": "2nd",
+		"name": "Lauren Robinson",
+		"openlink": "",
+		"position": "Chief Operating Officer",
+		"region": "Vancouver, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/22472834,SFYM,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C22472834)&pageNumber=4&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "73"
+	},
+	{
+		"company": "B2B News Network",
+		"degreeOfConnection": "2nd",
+		"name": "Shane Schick",
+		"openlink": "Open link",
+		"position": "Editor In Chief",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/22635358,qskr,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C22635358)&pageNumber=4&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "44"
+	},
+	{
+		"company": "Collective Agreement",
+		"degreeOfConnection": "2nd",
+		"name": "Bruce W. Young",
+		"openlink": "",
+		"position": "Managing General Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/24629921,umkt,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C24629921)&pageNumber=4&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Hut2Hut Events",
+		"degreeOfConnection": "1st",
+		"name": "Duncan Payne",
+		"openlink": "",
+		"position": "President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/25184867,yQtF,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C25184867)&pageNumber=4&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Tough Mudder Inc",
+		"degreeOfConnection": "2nd",
+		"name": "Celia Mulderrig",
+		"openlink": "",
+		"position": "Ecommerce Director",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/26007654,6R7H,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C26007654)&pageNumber=4&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "ZEITDICE Inc.",
+		"degreeOfConnection": "1st",
+		"name": "Michael Schwanzer",
+		"openlink": "",
+		"position": "Founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/26068188,K1rv,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C26068188)&pageNumber=4&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "collective.iq",
+		"degreeOfConnection": "2nd",
+		"name": "natalie serkin",
+		"openlink": "",
+		"position": "President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/26699120,09uV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C26699120)&pageNumber=4&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "MotivIndex Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Ujwal Arkalgud",
+		"openlink": "Open link",
+		"position": "Chief Executive Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/26707671,CLLS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C26707671)&pageNumber=4&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Symbility Intersect",
+		"degreeOfConnection": "2nd",
+		"name": "Anthony Lipkin",
+		"openlink": "Open link",
+		"position": "Vice-President, Growth & Partnerships",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/26944535,MbXy,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C26944535)&pageNumber=4&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "63"
+	},
+	{
+		"company": "Talk Boutique",
+		"degreeOfConnection": "2nd",
+		"name": "Nick Kindler",
+		"openlink": "Open link",
+		"position": "Speaker Coach, Partner & Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/28361910,3JDl,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C28361910)&pageNumber=4&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "Intellitix",
+		"degreeOfConnection": "2nd",
+		"name": "Sean Coates",
+		"openlink": "",
+		"position": "Customer Success Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/28445796,TE0V,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C28445796)&pageNumber=4&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "21"
+	},
+	{
+		"company": "CTO Boost™",
+		"degreeOfConnection": "1st",
+		"name": "Gurminder Kandola 🚀",
+		"openlink": "Open link",
+		"position": "Co-Founder, Fractional CTO ",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/28932383,oE0G,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C28932383)&pageNumber=4&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Hubba",
+		"degreeOfConnection": "2nd",
+		"name": "Phil Chang",
+		"openlink": "Open link",
+		"position": "RetailPhil - Industry Expert and Speaker",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/30133597,pJ0T,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C30133597)&pageNumber=4&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "10"
+	},
+	{
+		"company": "Dx3 Canada (Hut2Hut Events)",
+		"degreeOfConnection": "2nd",
+		"name": "Humaira Rahman",
+		"openlink": "Open link",
+		"position": "Marketing Specialist",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/31232086,Uhpo,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C31232086)&pageNumber=4&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "GPM Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Gord Meyer",
+		"openlink": "",
+		"position": "Explorer",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/32542009,QeV5,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C32542009)&pageNumber=4&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "14"
+	},
+	{
+		"company": "Ashbury College",
+		"degreeOfConnection": "2nd",
+		"name": "Stephanie Young, CFRE",
+		"openlink": "",
+		"position": "Director Of Development",
+		"region": "Ottawa, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/32880461,7P1B,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C32880461)&pageNumber=4&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "eero",
+		"degreeOfConnection": "2nd",
+		"name": "Michael Wang",
+		"openlink": "",
+		"position": "Strategic Finance & Business Operations",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/33660537,59j7,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C33660537)&pageNumber=4&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "Nudge.ai",
+		"degreeOfConnection": "2nd",
+		"name": "Jaxson Khan",
+		"openlink": "Open link",
+		"position": "Head of Marketing",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/34437736,9b9Q,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C34437736)&pageNumber=4&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "119"
+	},
+	{
+		"company": "EVRGRN COFFEE",
+		"degreeOfConnection": "2nd",
+		"name": "James Alofs",
+		"openlink": "",
+		"position": "General Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/34613874,_hLN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C34613874)&pageNumber=4&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "21"
+	},
+	{
+		"company": "Eighty-Eight Agency",
+		"degreeOfConnection": "1st",
+		"name": "Erin Bury",
+		"openlink": "",
+		"position": "Managing Director",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/34951952,HlBN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C34951952)&pageNumber=4&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "SickKids Foundation",
+		"degreeOfConnection": "2nd",
+		"name": "Katie Graham",
+		"openlink": "",
+		"position": "Associate Director Major Gifts",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/35440303,0gwW,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C35440303)&pageNumber=4&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Richard Ivey School of Business",
+		"degreeOfConnection": "2nd",
+		"name": "David Wood",
+		"openlink": "",
+		"position": "Full Time Faculty",
+		"region": "London, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/35517903,7S5t,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=82070bb7-76da-499e-b81b-75242b4e6800&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C35517903)&pageNumber=4&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "eQuoshift",
+		"degreeOfConnection": "2nd",
+		"name": "Barry Hillier",
+		"openlink": "",
+		"position": "Co-Founder, Co-CEO, Chief Innovation Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/36173098,qrl5,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C36173098)&pageNumber=5&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "79"
+	},
+	{
+		"company": "AVIDA",
+		"degreeOfConnection": "2nd",
+		"name": "David Reale",
+		"openlink": "Open link",
+		"position": "CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/36949317,gMyz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C36949317)&pageNumber=5&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "44"
+	},
+	{
+		"company": "Popmetrics",
+		"degreeOfConnection": "2nd",
+		"name": "Andrew Lenjosek",
+		"openlink": "",
+		"position": "Co-Founder | CEO",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/37818304,o0aR,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C37818304)&pageNumber=5&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "25"
+	},
+	{
+		"company": "Agile By Design Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Nico Gonzalez",
+		"openlink": "",
+		"position": "Senior Enterperise Agile Coach",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/37956683,nf2Z,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C37956683)&pageNumber=5&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "16"
+	},
+	{
+		"company": "Detonate Group Inc",
+		"degreeOfConnection": "2nd",
+		"name": "Imraan Khan",
+		"openlink": "",
+		"position": "CEO/President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/38235860,XfyV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C38235860)&pageNumber=5&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "11"
+	},
+	{
+		"company": "Spiffy Inc.",
+		"degreeOfConnection": "1st",
+		"name": "🍺Chris Snoyer",
+		"openlink": "Open link",
+		"position": "Co-Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/38827506,3dQx,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C38827506)&pageNumber=5&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Skylight Global Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Alexander Gray",
+		"openlink": "",
+		"position": "Founder and CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/39354772,jXu1,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C39354772)&pageNumber=5&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "insurgents.io",
+		"degreeOfConnection": "2nd",
+		"name": "robin albin",
+		"openlink": "Open link",
+		"position": "Founder / Conceptual Innovator/Brand  Strategist + Sherpa  / Creative Catalyst",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/39438173,j8ZZ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C39438173)&pageNumber=5&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "AltaCorp Capital Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Tyler Press",
+		"openlink": "",
+		"position": "Associate, Investment Banking",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/39749878,jcwS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C39749878)&pageNumber=5&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Intellitix",
+		"degreeOfConnection": "2nd",
+		"name": "Peter Machalek",
+		"openlink": "",
+		"position": "Director, Brand Partnerships",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/39987771,iVnd,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C39987771)&pageNumber=5&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "13"
+	},
+	{
+		"company": "Element Oxygen Bars",
+		"degreeOfConnection": "2nd",
+		"name": "Dave McNamara",
+		"openlink": "",
+		"position": "President",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/40018738,pj-0,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C40018738)&pageNumber=5&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Gett",
+		"degreeOfConnection": "2nd",
+		"name": "Nathan Roth",
+		"openlink": "Open link",
+		"position": "Global Head of Marketing",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/40331033,HoT8,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C40331033)&pageNumber=5&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Deepnify",
+		"degreeOfConnection": "2nd",
+		"name": "Vivek V Sasikumar - MBA,B.Eng,CSCP,L6S",
+		"openlink": "",
+		"position": "Advisor - Demand Planning & Supply Chain Strategy",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/40427287,3hRq,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C40427287)&pageNumber=5&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "7"
+	},
+	{
+		"company": "CircleUp",
+		"degreeOfConnection": "2nd",
+		"name": "Kiva Dickinson",
+		"openlink": "Open link",
+		"position": "Partner, CircleUp Funds",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/41021722,h8C-,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C41021722)&pageNumber=5&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "furnishr",
+		"degreeOfConnection": "2nd",
+		"name": "Michael Van, CPA, CMA",
+		"openlink": "",
+		"position": "Co-Founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/41511137,LsOR,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C41511137)&pageNumber=5&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "31"
+	},
+	{
+		"company": "Rewordly",
+		"degreeOfConnection": "1st",
+		"name": "Mario Vasilescu",
+		"openlink": "",
+		"position": "CEO/Co-Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/41567758,VAZ9,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C41567758)&pageNumber=5&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Speaker Labs - The Science of Talk",
+		"degreeOfConnection": "2nd",
+		"name": "Eric Silverberg",
+		"openlink": "",
+		"position": "Co Founder and Talk Master",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/41737850,uO5h,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C41737850)&pageNumber=5&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "29"
+	},
+	{
+		"company": "Candy Digital",
+		"degreeOfConnection": "1st",
+		"name": "Jan Walczak",
+		"openlink": "",
+		"position": "Creative/Tech Lead",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/41782846,GRLM,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C41782846)&pageNumber=5&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Smith School of Business At Queen's University",
+		"degreeOfConnection": "2nd",
+		"name": "Stephanie Kelley",
+		"openlink": "",
+		"position": "PhD Student Management Science",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/41821925,hspB,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C41821925)&pageNumber=5&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Hiku Brands",
+		"degreeOfConnection": "2nd",
+		"name": "Alan Gertner",
+		"openlink": "",
+		"position": "CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/42269274,am3n,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C42269274)&pageNumber=5&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Slate Asset Management L.P.",
+		"degreeOfConnection": "2nd",
+		"name": "Katie Fasken",
+		"openlink": "Open link",
+		"position": "Associate, Business Development and Investor Relations",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/42631048,tx8Z,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C42631048)&pageNumber=5&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "WKBW-TV",
+		"degreeOfConnection": "2nd",
+		"name": "Ashley Rowe",
+		"openlink": "",
+		"position": "News Anchor",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/42645389,7GkZ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C42645389)&pageNumber=5&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Abacus.Agency",
+		"degreeOfConnection": "2nd",
+		"name": "Peter Reitano",
+		"openlink": "",
+		"position": "Co-Founder and CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/42805567,Un7r,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C42805567)&pageNumber=5&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "SweetIQ Analytics Corp.",
+		"degreeOfConnection": "2nd",
+		"name": "Lindsay Holesh",
+		"openlink": "",
+		"position": "Director of Agency Sales North America",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/43393783,12F9,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C43393783)&pageNumber=5&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "Toronto Is Mine Enterprises",
+		"degreeOfConnection": "2nd",
+		"name": "Timothy Eccles",
+		"openlink": "",
+		"position": "CEO & Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/44266371,usa9,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=d3fdd033-23ff-43d9-99b1-ff4aa3da811e&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C44266371)&pageNumber=5&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "12"
+	},
+	{
+		"company": "Chefs Plate",
+		"degreeOfConnection": "2nd",
+		"name": "Sarah Bugeja",
+		"openlink": "",
+		"position": "Director of Marketing, Acquisition & Growth",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/45499163,szAO,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C45499163)&pageNumber=6&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "22"
+	},
+	{
+		"company": "Symbility Intersect",
+		"degreeOfConnection": "2nd",
+		"name": "John Maden",
+		"openlink": "",
+		"position": "Director, Strategy + Analytics",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/45649891,KG1l,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C45649891)&pageNumber=6&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "33"
+	},
+	{
+		"company": "myArea.ca | Chestnut Park Real Estate Limited",
+		"degreeOfConnection": "2nd",
+		"name": "Jonathan Ferrier",
+		"openlink": "",
+		"position": "Team Leader of myArea.ca | Sales Representative",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/45770606,3n2a,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C45770606)&pageNumber=6&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Carlaw Communications",
+		"degreeOfConnection": "2nd",
+		"name": "Lauren Wasley",
+		"openlink": "",
+		"position": "Partner | Creative Content Curator",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/45982146,W40v,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C45982146)&pageNumber=6&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "AgDevCo",
+		"degreeOfConnection": "2nd",
+		"name": "Andrew Duffield",
+		"openlink": "",
+		"position": "Associate ",
+		"region": "Zambia",
+		"salesLink": "https://www.linkedin.com/sales/profile/46761725,uoeT,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C46761725)&pageNumber=6&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Astrodog Media",
+		"degreeOfConnection": "2nd",
+		"name": "Matt Hortobagyi",
+		"openlink": "",
+		"position": "Executive Producer & Co-Founder",
+		"region": "Kitchener, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/47050116,GHyJ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C47050116)&pageNumber=6&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "64"
+	},
+	{
+		"company": "Council of Canadian Innovators",
+		"degreeOfConnection": "2nd",
+		"name": "Patrick Searle",
+		"openlink": "",
+		"position": "Director of Communications",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/47067880,VVB_,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C47067880)&pageNumber=6&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Relic Entertainment",
+		"degreeOfConnection": "2nd",
+		"name": "Eliot Hong",
+		"openlink": "",
+		"position": "Community Manager",
+		"region": "Vancouver, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/47313038,puIC,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C47313038)&pageNumber=6&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Sentient Science",
+		"degreeOfConnection": "2nd",
+		"name": "Wesley Thomas",
+		"openlink": "",
+		"position": "Vice President, Rail",
+		"region": "Buffalo/Niagara, New York Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/47620617,wqN4,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C47620617)&pageNumber=6&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Leaders Expedition",
+		"degreeOfConnection": "2nd",
+		"name": "Alex Glinka",
+		"openlink": "Open link",
+		"position": "CTO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/47912438,EVfE,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C47912438)&pageNumber=6&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "28"
+	},
+	{
+		"company": "Progress Luv2Pak International",
+		"degreeOfConnection": "2nd",
+		"name": "Ben Hertzman",
+		"openlink": "",
+		"position": "Business Development",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/48659901,aQPi,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C48659901)&pageNumber=6&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "10"
+	},
+	{
+		"company": "Jacobs & Thompson",
+		"degreeOfConnection": "2nd",
+		"name": "Saad Abdo",
+		"openlink": "",
+		"position": "Plant Engineer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/48824470,Ej0M,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C48824470)&pageNumber=6&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "12"
+	},
+	{
+		"company": "Element AI",
+		"degreeOfConnection": "2nd",
+		"name": "Katy Yam",
+		"openlink": "",
+		"position": "Marketing & Communications Director",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/48917459,fVF4,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C48917459)&pageNumber=6&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "SummerxSkin",
+		"degreeOfConnection": "2nd",
+		"name": "Anum Rubec",
+		"openlink": "",
+		"position": "Founder, Content Creator, Blogger",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/50184469,Qh75,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C50184469)&pageNumber=6&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "40"
+	},
+	{
+		"company": "Intellitix",
+		"degreeOfConnection": "2nd",
+		"name": "Eric Janssen",
+		"openlink": "",
+		"position": "Chief Revenue Officer",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/50304964,vIcL,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C50304964)&pageNumber=6&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "72"
+	},
+	{
+		"company": "Institute of Communication Agencies",
+		"degreeOfConnection": "2nd",
+		"name": "Desiree Creed",
+		"openlink": "",
+		"position": "Director of Industry Partnerships ",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/51378687,8DHA,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C51378687)&pageNumber=6&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "54"
+	},
+	{
+		"company": "PropertySpark",
+		"degreeOfConnection": "2nd",
+		"name": "Nimit Narula",
+		"openlink": "",
+		"position": "Head of Sales & Success ",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/52717757,wrOX,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C52717757)&pageNumber=6&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "Book4time",
+		"degreeOfConnection": "2nd",
+		"name": "Gary Jiang",
+		"openlink": "",
+		"position": "Global Enterprise Business Development",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/52973052,T18i,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C52973052)&pageNumber=6&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Navigate Technologies Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Ben Dankiw",
+		"openlink": "",
+		"position": "Co-Founder & Managing Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/53134883,84WX,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C53134883)&pageNumber=6&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "14"
+	},
+	{
+		"company": "President's Choice Financial",
+		"degreeOfConnection": "2nd",
+		"name": "Phil Gene",
+		"openlink": "",
+		"position": "Head of PC Labs and Experience Design",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/53478109,LoyW,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C53478109)&pageNumber=6&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "16"
+	},
+	{
+		"company": "Square Crop Studios",
+		"degreeOfConnection": "1st",
+		"name": "Paul Kalra",
+		"openlink": "Open link",
+		"position": "VP, Strategy and Business Development",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/53822922,mTqD,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C53822922)&pageNumber=6&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "lululemon",
+		"degreeOfConnection": "2nd",
+		"name": "Courtney Lawrence",
+		"openlink": "",
+		"position": "Director, Whitespace Insights",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/54009984,81W2,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C54009984)&pageNumber=6&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Advanced Sales Force",
+		"degreeOfConnection": "2nd",
+		"name": "Scott Brewer",
+		"openlink": "",
+		"position": "Owner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/54521953,cFU4,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C54521953)&pageNumber=6&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "43"
+	},
+	{
+		"company": "Uberflip",
+		"degreeOfConnection": "2nd",
+		"name": "James King",
+		"openlink": "",
+		"position": "Partner Account Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/54708325,cHLN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C54708325)&pageNumber=6&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Q4 Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Scott Fletcher",
+		"openlink": "",
+		"position": "Finance Manager",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/54755254,HM5i,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=b311a592-531d-49b6-abd9-01d91dff2703&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C54755254)&pageNumber=6&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Thinkingbox",
+		"degreeOfConnection": "2nd",
+		"name": "Andrew Wadsworth",
+		"openlink": "",
+		"position": "Executive Producer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/54959725,SxFR,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C54959725)&pageNumber=7&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "adbank.network",
+		"degreeOfConnection": "1st",
+		"name": "Kelsey Cole",
+		"openlink": "Open link",
+		"position": "Co-Founder & Chief Strategy Officer",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/56968078,VxkK,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C56968078)&pageNumber=7&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Canadian College of Naturopathic Medicine",
+		"degreeOfConnection": "2nd",
+		"name": "Lauren Hauswirth",
+		"openlink": "",
+		"position": "Naturopathic Medicine • Student",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/57903646,Eh17,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C57903646)&pageNumber=7&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Versett",
+		"degreeOfConnection": "2nd",
+		"name": "Steven Ritchie",
+		"openlink": "",
+		"position": "Product Strategist",
+		"region": "Calgary, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/57966065,KLe-,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C57966065)&pageNumber=7&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "10"
+	},
+	{
+		"company": "Homewise",
+		"degreeOfConnection": "2nd",
+		"name": "Jesse Abrams",
+		"openlink": "",
+		"position": "Founder, CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/58192789,sbXy,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C58192789)&pageNumber=7&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "20"
+	},
+	{
+		"company": "Slate Asset Management L.P.",
+		"degreeOfConnection": "2nd",
+		"name": "Connor O'Brien",
+		"openlink": "",
+		"position": "Director, Asset Management",
+		"region": "Germany",
+		"salesLink": "https://www.linkedin.com/sales/profile/58196817,syIc,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C58196817)&pageNumber=7&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Hubba",
+		"degreeOfConnection": "2nd",
+		"name": "McKenzie Scott",
+		"openlink": "",
+		"position": "Director of Business Development & Customer Success",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/58231345,XkS-,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C58231345)&pageNumber=7&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Heartbeat AI Technologies Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Lana Novikova",
+		"openlink": "",
+		"position": "Founder & SheEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/58555869,iBhl,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C58555869)&pageNumber=7&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "21"
+	},
+	{
+		"company": "Apleona GVA B.V.",
+		"degreeOfConnection": "2nd",
+		"name": "Irene Purro",
+		"openlink": "",
+		"position": "Gestionnaire d'immeubles",
+		"region": "Bern Area, Switzerland",
+		"salesLink": "https://www.linkedin.com/sales/profile/58668709,DLlu,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C58668709)&pageNumber=7&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "King Street Capital Management",
+		"degreeOfConnection": "2nd",
+		"name": "Alex Apanovitch",
+		"openlink": "",
+		"position": "Economist",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/58704773,TGwE,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C58704773)&pageNumber=7&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Genumark",
+		"degreeOfConnection": "2nd",
+		"name": "Mitch Freed",
+		"openlink": "",
+		"position": "Vice President, Strategic Initiatives",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/59367212,FmWG,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C59367212)&pageNumber=7&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "ENVOY CAPITOL REALTY INC., BROKERAGE",
+		"degreeOfConnection": "2nd",
+		"name": "Norair Yeretsian",
+		"openlink": "",
+		"position": "President / Broker of Record",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/60351900,DFQA,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C60351900)&pageNumber=7&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "40"
+	},
+	{
+		"company": "Royal LePage Real Estate Services Ltd. (Brokerage)",
+		"degreeOfConnection": "2nd",
+		"name": "Shawn Venasse",
+		"openlink": "",
+		"position": "Sales Representative",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/60480064,6DOK,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C60480064)&pageNumber=7&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "15"
+	},
+	{
+		"company": "TWG",
+		"degreeOfConnection": "2nd",
+		"name": "Jonathan Buccella",
+		"openlink": "",
+		"position": "Senior Product Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/60888918,1Qim,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C60888918)&pageNumber=7&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "37"
+	},
+	{
+		"company": "Burstyn Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Margaux Carter",
+		"openlink": "Open link",
+		"position": "Manager of Operations and Accounts ",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/61692374,mMJz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C61692374)&pageNumber=7&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "DoseBiome",
+		"degreeOfConnection": "2nd",
+		"name": "Abhinav Sawhney",
+		"openlink": "",
+		"position": "Marketing Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/61717087,Lqcy,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C61717087)&pageNumber=7&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "29"
+	},
+	{
+		"company": "Flexiti Financial",
+		"degreeOfConnection": "2nd",
+		"name": "Kathryn Barban",
+		"openlink": "",
+		"position": "Marketing Director",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/62051527,kFBf,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C62051527)&pageNumber=7&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Diligen",
+		"degreeOfConnection": "2nd",
+		"name": "Aaron Baer",
+		"openlink": "",
+		"position": "Secondment to Legal Tech Company",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/62260262,SWgZ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C62260262)&pageNumber=7&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "13"
+	},
+	{
+		"company": "BD2I -------- Power of Intelligence",
+		"degreeOfConnection": "2nd",
+		"name": "Hadid Huque",
+		"openlink": "Open link",
+		"position": "Founder & AI Architect",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/62867208,rRaa,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C62867208)&pageNumber=7&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "64"
+	},
+	{
+		"company": "Riverview Capital Ltd.",
+		"degreeOfConnection": "2nd",
+		"name": "Hilary McCain",
+		"openlink": "",
+		"position": "President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/64012960,EXY0,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C64012960)&pageNumber=7&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "TWG",
+		"degreeOfConnection": "2nd",
+		"name": "Oksana Salamaszek",
+		"openlink": "",
+		"position": "Project Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/64131860,zsG_,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C64131860)&pageNumber=7&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "40"
+	},
+	{
+		"company": "Passen",
+		"degreeOfConnection": "2nd",
+		"name": "Stuart Campbell",
+		"openlink": "",
+		"position": "Founder, CEO",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/64940960,sdy0,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C64940960)&pageNumber=7&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "29"
+	},
+	{
+		"company": "Shell",
+		"degreeOfConnection": "2nd",
+		"name": "Drew Cornies",
+		"openlink": "",
+		"position": "Global Compensation Advisor, Trading and Supply",
+		"region": "London, United Kingdom",
+		"salesLink": "https://www.linkedin.com/sales/profile/65206687,HK4g,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C65206687)&pageNumber=7&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "On The Go Ads",
+		"degreeOfConnection": "2nd",
+		"name": "Chris Oliver",
+		"openlink": "",
+		"position": "Senior Vice President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/65303880,p8ud,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C65303880)&pageNumber=7&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "ADP",
+		"degreeOfConnection": "2nd",
+		"name": "Simran Patheja",
+		"openlink": "",
+		"position": "District Manager, Major Accounts",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/65334934,lcSH,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a121e9bf-e4cb-4436-af07-6f88ab6c5fb8&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C65334934)&pageNumber=7&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "GerrAudio Distribution",
+		"degreeOfConnection": "2nd",
+		"name": "Peter Snelgrove",
+		"openlink": "",
+		"position": "Director of Marketing",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/65699112,veoi,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C65699112)&pageNumber=8&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "CPQR",
+		"degreeOfConnection": "2nd",
+		"name": "Ross MacDonald",
+		"openlink": "",
+		"position": "Volunteer Patient Representative with CPQR",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/65994159,RWot,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C65994159)&pageNumber=8&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Optimé International",
+		"degreeOfConnection": "2nd",
+		"name": "Dorianne McKenzie",
+		"openlink": "",
+		"position": "Senior Consultant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/66892398,2RL_,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C66892398)&pageNumber=8&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "7"
+	},
+	{
+		"company": "DoseBiome",
+		"degreeOfConnection": "2nd",
+		"name": "Kavitha Pachagounder, MBA",
+		"openlink": "",
+		"position": "Sales Director",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/66920566,G621,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C66920566)&pageNumber=8&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "ALOE Finance Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Samuel Karamanis, CPA, CA, MFin",
+		"openlink": "Open link",
+		"position": "Financial Advisory Consultant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/67001972,A-Ff,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C67001972)&pageNumber=8&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Court Square Capital Partners",
+		"degreeOfConnection": "2nd",
+		"name": "Daniel J. Ferris",
+		"openlink": "",
+		"position": "Private Equity Associate",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/67263422,8OJV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C67263422)&pageNumber=8&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Blockchain Venture",
+		"degreeOfConnection": "2nd",
+		"name": "Dale Wang",
+		"openlink": "Open link",
+		"position": "Founder & CEO",
+		"region": "Greater Seattle Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/67672134,-8_R,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C67672134)&pageNumber=8&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Wealthsimple",
+		"degreeOfConnection": "2nd",
+		"name": "Christina Shan",
+		"openlink": "",
+		"position": "Product Manager - Wealthsimple for Advisors",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/67728580,rJqx,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C67728580)&pageNumber=8&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "20"
+	},
+	{
+		"company": "Save Cell Communications Corp.",
+		"degreeOfConnection": "2nd",
+		"name": "Ben Gigan",
+		"openlink": "",
+		"position": "Sales Associate",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/68194535,vZpO,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C68194535)&pageNumber=8&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Intellitix",
+		"degreeOfConnection": "2nd",
+		"name": "Jonathan Urbanski",
+		"openlink": "Open link",
+		"position": "Customer Success Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/69009977,VxXr,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C69009977)&pageNumber=8&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "Gold Standard Home Care",
+		"degreeOfConnection": "2nd",
+		"name": "Jamie Noskiewicz",
+		"openlink": "",
+		"position": "Sales Team Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/69490201,2Yas,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C69490201)&pageNumber=8&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Flawless Inbound",
+		"degreeOfConnection": "2nd",
+		"name": "Saher Ghattas",
+		"openlink": "",
+		"position": "Chief Revenue Officer",
+		"region": "Edmonton, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/70324219,LPWB,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C70324219)&pageNumber=8&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "50"
+	},
+	{
+		"company": "K2 Publicity",
+		"degreeOfConnection": "2nd",
+		"name": "Kara MacLean",
+		"openlink": "",
+		"position": "Co-President",
+		"region": "Greater Los Angeles Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/70823812,hHtS,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C70823812)&pageNumber=8&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Roynat Capital",
+		"degreeOfConnection": "2nd",
+		"name": "Natalie Mittler, MBA",
+		"openlink": "",
+		"position": "Senior Associate",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/70943434,yiqV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C70943434)&pageNumber=8&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "7"
+	},
+	{
+		"company": "BuskerHat",
+		"degreeOfConnection": "2nd",
+		"name": "Warren Hutton",
+		"openlink": "Open link",
+		"position": "Co-Founder & Director",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/71684209,1GLm,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C71684209)&pageNumber=8&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Rich DX Studio",
+		"degreeOfConnection": "1st",
+		"name": "Richardson Dackam",
+		"openlink": "",
+		"position": "Managing Partner and CTO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/72402666,KdtF,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C72402666)&pageNumber=8&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Cystic Fibrosis Canada",
+		"degreeOfConnection": "2nd",
+		"name": "Jennifer Stranges",
+		"openlink": "",
+		"position": "Coordinator, Corporate Communications",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/74221708,I26D,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C74221708)&pageNumber=8&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Universe.com",
+		"degreeOfConnection": "2nd",
+		"name": "Sebastian Simon",
+		"openlink": "Open link",
+		"position": "Territory Manager - East",
+		"region": "Greater New York City Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/74234035,MGPn,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C74234035)&pageNumber=8&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "Leydon Photography",
+		"degreeOfConnection": "2nd",
+		"name": "Erin Leydon",
+		"openlink": "",
+		"position": "Photographer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/74961529,pB4G,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C74961529)&pageNumber=8&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "THE TEN SPOT beauty bar",
+		"degreeOfConnection": "2nd",
+		"name": "Sarah Greco",
+		"openlink": "",
+		"position": "Chief Marketing Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/75130100,CUfT,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C75130100)&pageNumber=8&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "9"
+	},
+	{
+		"company": "CheckMate Marketing LTD",
+		"degreeOfConnection": "2nd",
+		"name": "Karan Khurana D.",
+		"openlink": "",
+		"position": "CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/75734699,Z25K,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C75734699)&pageNumber=8&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Jackman Reinvents",
+		"degreeOfConnection": "2nd",
+		"name": "Melissa Gu",
+		"openlink": "",
+		"position": "Research Consultant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/76106635,9Eg8,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C76106635)&pageNumber=8&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Hubdoc",
+		"degreeOfConnection": "2nd",
+		"name": "Sarah Chiu",
+		"openlink": "",
+		"position": "Team Lead, Customer Success",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/76896372,Iccv,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C76896372)&pageNumber=8&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "7"
+	},
+	{
+		"company": "Abacus.Agency",
+		"degreeOfConnection": "2nd",
+		"name": "Jeff Goldenberg",
+		"openlink": "Open link",
+		"position": "Co-Founder & Chief Strategy Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/76958860,6TmV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C76958860)&pageNumber=8&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "139"
+	},
+	{
+		"company": "ArcTern Ventures",
+		"degreeOfConnection": "2nd",
+		"name": "Ian Pinnington",
+		"openlink": "",
+		"position": "Investment Principal",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/76959825,e300,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=a6e3fe8f-4c03-4e0c-b340-8efdde1c91d9&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C76959825)&pageNumber=8&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Upper Canada College",
+		"degreeOfConnection": "2nd",
+		"name": "Christian Peterson",
+		"openlink": "",
+		"position": "Film Program Assistant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/77320567,tKvz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C77320567)&pageNumber=9&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Lower Valley Beverage Company",
+		"degreeOfConnection": "2nd",
+		"name": "Katherine Tremble-Taylor",
+		"openlink": "",
+		"position": "Partner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/77787928,BJ-z,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C77787928)&pageNumber=9&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "10"
+	},
+	{
+		"company": "UJET ",
+		"degreeOfConnection": "2nd",
+		"name": "Matthew Woo",
+		"openlink": "",
+		"position": "Senior Product Manager",
+		"region": "San Francisco Bay Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/77969423,2kkw,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C77969423)&pageNumber=9&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "12"
+	},
+	{
+		"company": "Agreement Express",
+		"degreeOfConnection": "2nd",
+		"name": "Marianna Adamian",
+		"openlink": "",
+		"position": "Account Executive",
+		"region": "Vancouver, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/78271651,-aVj,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C78271651)&pageNumber=9&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "7"
+	},
+	{
+		"company": "Buro",
+		"degreeOfConnection": "2nd",
+		"name": "Ahmad Ferotan",
+		"openlink": "",
+		"position": "Chief Strategy Officer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/78503163,3OgN,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C78503163)&pageNumber=9&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "12"
+	},
+	{
+		"company": "Thinkingbox",
+		"degreeOfConnection": "2nd",
+		"name": "Amir Sahba",
+		"openlink": "Open link",
+		"position": "Chief Executive Officer & Founder",
+		"region": "Vancouver, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/78519022,O4pJ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C78519022)&pageNumber=9&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Phil Pallen Collective, LLC",
+		"degreeOfConnection": "2nd",
+		"name": "Phil Pallen",
+		"openlink": "Open link",
+		"position": "Brand Strategist",
+		"region": "Greater Los Angeles Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/79506374,MM5G,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C79506374)&pageNumber=9&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "CentreCourt Developments Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Bader Elkhatib",
+		"openlink": "",
+		"position": "Associate Vice President",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/79583947,CwoI,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C79583947)&pageNumber=9&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Freelance  ",
+		"degreeOfConnection": "2nd",
+		"name": "Neha Chandrachud",
+		"openlink": "",
+		"position": "Freelance Copywriter and Content Strategist",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/79606130,KSH_,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C79606130)&pageNumber=9&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "Phil Pallen Collective, LLC",
+		"degreeOfConnection": "2nd",
+		"name": "Lauren Moore",
+		"openlink": "",
+		"position": "Content Strategist",
+		"region": "Greater Los Angeles Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/79692474,IfxO,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C79692474)&pageNumber=9&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "3"
+	},
+	{
+		"company": "C2 Montréal",
+		"degreeOfConnection": "2nd",
+		"name": "Jessica Gibbons",
+		"openlink": "",
+		"position": "Director Business Development",
+		"region": "Montreal, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/80323423,zmNG,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C80323423)&pageNumber=9&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Diamond.",
+		"degreeOfConnection": "2nd",
+		"name": "Mila Banwat",
+		"openlink": "",
+		"position": "Talent Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/80945885,F9Z1,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C80945885)&pageNumber=9&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "DIF - Infrastructure and Renewable Energy Specialists",
+		"degreeOfConnection": "2nd",
+		"name": "Antonie Furlani",
+		"openlink": "",
+		"position": "Analyst",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/80989361,-Dbt,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C80989361)&pageNumber=9&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Unbound Productions",
+		"degreeOfConnection": "2nd",
+		"name": "Natasha Aquin",
+		"openlink": "",
+		"position": "Executive Producer & Owner",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/81540287,OL1-,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C81540287)&pageNumber=9&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Canadian Fitness Professionals Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Amy S.",
+		"openlink": "",
+		"position": "Certified Fitness Instructor",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/81541052,tQ2T,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C81541052)&pageNumber=9&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Femme Fatale Media Group Inc",
+		"degreeOfConnection": "1st",
+		"name": "Emily Lyons",
+		"openlink": "Open link",
+		"position": "Founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/82044144,KNBV,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C82044144)&pageNumber=9&targetEl=profilelink&position=15&trk=lss-serp-result-lead_photo",
+		"sharedConn": "2"
+	},
+	{
+		"company": "Alberta Investment Management Corporation (AIMCo)",
+		"degreeOfConnection": "2nd",
+		"name": "Blake Macdonald",
+		"openlink": "",
+		"position": "Associate Portfolio Manager, Private Equity",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/83252434,5pvz,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C83252434)&pageNumber=9&targetEl=profilelink&position=16&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "PwC Canada",
+		"degreeOfConnection": "2nd",
+		"name": "Adrianne Markell CPA, CA, CBV",
+		"openlink": "",
+		"position": "Senior Associate, Consulting and Deals",
+		"region": "Ontario, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/83270022,nQ9U,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C83270022)&pageNumber=9&targetEl=profilelink&position=17&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Blake, Cassels & Graydon LLP",
+		"degreeOfConnection": "2nd",
+		"name": "Christopher Yeretsian",
+		"openlink": "",
+		"position": "Associate",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/83529830,m633,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C83529830)&pageNumber=9&targetEl=profilelink&position=18&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "Empire Life Investments",
+		"degreeOfConnection": "2nd",
+		"name": "Alex Rasmussen",
+		"openlink": "",
+		"position": "Senior Investment Analyst",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/84258669,z2NM,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C84258669)&pageNumber=9&targetEl=profilelink&position=19&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "MeazureUp",
+		"degreeOfConnection": "2nd",
+		"name": "Ray Abramson",
+		"openlink": "",
+		"position": "COO",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/84370084,9oTa,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C84370084)&pageNumber=9&targetEl=profilelink&position=20&trk=lss-serp-result-lead_photo",
+		"sharedConn": "25"
+	},
+	{
+		"company": "Amazon",
+		"degreeOfConnection": "2nd",
+		"name": "Andy Bath",
+		"openlink": "",
+		"position": "Analytics and Media Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/84726514,n0zq,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C84726514)&pageNumber=9&targetEl=profilelink&position=21&trk=lss-serp-result-lead_photo",
+		"sharedConn": "10"
+	},
+	{
+		"company": "Film",
+		"degreeOfConnection": "2nd",
+		"name": "Ino Yang Popper",
+		"openlink": "",
+		"position": "Cinematographer/Gaffer/1st AC/Camera Op/G&E/Sound",
+		"region": "Greater Los Angeles Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/87401352,pD7O,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C87401352)&pageNumber=9&targetEl=profilelink&position=22&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Lock Search Group",
+		"degreeOfConnection": "2nd",
+		"name": "Mike Davis",
+		"openlink": "",
+		"position": "Partner and Recruitment Consultant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/87979655,7uxO,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C87979655)&pageNumber=9&targetEl=profilelink&position=23&trk=lss-serp-result-lead_photo",
+		"sharedConn": "14"
+	},
+	{
+		"company": "SKYN Magazine",
+		"degreeOfConnection": "2nd",
+		"name": "Ashley J. Hassard",
+		"openlink": "",
+		"position": "Editor-in-Chief",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/88477754,zIKO,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=7aac4b2d-cf5a-4aff-8bdc-df57fc3f0b9a&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C88477754)&pageNumber=9&targetEl=profilelink&position=24&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Polymath",
+		"degreeOfConnection": "2nd",
+		"name": "Trevor Koverko",
+		"openlink": "Open link",
+		"position": "CEO",
+		"region": "Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/88988634,MCLd,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C88988634)&pageNumber=10&targetEl=profilelink&position=0&trk=lss-serp-result-lead_photo",
+		"sharedConn": "82"
+	},
+	{
+		"company": "True North Sports Camps",
+		"degreeOfConnection": "2nd",
+		"name": "Gabriel Diamond",
+		"openlink": "",
+		"position": "Co-Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/89451022,bCh0,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C89451022)&pageNumber=10&targetEl=profilelink&position=1&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Curvature Hedge Strategies",
+		"degreeOfConnection": "2nd",
+		"name": "Stuart Pulkinen",
+		"openlink": "",
+		"position": "Operations Associate",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/89942254,y8_6,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C89942254)&pageNumber=10&targetEl=profilelink&position=2&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "zedIT Solutions Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Derek Porter",
+		"openlink": "",
+		"position": "E-government Services Account Manager",
+		"region": "Newfoundland And Labrador, Canada",
+		"salesLink": "https://www.linkedin.com/sales/profile/90117317,zHZv,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C90117317)&pageNumber=10&targetEl=profilelink&position=3&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "higi",
+		"degreeOfConnection": "2nd",
+		"name": "Nasser Toukan",
+		"openlink": "Open link",
+		"position": "General Manager, Canada",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/90570391,6JEW,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C90570391)&pageNumber=10&targetEl=profilelink&position=4&trk=lss-serp-result-lead_photo",
+		"sharedConn": "18"
+	},
+	{
+		"company": "North Strong Collective",
+		"degreeOfConnection": "2nd",
+		"name": "Tanya Moryoussef",
+		"openlink": "",
+		"position": "Co-Founder",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/90899144,QbGw,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C90899144)&pageNumber=10&targetEl=profilelink&position=5&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "League Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Rebecca Orellana",
+		"openlink": "",
+		"position": "Marketing Manager",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/91448396,gLOa,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C91448396)&pageNumber=10&targetEl=profilelink&position=6&trk=lss-serp-result-lead_photo",
+		"sharedConn": "8"
+	},
+	{
+		"company": "Stratus Events Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Dani S Kagan",
+		"openlink": "",
+		"position": "Event Producer",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92240203,UOvD,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92240203)&pageNumber=10&targetEl=profilelink&position=7&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "Redbubble",
+		"degreeOfConnection": "2nd",
+		"name": "Emily Mason",
+		"openlink": "",
+		"position": "Product Manager",
+		"region": "Melbourne, Australia",
+		"salesLink": "https://www.linkedin.com/sales/profile/92285688,CkJs,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92285688)&pageNumber=10&targetEl=profilelink&position=8&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Hello Prosper",
+		"degreeOfConnection": "2nd",
+		"name": "Krystyn Harrison",
+		"openlink": "",
+		"position": "Founder & CEO",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92383646,RDB5,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92383646)&pageNumber=10&targetEl=profilelink&position=9&trk=lss-serp-result-lead_photo",
+		"sharedConn": "25"
+	},
+	{
+		"company": "PostBeyond",
+		"degreeOfConnection": "1st",
+		"name": "Evan Lewis",
+		"openlink": "Open link",
+		"position": "Director of Enterprise Sales",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92433857,FZx1,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92433857)&pageNumber=10&targetEl=profilelink&position=10&trk=lss-serp-result-lead_photo",
+		"sharedConn": "1"
+	},
+	{
+		"company": "Carpedia International",
+		"degreeOfConnection": "2nd",
+		"name": "Sean Kirkconnell",
+		"openlink": "",
+		"position": "Consultant",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92436289,Ozm_,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92436289)&pageNumber=10&targetEl=profilelink&position=11&trk=lss-serp-result-lead_photo",
+		"sharedConn": "5"
+	},
+	{
+		"company": "Worldsource Wealth Management Inc.",
+		"degreeOfConnection": "2nd",
+		"name": "Kevin Kim",
+		"openlink": "",
+		"position": "Business Analyst Contract",
+		"region": "Toronto, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92562476,Htit,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92562476)&pageNumber=10&targetEl=profilelink&position=12&trk=lss-serp-result-lead_photo",
+		"sharedConn": "4"
+	},
+	{
+		"company": "MEDA (Mennonite Economic Development Associates)",
+		"degreeOfConnection": "2nd",
+		"name": "Devon Krainer",
+		"openlink": "",
+		"position": "Project Manager",
+		"region": "Kitchener, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92795335,bnnf,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92795335)&pageNumber=10&targetEl=profilelink&position=13&trk=lss-serp-result-lead_photo",
+		"sharedConn": "6"
+	},
+	{
+		"company": "MetFlex-Rx",
+		"degreeOfConnection": "2nd",
+		"name": "Tommy Caldwell",
+		"openlink": "",
+		"position": "Founder",
+		"region": "London, Canada Area",
+		"salesLink": "https://www.linkedin.com/sales/profile/92798154,5SFQ,NAME_SEARCH?moduleKey=peopleSearchResults&pageKey=sales-search3-see-all-connections&contextId=ACB2915706EB181500805D223A2B0000&requestId=e22a2569-4b25-4e68-b4e1-724e63dc25a3&action=CLICK&target=urn%3Ali%3AsalesLead%3A(-1%2C92798154)&pageNumber=10&targetEl=profilelink&position=14&trk=lss-serp-result-lead_photo",
+		"sharedConn": "40"
+	}
+]

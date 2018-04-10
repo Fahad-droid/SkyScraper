@@ -1,0 +1,19 @@
+{
+  "name": "automation-tools",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "main.js",
+  "scripts": {
+    "start": "casperjs semrush-test.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahad",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta5",
+    "install": "^0.10.4",
+    "npm": "^5.6.0",
+    "phantomjs": "^2.1.7",
+    "xls-to-json-lc": "^0.3.4"
+  }
+}

@@ -1,0 +1,302 @@
+[
+	{
+		"Company": "Uber",
+		"Full Name": "Andrew Chen",
+		"Title": "Growth"
+	},
+	{
+		"Company": "Unbounce",
+		"Full Name": "Oli Gardner",
+		"Title": "Co-founder"
+	},
+	{
+		"Company": "Shopify Plus",
+		"Full Name": "Hana Abaza",
+		"Title": "Head of Marketing"
+	},
+	{
+		"Company": "Quick Sprout",
+		"Full Name": "Hiten Shah",
+		"Title": "Co-Founder"
+	},
+	{
+		"Company": "Pinterest",
+		"Full Name": "Cat Lee",
+		"Title": "Head of Culture"
+	},
+	{
+		"Company": "Mobile Monkey",
+		"Full Name": "Larry Kim",
+		"Title": "Chief Executive Officer"
+	},
+	{
+		"Company": "Slack",
+		"Full Name": "Rachel Hepworth",
+		"Title": "Head of Growth Marketing"
+	},
+	{
+		"Company": "Change.org",
+		"Full Name": "Ed Baker",
+		"Title": "Growth Advisor (Previously Uber, Facebook)"
+	},
+	{
+		"Company": "Moves the Needle",
+		"Full Name": "Brant Cooper",
+		"Title": "CEO and Founder"
+	},
+	{
+		"Company": "Web Profits",
+		"Full Name": "Sujan Patel",
+		"Title": "GM &amp; Co-Founder"
+	},
+	{
+		"Company": "Google",
+		"Full Name": "Menaka Shroff",
+		"Title": "Global Head of Marketing, Devices and Mobility"
+	},
+	{
+		"Company": "Zendesk",
+		"Full Name": "Jeff Titterton",
+		"Title": "SVP of Marketing"
+	},
+	{
+		"Company": "Foursquare",
+		"Full Name": "Marissa Chacko",
+		"Title": "Director of Consumer Products"
+	},
+	{
+		"Company": "GrowthHackers.com",
+		"Full Name": "Sean Ellis",
+		"Title": "Founder and CEO"
+	},
+	{
+		"Company": "SurveyMonkey",
+		"Full Name": "Brittany Bingham",
+		"Title": "Sr. Director, Growth Marketing"
+	},
+	{
+		"Company": "Postmates",
+		"Full Name": "Siqi Chen",
+		"Title": "VP Growth"
+	},
+	{
+		"Company": "Greylock Partners",
+		"Full Name": "Casey Winters",
+		"Title": "Growth Advisor in Residence"
+	},
+	{
+		"Company": "Google",
+		"Full Name": "Krista Seiden",
+		"Title": "Analytics Advocate"
+	},
+	{
+		"Company": "Eventbrite",
+		"Full Name": "Brian Rothenberg",
+		"Title": "Vice President &amp; General Manager"
+	},
+	{
+		"Company": "Notejoy",
+		"Full Name": "Ada Chen Rekhi",
+		"Title": "Founder &amp; COO"
+	},
+	{
+		"Company": "TheTopInbox.com",
+		"Full Name": "Nathan Latka",
+		"Title": "Chief Executive Officer"
+	},
+	{
+		"Company": "Engagio",
+		"Full Name": "Brandon Redlinger",
+		"Title": "Director of Growth"
+	},
+	{
+		"Company": "Nomiku",
+		"Full Name": "Michelle Killebrew",
+		"Title": "Chief Marketing Officer"
+	},
+	{
+		"Company": "Timeshare CMO",
+		"Full Name": "Melinda Byerley",
+		"Title": "Founding Partner"
+	},
+	{
+		"Company": "Postmates",
+		"Full Name": "Martijn Scheijbeler",
+		"Title": "Growth &amp; SEO"
+	},
+	{
+		"Company": "Autopilot HQ",
+		"Full Name": "Anne Fleshman",
+		"Title": "Senior Manager, Demand Generation - Marketing"
+	},
+	{
+		"Company": "Blitzmetrics",
+		"Full Name": "Dennis Yu",
+		"Title": "CTO"
+	},
+	{
+		"Company": "GoDaddy",
+		"Full Name": "Heather Dopson",
+		"Title": "Enterprise Social Media"
+	},
+	{
+		"Company": "Fomo",
+		"Full Name": "Ryan Kulp",
+		"Title": "Founder"
+	},
+	{
+		"Company": "Distil Networks",
+		"Full Name": "Reid Tatoris",
+		"Title": "VP, Product Outreach and Marketing"
+	},
+	{
+		"Company": "Zendesk",
+		"Full Name": "Brianne Kimmel",
+		"Title": "Growth Marketing"
+	},
+	{
+		"Company": "Prezi",
+		"Full Name": "Jim Szafranski",
+		"Title": "Chief Operating Officer"
+	},
+	{
+		"Company": "Effin Amazing",
+		"Full Name": "Dan McGaw",
+		"Title": "CEO"
+	},
+	{
+		"Company": "Omniconvert",
+		"Full Name": "Valentin Radu",
+		"Title": "CEO"
+	},
+	{
+		"Company": "Heap",
+		"Full Name": "Shawn Hansen",
+		"Title": "Chief Marketing Officer"
+	},
+	{
+		"Company": "Ops.tv",
+		"Full Name": "Conrad Wadowski",
+		"Title": "Founder &amp; CEO"
+	},
+	{
+		"Company": "Branch",
+		"Full Name": "Mada Seghete",
+		"Title": "Co-founder"
+	},
+	{
+		"Company": "Upcall",
+		"Full Name": "Samuel Devyver",
+		"Title": "CEO"
+	},
+	{
+		"Company": "Boast Capital",
+		"Full Name": "Lloyed Lobo",
+		"Title": "Co-Founder"
+	},
+	{
+		"Company": "ContentPark",
+		"Full Name": "Kimberly Barnes",
+		"Title": "Chief Heroics Officer"
+	},
+	{
+		"Company": "JustReachOut.io",
+		"Full Name": "Dmitry Dragilev",
+		"Title": "Founder"
+	},
+	{
+		"Company": "Heap",
+		"Full Name": "Matt Roe",
+		"Title": "Product Manager"
+	},
+	{
+		"Company": "Boostinsider",
+		"Full Name": "Heidi Yu",
+		"Title": "Chief Executive Officer"
+	},
+	{
+		"Company": "HipLead",
+		"Full Name": "Conor Lee",
+		"Title": "Founder"
+	},
+	{
+		"Company": "Grammarly",
+		"Full Name": "Max Lytvyn",
+		"Title": "Co-founder &amp; Head of Growth Strategy"
+	},
+	{
+		"Company": "V3 Broadsuite",
+		"Full Name": "Shelly Kramer",
+		"Title": "CEO"
+	},
+	{
+		"Company": "LInkTexting",
+		"Full Name": "Kumar Thangudu",
+		"Title": "Founder"
+	},
+	{
+		"Company": "ShowMax",
+		"Full Name": "Barron Ernst",
+		"Title": "Chief Product Officer"
+	},
+	{
+		"Company": "SEMrush",
+		"Full Name": "Maryna Hradovich",
+		"Title": "Vice President - Strategic Growth and Development"
+	},
+	{
+		"Company": "Integrated Marketing Association",
+		"Full Name": "Shawn Elledge",
+		"Title": "Founder"
+	},
+	{
+		"Company": "Ampush",
+		"Full Name": "Jesse Pujji",
+		"Title": "CEO &amp; Co-Founder"
+	},
+	{
+		"Company": "Amplitude Analytics",
+		"Full Name": "Michelle Kim",
+		"Title": "Vice President of Marketing"
+	},
+	{
+		"Company": "Queue",
+		"Full Name": "Joe Sanchis",
+		"Title": "Founder &amp; CEO"
+	},
+	{
+		"Company": "IdentityLabs",
+		"Full Name": "Clayton Wood",
+		"Title": "Founder&amp;CEO"
+	},
+	{
+		"Company": "Makesbridge ",
+		"Full Name": "Jay Adams",
+		"Title": "President and CEO"
+	},
+	{
+		"Company": "Pyze Inc.",
+		"Full Name": "Prabhjot Singh",
+		"Title": "Co-Founder &amp; President"
+	},
+	{
+		"Company": "Enventys Partners",
+		"Full Name": "Roy Morejon",
+		"Title": "President"
+	},
+	{
+		"Company": "McKinsey &amp; Company",
+		"Full Name": "Brian Goffman",
+		"Title": "Vice President &amp; General Manager"
+	},
+	{
+		"Company": " Spark Media Solutions",
+		"Full Name": "David Spark",
+		"Title": "Founder"
+	},
+	{
+		"Company": "Vulpine Interactive",
+		"Full Name": "Derric Haynie",
+		"Title": "CEO"
+	}
+]

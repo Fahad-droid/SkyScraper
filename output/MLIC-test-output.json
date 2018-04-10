@@ -1,0 +1,26 @@
+[
+	{
+		"domain": "zymsys.com",
+		"index": 2,
+		"org_cost": "",
+		"sem_cost": ""
+	},
+	{
+		"index": 3,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	},
+	{
+		"domain": "zymewire.com",
+		"index": 4,
+		"org_cost": "$0",
+		"sem_cost": "$0"
+	},
+	{
+		"index": 5,
+		"domain": "",
+		"org_cost": null,
+		"sem_cost": null
+	}
+]

@@ -1,0 +1,998 @@
+[
+  {
+    "Name": "Tamir Bar-Haim",
+    "Position": "Country Manager",
+    "Company": "Amazon",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Leanne Gibson",
+    "Position": "Managing Director",
+    "Company": "Twitter",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Theresa McLaughlin",
+    "Position": "EVP & Global CMO",
+    "Company": "TD Bank Group",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Sal Patel",
+    "Position": "Managing Content Producer",
+    "Company": "TIFF",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Jeff Miller",
+    "Position": "Global Head of Creative Strategy",
+    "Company": "Snapchat",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Katy Yam",
+    "Position": "Marketing & Communications Director",
+    "Company": "Element AI",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Richard Wong",
+    "Position": "VP Marketing",
+    "Company": "#paid",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Meagan Tanner",
+    "Position": "Strategic Partner Manager",
+    "Company": "Google",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "James Connell",
+    "Position": "VP, Ecommerce & Martketing",
+    "Company": "Roots Canada",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Kristy Bates",
+    "Position": "Corporate Partnerships",
+    "Company": "Uber",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Wim Stocks",
+    "Position": "General Manager & CEO",
+    "Company": "WorldGaming",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Josh Hudson",
+    "Position": "Creative Director",
+    "Company": "Amazon",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Chris Laver",
+    "Position": "Distinguished Data Scientist, Machine Learning &am...",
+    "Company": "RBC",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Fatima Zaidi",
+    "Position": "VP Business Development",
+    "Company": "Eighty-Eight",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Alan Smith",
+    "Position": "Co-Founder",
+    "Company": "Strategyzer",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Mandy Gilbert",
+    "Position": "CEO",
+    "Company": "Creative Niche",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Amber Mac",
+    "Position": "President",
+    "Company": "AmberMac Media",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "April Dunford",
+    "Position": "Former CEO",
+    "Company": "Sprintly",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Eric Abrams",
+    "Position": "Managing Director, eCommerce & Online Publishi...",
+    "Company": "IZEA",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Steve Koenig",
+    "Position": "Senior Director, Market Research",
+    "Company": "The Consumer Technology Association",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Wyatt Shaw",
+    "Position": "Co-Founder & CEO",
+    "Company": "Portl Media",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Karim Awad",
+    "Position": "VP, Product Innovation",
+    "Company": "Symbility Intersect",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Jonathan Litwack",
+    "Position": "Director of Experience Design",
+    "Company": "Bensimon Byrne",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Lindsay Holesh",
+    "Position": "Director of Agency Sales North America",
+    "Company": "SweetIQ",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "James Rubec",
+    "Position": "Product Manager Director",
+    "Company": "Cision Canada",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Alan Smithson",
+    "Position": "Co-Founder & CEO",
+    "Company": "MetaVRse",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Brad Wing",
+    "Position": "VP Partnerships",
+    "Company": "SweetIQ",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "Christopher Dick",
+    "Position": "Director of Production",
+    "Company": "AmberMac Media",
+    "Source": "Speakers list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "5Crowd",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Account Planning Group of Canada",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Art & Science",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "BILD",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Blue Link ERP",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "CISION",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Camp Tech",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Canadian Virtual Gurus",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Captivate Network",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Courier Gateway",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Craft PR",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Creative Niche",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "DMZ at Ryerson University",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Design Exchange",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Detonate Group",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Diabetes Canada",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Dynamicly",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "EY",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Environics Analytics",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "FoneSaver",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "HackerNest",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "IZEA",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Inbox Marketer",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Juniper Life Insurance",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Kinetic Commerce",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Liferay",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "MCI Group",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "MediaNet",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Metracon Travel Group Inc.",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Mrkt360",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Mrkt365",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Online Retail Today",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Packetlabs",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "PayPal",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Prime Data",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Rangle.io",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Retail Insider",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Retreaver",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Rhinocharge",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Royal Roads University",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "SDL",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Sitecore",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Spotful",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Square Canada Inc.",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Stinson",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "SweetIQ",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Symbility Intersect",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Twitter",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Vigorate Digital Solutions",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Vitamin T",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Voices.com",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "Warren’s Waterless Printing",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "censhare",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "",
+    "Company": "iGotcha Media",
+    "Source": "Sponsors list"
+  },
+  {
+    "Name": "",
+    "Position": "Partner",
+    "Company": "EY",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director, Digital Marketing & eCommerce",
+    "Company": "Allstate Insurance",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Marketing Director",
+    "Company": "Benefit Cosmetics",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Manager",
+    "Company": "Brand & Partnerships",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Canadian Olympic Committee",
+    "Company": "",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of Marketing Services",
+    "Company": "Coca-Cola",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Sr Director Branded Entertainment and Experience",
+    "Company": "Corus",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of Marketing, Imaging Products",
+    "Company": "Fujifilm Canada",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP Customer Development",
+    "Company": "Johnson & Johnson, Canada",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Business Development Director - Digital Signage So...",
+    "Company": "LG",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "AVP, Channel Mktg & Comms",
+    "Company": "LoyaltyOne",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Marketing Director",
+    "Company": "Mars",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP- Digital Payments & Labs",
+    "Company": "Mastercard",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Marketing Director",
+    "Company": "Mattel",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CIO",
+    "Company": "PepsiCo Canada",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Digital Strategist",
+    "Company": "Purina",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "President",
+    "Company": "SPC",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP, Marketing",
+    "Company": "The Body Shop",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director",
+    "Company": "VISA",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Account Executive, Enterprise",
+    "Company": "Apple",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Business Development, Mobility Solutions",
+    "Company": "Apple",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Vice President, Exchange Traded Funds",
+    "Company": "BMO",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CTO",
+    "Company": "Cineplex",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "EVP & CTO",
+    "Company": "Indigo",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "President",
+    "Company": "Kit and Ace",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CIO",
+    "Company": "Longo’s",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Founding Partner",
+    "Company": "William Ashley",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of Store Operations",
+    "Company": "Brika",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director, Retail & Major Accounts",
+    "Company": "Canada Post",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "AVP, Business Development/Digital",
+    "Company": "Canadian Tire",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director",
+    "Company": "Restaurant Systems and E-Commerce",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Cara Operations Limited",
+    "Company": "",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director, Digital Sales & Strategy",
+    "Company": "CIBC",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of Marketing Foot Locker Canada Foot Lock...",
+    "Company": "",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": ", Advertising & Communications",
+    "Company": "Longo’s",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director, Restaurant Technology",
+    "Company": "McDonalds",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP Marketing",
+    "Company": "Pickle Barrel Restaurants",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Creative Director",
+    "Company": "Pizza Pizza",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director Payment Innovation",
+    "Company": "RBC",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director, Digital and Design",
+    "Company": "RBC",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of Omni-Channel Commerce",
+    "Company": "Roots",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP, Marketing",
+    "Company": "Shoppers Drugmart",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Co-Founder",
+    "Company": "#paid",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Co-Founder",
+    "Company": "5Crowd",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CEO",
+    "Company": "Inbox Marketer",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Partner, Global Head of Studio",
+    "Company": "Sid Lee",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Partner, VP Marketing & Sales",
+    "Company": "Altima",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Sr. Account Director",
+    "Company": "Ariad",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Head of Strategy and Business Dev",
+    "Company": "Catalyst",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Group Account Director",
+    "Company": "GREY Canada",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of Content Creation",
+    "Company": "Traffik Group",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP Growth and Innovation",
+    "Company": "Veritas",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Strategic Planner",
+    "Company": "DentsuBos",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Associate Media Director",
+    "Company": "Ogilvy",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Creative Operations Manager",
+    "Company": "T1",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP Growth and Innovation",
+    "Company": "Veritas",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Associate Creative Director",
+    "Company": "Razorfish",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "President",
+    "Company": "Twist Marketing",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Managing Director",
+    "Company": "Ogilvy",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP Strategy & Partnerships",
+    "Company": "Yellow Pages",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Co-Founder & CEO",
+    "Company": "Collective IQ",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Marketing Manager",
+    "Company": "Notable",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Head of Marketing",
+    "Company": "Rangle.Io",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Founder & CEO",
+    "Company": "Dollarwise",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CEO",
+    "Company": "dubdub",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Co-Founder/CEO",
+    "Company": "Klothed",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CMO and Chief Product Officer",
+    "Company": "Moneris",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CEO",
+    "Company": "Vantage",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director, Strategic Partnerships",
+    "Company": "Acuity Ads",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Director of National Sales",
+    "Company": "Captivate Network",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Vice President, Strategic Communications",
+    "Company": "CNW",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "VP Growth & Partnerships",
+    "Company": "Symbility Intersect",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Media Sales Manager",
+    "Company": "BBM",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Account Executive, Client Development",
+    "Company": "Cisco",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Manager, Digital and Creative",
+    "Company": "Metrolinx",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Account Executive",
+    "Company": "Salesforce",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Communications Manager",
+    "Company": "Square, Canada",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Senior Sales Executive",
+    "Company": "TruRating",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Account Executive",
+    "Company": "Waze",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "President & CEO",
+    "Company": "ecobee",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "CEO",
+    "Company": "Ritual",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "COO",
+    "Company": "Chasetech",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Venture Partner",
+    "Company": "Real Ventures",
+    "Source": "Hand-out"
+  },
+  {
+    "Name": "",
+    "Position": "Brand and Partnerships",
+    "Company": "Chefs Plate",
+    "Source": "Hand-out"
+  }
+ ]
